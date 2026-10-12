@@ -20,7 +20,7 @@ const outDir = join(root, 'content/events');
 mkdirSync(outDir, { recursive: true });
 
 async function getText(url: string): Promise<string> {
-  const res = await fetch(url, { signal: AbortSignal.timeout(20_000), headers: { 'user-agent': 'Reclo events (+https://github.com/nweinberg97/reclo)' } });
+  const res = await fetch(url, { signal: AbortSignal.timeout(20_000), headers: { 'user-agent': 'Reclo events (+https://github.com/nweinberg97/Reclo)' } });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.text();
 }

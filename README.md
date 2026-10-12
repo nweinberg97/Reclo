@@ -4,7 +4,7 @@
 
 Reclo is a free, searchable notebook of the best places to eat, stay and go in the world's great cities. Every pick is backed by at least two independent sources, linked and dated. Nobody can pay to be listed. No accounts, no cookies, no tracking.
 
-- Live site: https://nweinberg97.github.io/reclo/ (once GitHub Pages is enabled, see Deploy)
+- Live site: https://nweinberg97.github.io/Reclo/ (once GitHub Pages is enabled, see Deploy)
 - How ranking works: `/how-reclo-ranks/` on the site, and `src/ranking/rank.ts`
 - Design: [`DESIGN.md`](DESIGN.md) · Decisions: [`DECISIONS.md`](DECISIONS.md) · Review notes: [`NOTES.md`](NOTES.md)
 
@@ -27,7 +27,7 @@ Requires Node 22+.
 npm install
 npx playwright install chromium   # for share images and end-to-end tests
 npm run build                      # validate, rank, render pages + share images into dist/
-npm run preview                    # http://localhost:4321/reclo/
+npm run preview                    # http://localhost:4321/Reclo/
 ```
 
 `npm run build:fast` skips share images for quick iteration.

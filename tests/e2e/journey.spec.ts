@@ -5,6 +5,7 @@
  * Run after `npm run build` (the share images must exist).
  */
 import { expect, test } from 'playwright/test';
+import { SITE } from '../../src/site/config.ts';
 
 test('land, open a city, browse a list, open a pick and share it', async ({ page, context, browserName }) => {
   if (browserName === 'chromium') await context.grantPermissions(['clipboard-read', 'clipboard-write']);
@@ -36,7 +37,7 @@ test('land, open a city, browse a list, open a pick and share it', async ({ page
   // Link preview is designed and present.
   const og = await page.locator('meta[property="og:image"]').getAttribute('content');
   expect(og).toMatch(/\/og\/vancouver\/restaurants\/.+\.png$/);
-  const ogRes = await page.request.get(new URL(og!).pathname.replace(/^\/reclo\//, './'));
+  const ogRes = await page.request.get(new URL(og!).pathname.replace(SITE.base, './'));
   expect(ogRes.status()).toBe(200);
   expect(ogRes.headers()['content-type']).toBe('image/png');
 
@@ -92,7 +93,7 @@ test('every page has one h1, a canonical URL and no broken internal links on the
     await expect(page.locator('link[rel="canonical"]')).toHaveAttribute('href', /^https:\/\//);
   }
   await page.goto('./toronto/things-to-do/');
-  const hrefs = await page.locator('main a[href^="/reclo/"]').evaluateAll((as) => as.map((a) => (a as HTMLAnchorElement).getAttribute('href')!));
+  const hrefs = await page.locator(`main a[href^="${SITE.base}"]`).evaluateAll((as) => as.map((a) => (a as HTMLAnchorElement).getAttribute('href')!));
   for (const href of [...new Set(hrefs)].slice(0, 40)) {
     const res = await page.request.get(href);
     expect(res.status(), href).toBe(200);

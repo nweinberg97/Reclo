@@ -2,7 +2,7 @@
  * Site-wide settings. Override at build time with environment variables, e.g.
  *   RECLO_SITE_URL=https://reclo.example npm run build
  */
-const siteUrl = (process.env.RECLO_SITE_URL ?? 'https://nweinberg97.github.io/reclo').replace(/\/+$/, '');
+const siteUrl = (process.env.RECLO_SITE_URL ?? 'https://nweinberg97.github.io/Reclo').replace(/\/+$/, '');
 
 export const SITE = {
   name: 'Reclo',
@@ -11,8 +11,8 @@ export const SITE = {
   /** Path prefix for every link, with leading and trailing slash, e.g. "/reclo/". */
   base: `${new URL(siteUrl).pathname.replace(/\/+$/, '')}/`,
   /** Where "Tell us" goes. A simple public form; no account needed to read, a GitHub account to post. */
-  feedbackUrl: process.env.RECLO_FEEDBACK_URL ?? 'https://github.com/nweinberg97/reclo/issues/new',
-  repoUrl: 'https://github.com/nweinberg97/reclo',
+  feedbackUrl: process.env.RECLO_FEEDBACK_URL ?? 'https://github.com/nweinberg97/Reclo/issues/new',
+  repoUrl: 'https://github.com/nweinberg97/Reclo',
   locale: 'en',
 };
 

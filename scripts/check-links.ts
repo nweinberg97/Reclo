@@ -42,7 +42,7 @@ for (const city of readdirSync(listsDir)) {
 type Outcome = { kind: 'ok' } | { kind: 'broken'; detail: string } | { kind: 'unknown'; detail: string };
 
 async function check(url: string): Promise<Outcome> {
-  const opts = { redirect: 'follow' as const, signal: AbortSignal.timeout(15_000), headers: { 'user-agent': 'Mozilla/5.0 (compatible; RecloLinkCheck/1.0; +https://github.com/nweinberg97/reclo)' } };
+  const opts = { redirect: 'follow' as const, signal: AbortSignal.timeout(15_000), headers: { 'user-agent': 'Mozilla/5.0 (compatible; RecloLinkCheck/1.0; +https://github.com/nweinberg97/Reclo)' } };
   try {
     let res = await fetch(url, { ...opts, method: 'HEAD' });
     if (res.status === 405 || res.status === 403 || res.status === 400) res = await fetch(url, { ...opts, method: 'GET' });
