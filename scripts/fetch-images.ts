@@ -58,6 +58,9 @@ const overridesPath = join(root, 'content/image-overrides.json');
 const overrides: Record<string, Override> = existsSync(overridesPath) ? JSON.parse(readFileSync(overridesPath, 'utf8')) : {};
 const optoutPath = join(root, 'content/image-optout.json');
 const optout: string[] = existsSync(optoutPath) ? JSON.parse(readFileSync(optoutPath, 'utf8')) : [];
+const linksPath = join(root, 'content/place-links.json');
+/** Official websites and Wikipedia articles found by research, keyed like the manifest. */
+const links: Record<string, { website?: string | null; wikipedia?: string | null }> = existsSync(linksPath) ? JSON.parse(readFileSync(linksPath, 'utf8')) : {};
 const review: string[] = [];
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -107,8 +110,9 @@ async function entities(ids: string[]): Promise<Entity[]> {
 }
 
 /** Finds the Wikidata item for a place: name must match and it must be within reach of the city. */
-async function findPlace(name: string, city: { latitude: number; longitude: number }, maxKm: number): Promise<{ entity: Entity; file: string } | null> {
-  const queries = [name, name.replace(/\s*\(.*?\)\s*/g, ' ').replace(/,.*$/, '').trim()];
+async function findPlace(name: string, city: { latitude: number; longitude: number }, maxKm: number, cityName?: string): Promise<{ entity: Entity; file: string } | null> {
+  const short = name.replace(/\s*\(.*?\)\s*/g, ' ').replace(/,.*$/, '').trim();
+  const queries = [...new Set([name, short, cityName ? `${short} ${cityName}` : short])];
   const seen = new Set<string>();
   for (const q of queries) {
     const res = await getJson<{ search: { id: string; label?: string }[] }>(
@@ -154,23 +158,65 @@ async function commonsInfo(file: string): Promise<{ url: string; credit: string;
 
 // ---------- The place's own share image ----------
 
-async function websiteImage(site: string): Promise<{ url: string; credit: string; sourceUrl: string } | null> {
+/**
+ * Photo candidates from a place's own website, best first: its share image
+ * (og:image / twitter:image), images in its structured data, then large
+ * images on the page itself. Logos, icons and sprites are skipped by name;
+ * the rest are checked visually in save().
+ */
+async function websiteCandidates(site: string): Promise<{ urls: string[]; credit: string; sourceUrl: string } | null> {
   try {
     const res = await fetch(site, { headers: { 'user-agent': `Mozilla/5.0 (compatible; ${UA})`, accept: 'text/html' }, redirect: 'follow', signal: AbortSignal.timeout(15_000) });
     if (!res.ok) return null;
-    const html = (await res.text()).slice(0, 400_000);
+    const html = (await res.text()).slice(0, 800_000);
+    const base = res.url;
+    const found: string[] = [];
+    const add = (raw: string | undefined) => {
+      if (!raw) return;
+      try {
+        const u = new URL(raw.replace(/&amp;/g, '&').trim(), base).toString();
+        if (!/^https?:/.test(u) || /logo|icon|favicon|sprite|badge|avatar|placeholder|\.svg(\?|$)|\.gif(\?|$)/i.test(u)) return;
+        if (!found.includes(u)) found.push(u);
+      } catch {
+        /* not a URL */
+      }
+    };
     const meta = (prop: string) =>
       html.match(new RegExp(`<meta[^>]+(?:property|name)=["']${prop}["'][^>]*content=["']([^"']+)["']`, 'i'))?.[1] ??
       html.match(new RegExp(`<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["']${prop}["']`, 'i'))?.[1];
-    const raw = meta('og:image') ?? meta('og:image:url') ?? meta('twitter:image');
-    if (!raw) return null;
-    const url = new URL(raw.replace(/&amp;/g, '&'), res.url).toString();
-    if (!/^https?:/.test(url)) return null;
-    const host = new URL(res.url).hostname.replace(/^www\./, '');
-    return { url, credit: host, sourceUrl: site };
+    add(meta('og:image'));
+    add(meta('og:image:url'));
+    add(meta('twitter:image'));
+    for (const m of html.matchAll(/"image"\s*:\s*(?:\[\s*)?"([^"]+)"/g)) add(m[1]);
+    for (const m of html.matchAll(/<img\b[^>]*>/gi)) {
+      const tag = m[0];
+      const srcset = tag.match(/\b(?:data-)?srcset=["']([^"']+)["']/i)?.[1];
+      if (srcset) {
+        const biggest = srcset
+          .split(',')
+          .map((part) => part.trim().split(/\s+/))
+          .map(([u, w]) => ({ u, w: parseInt(w ?? '0', 10) || 0 }))
+          .sort((a, b) => b.w - a.w)[0];
+        add(biggest?.u);
+      }
+      add(tag.match(/\b(?:data-src|data-lazy-src|src)=["']([^"']+)["']/i)?.[1]);
+    }
+    for (const m of html.matchAll(/background-image\s*:\s*url\(["']?([^"')]+)["']?\)/gi)) add(m[1]);
+    const host = new URL(base).hostname.replace(/^www\./, '');
+    return { urls: found.slice(0, 12), credit: host, sourceUrl: site };
   } catch {
     return null;
   }
+}
+
+/** A free image chosen by Wikipedia editors for an article (page_image_free), as a Commons file title. */
+async function wikipediaImage(articleUrl: string): Promise<string | null> {
+  const title = decodeURIComponent(new URL(articleUrl).pathname.replace(/^\/wiki\//, ''));
+  const data = await getJson<{ query: { pages: Record<string, { pageprops?: { page_image_free?: string } }> } }>(
+    `https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&ppprop=page_image_free&redirects=1&titles=${encodeURIComponent(title)}&format=json`,
+  );
+  const file = Object.values(data.query.pages)[0]?.pageprops?.page_image_free;
+  return file ? `File:${file}` : null;
 }
 
 // ---------- Download + resize ----------
@@ -234,7 +280,7 @@ async function save(key: string, url: string, meta: Omit<ImageRecord, 'file' | '
   }
 }
 
-async function resolve(key: string, opts: { name: string; city: { latitude: number; longitude: number } | null; website: string | null; maxKm: number; qid?: string | null }): Promise<void> {
+async function resolve(key: string, opts: { name: string; cityName?: string; city: { latitude: number; longitude: number } | null; website: string | null; maxKm: number; qid?: string | null }): Promise<void> {
   if (ONLY && !key.startsWith(ONLY)) return;
   const ov = overrides[key];
   if (ov?.block || optout.includes(key)) {
@@ -253,11 +299,16 @@ async function resolve(key: string, opts: { name: string; city: { latitude: numb
     matched = opts.qid;
   }
   if (!file && opts.city && !ov?.use) {
-    const found = await findPlace(opts.name, opts.city, opts.maxKm);
+    const found = await findPlace(opts.name, opts.city, opts.maxKm, opts.cityName);
     if (found) {
       file = found.file;
       matched = `${found.entity.id} (${found.entity.labels?.en?.value ?? ''})`;
     }
+  }
+  const link = links[key];
+  if (!file && link?.wikipedia && !ov?.use) {
+    file = await wikipediaImage(link.wikipedia).catch(() => null);
+    if (file) matched = `Wikipedia ${link.wikipedia}`;
   }
   if (file) {
     const info = await commonsInfo(file);
@@ -270,15 +321,25 @@ async function resolve(key: string, opts: { name: string; city: { latitude: numb
       }
     }
   }
-  // 2. The place's own share image.
-  const direct = ov?.use && /^https:/.test(ov.use) ? { url: ov.use, credit: new URL(ov.use).hostname.replace(/^www\./, ''), sourceUrl: opts.website ?? ov.use } : null;
-  const site = direct ?? (opts.website ? await websiteImage(opts.website) : null);
-  if (site) {
-    const rec = await save(key, site.url, { kind: 'website', credit: site.credit, license: null, sourceUrl: site.sourceUrl });
+  // 2. A photo from the place's own website.
+  const website = opts.website ?? link?.website ?? null;
+  if (ov?.use && /^https:/.test(ov.use)) {
+    const rec = await save(key, ov.use, { kind: 'website', credit: new URL(ov.use).hostname.replace(/^www\./, ''), license: null, sourceUrl: website ?? ov.use });
     if (rec) {
       manifest[key] = rec;
-      review.push(`- ✓ ${key} ← website ${site.url}`);
+      review.push(`- ✓ ${key} ← override ${ov.use}`);
       return;
+    }
+  }
+  const site = website ? await websiteCandidates(website) : null;
+  if (site) {
+    for (const url of site.urls) {
+      const rec = await save(key, url, { kind: 'website', credit: site.credit, license: null, sourceUrl: site.sourceUrl });
+      if (rec) {
+        manifest[key] = rec;
+        review.push(`- ✓ ${key} ← website ${url}`);
+        return;
+      }
     }
   }
   review.push(`- · ${key}: no photo found, illustration will be used`);
@@ -305,6 +366,7 @@ for (const cityId of readdirSync(listsDir)) {
     for (const e of list.entries) {
       await resolve(`${cityId}/${list.category}/${e.id}`, {
         name: e.name,
+        cityName: cities.find((c) => c.id === cityId)?.name,
         city: centres.get(cityId) ?? null,
         website: e.website,
         // Day trips (mountains, parks) can sit a little outside the city.

@@ -10,6 +10,7 @@ on:
       - 'content/cities.json'
       - 'content/image-overrides.json'
       - 'content/image-optout.json'
+      - 'content/place-links.json'
       - 'scripts/fetch-images.ts'
       - '.github/workflows/images.yml'
   workflow_dispatch:
