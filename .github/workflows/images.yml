@@ -1,0 +1,59 @@
+# Finds and saves a photo for every city and pick (see scripts/fetch-images.ts),
+# commits them to content/images, then redeploys the site.
+name: Photos
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/lists/**'
+      - 'content/cities.json'
+      - 'content/image-overrides.json'
+      - 'content/image-optout.json'
+      - 'scripts/fetch-images.ts'
+      - '.github/workflows/images.yml'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Refetch every photo'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: photos
+  cancel-in-progress: false
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - name: Find and save photos
+        run: npx tsx scripts/fetch-images.ts ${{ inputs.force && '--force' || '' }}
+      - name: Commit new photos
+        id: commit
+        run: |
+          git config user.name "reclo-photos[bot]"
+          git config user.email "reclo-photos@users.noreply.github.com"
+          git add content/images
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update photos" -m "Found by scripts/fetch-images.ts; see content/images/REVIEW.md"
+            git pull --rebase origin main
+            git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Redeploy the site with the new photos
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main

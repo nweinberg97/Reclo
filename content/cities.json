@@ -9,7 +9,8 @@
     "accent": "#1E5E52",
     "accentInk": "#FFFFFF",
     "pattern": "waves",
-    "tagline": "Mountains at the end of the street, and dinner worth the rain."
+    "tagline": "Mountains at the end of the street, and dinner worth the rain.",
+    "wikidata": "Q24639"
   },
   {
     "id": "toronto",
@@ -21,7 +22,8 @@
     "accent": "#A8382B",
     "accentInk": "#FFFFFF",
     "pattern": "stripes",
-    "tagline": "A city of neighbourhoods, each with its own idea of dinner."
+    "tagline": "A city of neighbourhoods, each with its own idea of dinner.",
+    "wikidata": "Q172"
   },
   {
     "id": "new-york",
@@ -33,7 +35,8 @@
     "accent": "#F2C230",
     "accentInk": "#1B2A4A",
     "pattern": "grid",
-    "tagline": "Everything, all the time, and a slice at 2 a.m."
+    "tagline": "Everything, all the time, and a slice at 2 a.m.",
+    "wikidata": "Q60"
   },
   {
     "id": "london",
@@ -45,7 +48,8 @@
     "accent": "#1F3F8F",
     "accentInk": "#FFFFFF",
     "pattern": "dots",
-    "tagline": "Old streets, new kitchens, and a free museum for every mood."
+    "tagline": "Old streets, new kitchens, and a free museum for every mood.",
+    "wikidata": "Q84"
   },
   {
     "id": "paris",
@@ -57,7 +61,8 @@
     "accent": "#5A4A8C",
     "accentInk": "#FFFFFF",
     "pattern": "arches",
-    "tagline": "Long lunches, small bars, and a bridge for every walk home."
+    "tagline": "Long lunches, small bars, and a bridge for every walk home.",
+    "wikidata": "Q90"
   },
   {
     "id": "tokyo",
@@ -69,7 +74,8 @@
     "accent": "#C2255C",
     "accentInk": "#FFFFFF",
     "pattern": "petals",
-    "tagline": "Ten-seat counters and treasures hidden in train stations."
+    "tagline": "Ten-seat counters and treasures hidden in train stations.",
+    "wikidata": "Q1490"
   },
   {
     "id": "barcelona",
@@ -81,7 +87,8 @@
     "accent": "#E8963A",
     "accentInk": "#1B2A4A",
     "pattern": "sun",
-    "tagline": "Late dinners, early swims, and Gaudí around the corner."
+    "tagline": "Late dinners, early swims, and Gaudí around the corner.",
+    "wikidata": "Q1492"
   },
   {
     "id": "lisbon",
@@ -93,7 +100,8 @@
     "accent": "#2A62B0",
     "accentInk": "#FFFFFF",
     "pattern": "tiles",
-    "tagline": "Seven hills, yellow trams, and custard tarts still warm."
+    "tagline": "Seven hills, yellow trams, and custard tarts still warm.",
+    "wikidata": "Q597"
   },
   {
     "id": "mexico-city",
@@ -105,7 +113,8 @@
     "accent": "#C4146F",
     "accentInk": "#FFFFFF",
     "pattern": "zigzag",
-    "tagline": "Taco stands at dawn, tasting menus at dusk."
+    "tagline": "Taco stands at dawn, tasting menus at dusk.",
+    "wikidata": "Q1489"
   },
   {
     "id": "seoul",
@@ -117,6 +126,7 @@
     "accent": "#1F7468",
     "accentInk": "#FFFFFF",
     "pattern": "blocks",
-    "tagline": "Palaces, night markets, and barbecue past midnight."
+    "tagline": "Palaces, night markets, and barbecue past midnight.",
+    "wikidata": "Q8684"
   }
 ]

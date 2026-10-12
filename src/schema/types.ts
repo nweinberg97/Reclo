@@ -37,6 +37,8 @@ export interface City {
   pattern: PatternId;
   /** One short line in Reclo's voice that appears on the cover. */
   tagline: string;
+  /** Wikidata id, used to find the city's licensed cover photo. */
+  wikidata: string | null;
 }
 
 export type SourceTier = 1 | 2 | 3;
