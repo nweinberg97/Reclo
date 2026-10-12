@@ -1,1 +1,20 @@
-{}
+{
+  "new-york/hotels/the-bowery-hotel": {
+    "block": true
+  },
+  "new-york/hotels/the-ritz-carlton-new-york-nomad": {
+    "block": true
+  },
+  "toronto/things-to-do/toronto-island-park": {
+    "block": true
+  },
+  "vancouver/things-to-do/commercial-drive": {
+    "block": true
+  },
+  "new-york/hotels/waldorf-astoria-new-york": {
+    "block": true
+  },
+  "vancouver/things-to-do/museum-of-vancouver": {
+    "block": true
+  }
+}

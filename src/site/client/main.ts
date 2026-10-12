@@ -37,7 +37,7 @@ function renderResults(container: HTMLElement, status: HTMLElement | null, query
   }
   const hits = search(docs, q, 20);
   if (hits.length === 0) {
-    container.innerHTML = `<div class="search-empty" role="status"><strong>Nothing in the notebook for “${esc(q)}” yet.</strong>Try a city, a neighbourhood or a kind of place, like “pizza” or “museum”.</div>`;
+    container.innerHTML = `<div class="search-empty" role="status"><strong>Nothing for “${esc(q)}” yet.</strong>Try a city, a neighbourhood or a kind of place, like “pizza” or “museum”.</div>`;
     if (status) status.textContent = `No results for ${q}`;
     input?.setAttribute('aria-expanded', 'false');
     return;

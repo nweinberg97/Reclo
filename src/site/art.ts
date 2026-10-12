@@ -54,7 +54,7 @@ export function categoryGlyph(id: CategoryId, c: string, strokeWidth = 1.7): str
 
 /**
  * The designed fallback for a pick without a licensed photo: the city's cover
- * colour and pattern with the category glyph, like a page torn from that notebook.
+ * colour and pattern with the category glyph, like a page from that city’s guide.
  */
 export function fallbackArt(opts: {
   uid: string;

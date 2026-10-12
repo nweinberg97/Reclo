@@ -1,5 +1,7 @@
 # Reclo: design
 
+> **v1.1 update:** the product is now photo-led and colour-rich, and each city is a *guide* rather than a notebook. Where this document still describes notebook details (covers, dividers, dotted paper), the redesign supersedes them: full-bleed city photography replaces covers, pill tabs replace dividers, a white canvas replaces paper. See the redesign section of `DECISIONS.md`. The trust system (receipts, stamp, highlighter ranks) is unchanged.
+
 > The best of every city, with the receipts.
 
 Reclo is a free, searchable notebook of the best places to eat, stay and go in ten cities. Every pick shows the independent evidence behind it. Nobody can pay to be in it. This document is the design brief we built against; `DECISIONS.md` records the individual calls.

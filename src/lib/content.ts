@@ -15,6 +15,7 @@ import {
 } from '../schema/types.ts';
 import { type Problem, validateCities, validateEvents, validateList, validateSources } from '../schema/validate.ts';
 import { type RankedEntry, rankList } from '../ranking/rank.ts';
+import { type Photos, loadPhotos } from './photos.ts';
 
 export interface RankedList {
   city: City;
@@ -31,6 +32,7 @@ export interface Content {
   sources: Map<string, Source>;
   lists: Map<string, RankedList>;
   events: Map<string, EventsFile>;
+  photos: Photos;
   warnings: Problem[];
 }
 
@@ -111,5 +113,5 @@ export function loadContent(contentDir: string, today: Date): Content {
       });
     }
   }
-  return { cities, sources, lists, events, warnings };
+  return { cities, sources, lists, events, photos: loadPhotos(contentDir), warnings };
 }

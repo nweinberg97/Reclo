@@ -72,7 +72,7 @@
     "height": 1068,
     "color": "#d8d8d8",
     "kind": "commons",
-    "credit": "라성민",
+    "credit": "\ub77c\uc131\ubbfc",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
   },
@@ -186,17 +186,6 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beekman,_575_Park_Avenue,_East_63rd_Street,_Lenox_Hill,_Manhattan_3.jpg"
   },
-  "new-york/hotels/the-bowery-hotel": {
-    "file": "new-york/hotels/the-bowery-hotel-1600.webp",
-    "small": "new-york/hotels/the-bowery-hotel-720.webp",
-    "width": 512,
-    "height": 768,
-    "color": "#080808",
-    "kind": "commons",
-    "credit": "The Bowery House",
-    "license": "CC BY-SA 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BoweryHouseStairs.jpg"
-  },
   "new-york/hotels/the-carlyle-a-rosewood-hotel": {
     "file": "new-york/hotels/the-carlyle-a-rosewood-hotel-1600.webp",
     "small": "new-york/hotels/the-carlyle-a-rosewood-hotel-720.webp",
@@ -252,17 +241,6 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:PNY_Exterior_with_Rolls_Royce.jpg"
   },
-  "new-york/hotels/the-ritz-carlton-new-york-nomad": {
-    "file": "new-york/hotels/the-ritz-carlton-new-york-nomad-1600.webp",
-    "small": "new-york/hotels/the-ritz-carlton-new-york-nomad-720.webp",
-    "width": 1600,
-    "height": 2133,
-    "color": "#b8a898",
-    "kind": "commons",
-    "credit": "Clyde Charles Brown",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz-Carlton_New_York,_Central_Park,_Manhattan,_New_York,_US.jpg"
-  },
   "new-york/hotels/the-whitby-hotel": {
     "file": "new-york/hotels/the-whitby-hotel-1600.webp",
     "small": "new-york/hotels/the-whitby-hotel-720.webp",
@@ -284,17 +262,6 @@
     "credit": "Roland Arhelger",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ehemaliges_TWA-Terminal_am_John_F._Kennedy_International_Airport_in_New_York.JPG"
-  },
-  "new-york/hotels/waldorf-astoria-new-york": {
-    "file": "new-york/hotels/waldorf-astoria-new-york-1600.webp",
-    "small": "new-york/hotels/waldorf-astoria-new-york-720.webp",
-    "width": 1600,
-    "height": 2022,
-    "color": "#786858",
-    "kind": "commons",
-    "credit": "Joseph Pennell",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waldorf-Astoria_1904-1908.jpg"
   },
   "new-york/hotels/warren-street-hotel": {
     "file": "new-york/hotels/warren-street-hotel-1600.webp",
@@ -340,17 +307,6 @@
     "license": "CC BY 2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barney_Greengrass.jpg"
   },
-  "new-york/restaurants/carnitas-ramirez": {
-    "file": "new-york/restaurants/carnitas-ramirez-1600.webp",
-    "small": "new-york/restaurants/carnitas-ramirez-720.webp",
-    "width": 1500,
-    "height": 1306,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "carnitasramirez.com",
-    "license": null,
-    "sourceUrl": "https://www.carnitasramirez.com/"
-  },
   "new-york/restaurants/katzs-delicatessen": {
     "file": "new-york/restaurants/katzs-delicatessen-1600.webp",
     "small": "new-york/restaurants/katzs-delicatessen-720.webp",
@@ -372,72 +328,6 @@
     "credit": "Arnold Gatilao",
     "license": "CC BY 2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Le_Bernardin.jpg"
-  },
-  "new-york/restaurants/lucali": {
-    "file": "new-york/restaurants/lucali-1600.webp",
-    "small": "new-york/restaurants/lucali-720.webp",
-    "width": 1200,
-    "height": 600,
-    "color": "#e8e8f8",
-    "kind": "website",
-    "credit": "lucali.com",
-    "license": null,
-    "sourceUrl": "https://www.lucali.com/"
-  },
-  "new-york/restaurants/sailor": {
-    "file": "new-york/restaurants/sailor-1600.webp",
-    "small": "new-york/restaurants/sailor-720.webp",
-    "width": 1200,
-    "height": 600,
-    "color": "#f8f8f8",
-    "kind": "website",
-    "credit": "sailor.nyc",
-    "license": null,
-    "sourceUrl": "https://www.sailor.nyc/"
-  },
-  "new-york/restaurants/semma": {
-    "file": "new-york/restaurants/semma-1600.webp",
-    "small": "new-york/restaurants/semma-720.webp",
-    "width": 1500,
-    "height": 509,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "semma.nyc",
-    "license": null,
-    "sourceUrl": "https://www.semma.nyc/"
-  },
-  "new-york/restaurants/tanoreen": {
-    "file": "new-york/restaurants/tanoreen-1600.webp",
-    "small": "new-york/restaurants/tanoreen-720.webp",
-    "width": 1200,
-    "height": 600,
-    "color": "#e8e8f8",
-    "kind": "website",
-    "credit": "tanoreen.com",
-    "license": null,
-    "sourceUrl": "https://www.tanoreen.com/"
-  },
-  "new-york/restaurants/tatiana-by-kwame-onwuachi": {
-    "file": "new-york/restaurants/tatiana-by-kwame-onwuachi-1600.webp",
-    "small": "new-york/restaurants/tatiana-by-kwame-onwuachi-720.webp",
-    "width": 1200,
-    "height": 600,
-    "color": "#e8e8f8",
-    "kind": "website",
-    "credit": "tatiananyc.com",
-    "license": null,
-    "sourceUrl": "https://www.tatiananyc.com/"
-  },
-  "new-york/restaurants/the-four-horsemen": {
-    "file": "new-york/restaurants/the-four-horsemen-1600.webp",
-    "small": "new-york/restaurants/the-four-horsemen-720.webp",
-    "width": 1600,
-    "height": 977,
-    "color": "#f8f8f8",
-    "kind": "website",
-    "credit": "fourhorsemenbk.com",
-    "license": null,
-    "sourceUrl": "https://www.fourhorsemenbk.com/"
   },
   "new-york/restaurants/una-pizza-napoletana": {
     "file": "new-york/restaurants/una-pizza-napoletana-1600.webp",
@@ -710,7 +600,7 @@
     "height": 830,
     "color": "#c8d8e8",
     "kind": "commons",
-    "credit": "Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
+    "credit": "Pawe\u0142 Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cloisters_Hudson_River_crop.jpg"
   },
@@ -824,28 +714,6 @@
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windsor_Arms_Hotel.JPG"
   },
-  "toronto/restaurants/akin": {
-    "file": "toronto/restaurants/akin-1600.webp",
-    "small": "toronto/restaurants/akin-720.webp",
-    "width": 1600,
-    "height": 1503,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "akintoronto.com",
-    "license": null,
-    "sourceUrl": "https://www.akintoronto.com/"
-  },
-  "toronto/restaurants/bar-eugenie": {
-    "file": "toronto/restaurants/bar-eugenie-1600.webp",
-    "small": "toronto/restaurants/bar-eugenie-720.webp",
-    "width": 1080,
-    "height": 1080,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "bareugenie.com",
-    "license": null,
-    "sourceUrl": "https://www.bareugenie.com/"
-  },
   "toronto/restaurants/dreyfus": {
     "file": "toronto/restaurants/dreyfus-1600.webp",
     "small": "toronto/restaurants/dreyfus-720.webp",
@@ -868,17 +736,6 @@
     "license": null,
     "sourceUrl": "https://www.edulisrestaurant.com/"
   },
-  "toronto/restaurants/golden-horseshoe-barbecue": {
-    "file": "toronto/restaurants/golden-horseshoe-barbecue-1600.webp",
-    "small": "toronto/restaurants/golden-horseshoe-barbecue-720.webp",
-    "width": 674,
-    "height": 614,
-    "color": "#181818",
-    "kind": "website",
-    "credit": "goldenhorseshoebbq.com",
-    "license": null,
-    "sourceUrl": "https://goldenhorseshoebbq.com/"
-  },
   "toronto/restaurants/n-l-ginzburg": {
     "file": "toronto/restaurants/n-l-ginzburg-1600.webp",
     "small": "toronto/restaurants/n-l-ginzburg-720.webp",
@@ -890,17 +747,6 @@
     "license": null,
     "sourceUrl": "https://www.nlginzburg.com/"
   },
-  "toronto/restaurants/quetzal": {
-    "file": "toronto/restaurants/quetzal-1600.webp",
-    "small": "toronto/restaurants/quetzal-720.webp",
-    "width": 800,
-    "height": 450,
-    "color": "#f8e8e8",
-    "kind": "website",
-    "credit": "quetzaltoronto.com",
-    "license": null,
-    "sourceUrl": "https://quetzaltoronto.com/"
-  },
   "toronto/restaurants/ricky-olivia": {
     "file": "toronto/restaurants/ricky-olivia-1600.webp",
     "small": "toronto/restaurants/ricky-olivia-720.webp",
@@ -911,50 +757,6 @@
     "credit": "rickyandolivia.com",
     "license": null,
     "sourceUrl": "https://www.rickyandolivia.com/"
-  },
-  "toronto/restaurants/sam-james-coffee-bar": {
-    "file": "toronto/restaurants/sam-james-coffee-bar-1600.webp",
-    "small": "toronto/restaurants/sam-james-coffee-bar-720.webp",
-    "width": 1275,
-    "height": 1650,
-    "color": "#f8f8f8",
-    "kind": "website",
-    "credit": "samjamescoffeebar.com",
-    "license": null,
-    "sourceUrl": "https://www.samjamescoffeebar.com/"
-  },
-  "toronto/restaurants/sammarco": {
-    "file": "toronto/restaurants/sammarco-1600.webp",
-    "small": "toronto/restaurants/sammarco-720.webp",
-    "width": 1200,
-    "height": 630,
-    "color": "#f8f8d8",
-    "kind": "website",
-    "credit": "sammarco.ca",
-    "license": null,
-    "sourceUrl": "https://sammarco.ca/"
-  },
-  "toronto/restaurants/som-tum-jinda": {
-    "file": "toronto/restaurants/som-tum-jinda-1600.webp",
-    "small": "toronto/restaurants/som-tum-jinda-720.webp",
-    "width": 1200,
-    "height": 630,
-    "color": "#483828",
-    "kind": "website",
-    "credit": "somtumjinda.ca",
-    "license": null,
-    "sourceUrl": "https://somtumjinda.ca/"
-  },
-  "toronto/restaurants/sunnys-chinese": {
-    "file": "toronto/restaurants/sunnys-chinese-1600.webp",
-    "small": "toronto/restaurants/sunnys-chinese-720.webp",
-    "width": 1200,
-    "height": 628,
-    "color": "#f86848",
-    "kind": "website",
-    "credit": "sunnyschinese.com",
-    "license": null,
-    "sourceUrl": "https://www.sunnyschinese.com/"
   },
   "toronto/things-to-do/aga-khan-museum": {
     "file": "toronto/things-to-do/aga-khan-museum-1600.webp",
@@ -1099,17 +901,6 @@
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kensington_market.jpg"
   },
-  "toronto/things-to-do/museum-of-contemporary-art-toronto": {
-    "file": "toronto/things-to-do/museum-of-contemporary-art-toronto-1600.webp",
-    "small": "toronto/things-to-do/museum-of-contemporary-art-toronto-720.webp",
-    "width": 1600,
-    "height": 1216,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "moca.ca",
-    "license": null,
-    "sourceUrl": "https://moca.ca/"
-  },
   "toronto/things-to-do/royal-ontario-museum": {
     "file": "toronto/things-to-do/royal-ontario-museum-1600.webp",
     "small": "toronto/things-to-do/royal-ontario-museum-720.webp",
@@ -1187,17 +978,6 @@
     "license": "CC BY 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Rathaus_und_Nathan_Phillips_Square.jpg"
   },
-  "toronto/things-to-do/toronto-island-park": {
-    "file": "toronto/things-to-do/toronto-island-park-1600.webp",
-    "small": "toronto/things-to-do/toronto-island-park-720.webp",
-    "width": 1600,
-    "height": 900,
-    "color": "#485848",
-    "kind": "commons",
-    "credit": "Peter Broster",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_Island_Park_Disc_Golf_Course.jpg"
-  },
   "toronto/things-to-do/trinity-bellwoods-park": {
     "file": "toronto/things-to-do/trinity-bellwoods-park-1600.webp",
     "small": "toronto/things-to-do/trinity-bellwoods-park-720.webp",
@@ -1264,17 +1044,6 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosewood_Hotel_Georgia_2018.jpg"
   },
-  "vancouver/hotels/skwachays-lodge": {
-    "file": "vancouver/hotels/skwachays-lodge-1600.webp",
-    "small": "vancouver/hotels/skwachays-lodge-720.webp",
-    "width": 1500,
-    "height": 1286,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "skwachays.com",
-    "license": null,
-    "sourceUrl": "https://skwachays.com/"
-  },
   "vancouver/hotels/the-sutton-place-hotel-vancouver": {
     "file": "vancouver/hotels/the-sutton-place-hotel-vancouver-1600.webp",
     "small": "vancouver/hotels/the-sutton-place-hotel-vancouver-720.webp",
@@ -1285,17 +1054,6 @@
     "credit": "Another Believer",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sutton_Place_Hotel,_Vancouver_(2012)_-_1.JPG"
-  },
-  "vancouver/hotels/wedgewood-hotel-and-spa": {
-    "file": "vancouver/hotels/wedgewood-hotel-and-spa-1600.webp",
-    "small": "vancouver/hotels/wedgewood-hotel-and-spa-720.webp",
-    "width": 1200,
-    "height": 630,
-    "color": "#587888",
-    "kind": "website",
-    "credit": "wedgewoodhotel.com",
-    "license": null,
-    "sourceUrl": "https://www.wedgewoodhotel.com/"
   },
   "vancouver/restaurants/anh-and-chi": {
     "file": "vancouver/restaurants/anh-and-chi-1600.webp",
@@ -1308,17 +1066,6 @@
     "license": null,
     "sourceUrl": "https://anhandchi.com"
   },
-  "vancouver/restaurants/annalena": {
-    "file": "vancouver/restaurants/annalena-1600.webp",
-    "small": "vancouver/restaurants/annalena-720.webp",
-    "width": 1003,
-    "height": 400,
-    "color": "#f8f8f8",
-    "kind": "website",
-    "credit": "annalena.ca",
-    "license": null,
-    "sourceUrl": "https://annalena.ca"
-  },
   "vancouver/restaurants/boulevard-kitchen-and-oyster-bar": {
     "file": "vancouver/restaurants/boulevard-kitchen-and-oyster-bar-1600.webp",
     "small": "vancouver/restaurants/boulevard-kitchen-and-oyster-bar-720.webp",
@@ -1329,28 +1076,6 @@
     "credit": "boulevardvancouver.ca",
     "license": null,
     "sourceUrl": "https://boulevardvancouver.ca"
-  },
-  "vancouver/restaurants/fat-mao-noodles": {
-    "file": "vancouver/restaurants/fat-mao-noodles-1600.webp",
-    "small": "vancouver/restaurants/fat-mao-noodles-720.webp",
-    "width": 1242,
-    "height": 638,
-    "color": "#f8f8e8",
-    "kind": "website",
-    "credit": "fatmaonoodles.com",
-    "license": null,
-    "sourceUrl": "https://fatmaonoodles.com"
-  },
-  "vancouver/restaurants/kavita": {
-    "file": "vancouver/restaurants/kavita-1600.webp",
-    "small": "vancouver/restaurants/kavita-720.webp",
-    "width": 1200,
-    "height": 450,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "restaurantkavita.com",
-    "license": null,
-    "sourceUrl": "https://restaurantkavita.com"
   },
   "vancouver/restaurants/kissa-tanto": {
     "file": "vancouver/restaurants/kissa-tanto-1600.webp",
@@ -1373,28 +1098,6 @@
     "credit": "Lunarvoyages",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunch_Lady_(1).jpg"
-  },
-  "vancouver/restaurants/vijs": {
-    "file": "vancouver/restaurants/vijs-1600.webp",
-    "small": "vancouver/restaurants/vijs-720.webp",
-    "width": 960,
-    "height": 960,
-    "color": "#f8f8f8",
-    "kind": "website",
-    "credit": "vijs.ca",
-    "license": null,
-    "sourceUrl": "https://vijs.ca"
-  },
-  "vancouver/restaurants/zarak": {
-    "file": "vancouver/restaurants/zarak-1600.webp",
-    "small": "vancouver/restaurants/zarak-720.webp",
-    "width": 1500,
-    "height": 626,
-    "color": "#080808",
-    "kind": "website",
-    "credit": "zarakvancouver.com",
-    "license": null,
-    "sourceUrl": "https://zarakvancouver.com"
   },
   "vancouver/things-to-do/bloedel-conservatory": {
     "file": "vancouver/things-to-do/bloedel-conservatory-1600.webp",
@@ -1428,17 +1131,6 @@
     "credit": "capbridge.com",
     "license": null,
     "sourceUrl": "https://www.capbridge.com"
-  },
-  "vancouver/things-to-do/commercial-drive": {
-    "file": "vancouver/things-to-do/commercial-drive-1600.webp",
-    "small": "vancouver/things-to-do/commercial-drive-720.webp",
-    "width": 1600,
-    "height": 1200,
-    "color": "#f8f8f8",
-    "kind": "commons",
-    "credit": "Deadkid dk at English Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:YVRcommercialdrstn.JPG"
   },
   "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden": {
     "file": "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden-1600.webp",
@@ -1527,17 +1219,6 @@
     "credit": "Rr parker",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:UBC_MOA_with_reflecting_pool_01.JPG"
-  },
-  "vancouver/things-to-do/museum-of-vancouver": {
-    "file": "vancouver/things-to-do/museum-of-vancouver-1600.webp",
-    "small": "vancouver/things-to-do/museum-of-vancouver-720.webp",
-    "width": 1500,
-    "height": 844,
-    "color": "#9898d8",
-    "kind": "website",
-    "credit": "museumofvancouver.ca",
-    "license": null,
-    "sourceUrl": "https://museumofvancouver.ca"
   },
   "vancouver/things-to-do/queen-elizabeth-park": {
     "file": "vancouver/things-to-do/queen-elizabeth-park-1600.webp",

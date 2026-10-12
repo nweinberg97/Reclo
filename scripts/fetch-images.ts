@@ -20,6 +20,7 @@ import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 
 import { join } from 'node:path';
 import sharp from 'sharp';
 import type { City, ListFile } from '../src/schema/types.ts';
+import { namesMatch } from '../src/lib/place-match.ts';
 
 const root = join(import.meta.dirname, '..');
 const outDir = join(root, 'content/images');
@@ -97,17 +98,6 @@ function km(a: { latitude: number; longitude: number }, b: { latitude: number; l
   return 2 * R * Math.asin(Math.sqrt(s));
 }
 
-const norm = (s: string) =>
-  s
-    .normalize('NFKD')
-    .replace(/\p{M}/gu, '')
-    .toLowerCase()
-    .replace(/&/g, 'and')
-    .replace(/[^a-z0-9 ]/g, ' ')
-    .replace(/\b(the|hotel|restaurant|museum|park|a|of|and|new york|toronto|vancouver|nyc)\b/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-
 async function entities(ids: string[]): Promise<Entity[]> {
   if (!ids.length) return [];
   const data = await getJson<{ entities: Record<string, Entity> }>(
@@ -132,9 +122,7 @@ async function findPlace(name: string, city: { latitude: number; longitude: numb
       const label = e.labels?.en?.value ?? '';
       if (!file || !coord) continue;
       if (km(coord, city) > maxKm) continue;
-      const a = norm(label);
-      const b = norm(name);
-      if (!a || !b || !(a.includes(b) || b.includes(a) || a.split(' ')[0] === b.split(' ')[0])) continue;
+      if (!namesMatch(label, name)) continue;
       return { entity: e, file };
     }
     await sleep(150);
@@ -187,6 +175,21 @@ async function websiteImage(site: string): Promise<{ url: string; credit: string
 
 // ---------- Download + resize ----------
 
+/**
+ * Logos and wordmarks are mostly one flat colour: on a 48×48 thumbnail, the
+ * commonest colour covers over 45% of pixels, or there are very few colours at all.
+ */
+async function looksLikeLogo(buf: Buffer): Promise<boolean> {
+  const { data } = await sharp(buf, { failOn: 'none' }).resize(48, 48, { fit: 'fill' }).removeAlpha().raw().toBuffer({ resolveWithObject: true });
+  const buckets = new Map<number, number>();
+  for (let i = 0; i < data.length; i += 3) {
+    const k = ((data[i]! >> 5) << 6) | ((data[i + 1]! >> 5) << 3) | (data[i + 2]! >> 5);
+    buckets.set(k, (buckets.get(k) ?? 0) + 1);
+  }
+  const top = Math.max(...buckets.values()) / (48 * 48);
+  return top > 0.45 || buckets.size <= 16;
+}
+
 async function save(key: string, url: string, meta: Omit<ImageRecord, 'file' | 'small' | 'width' | 'height' | 'color'>): Promise<ImageRecord | null> {
   try {
     const res = await fetch(url, { headers: { 'user-agent': UA }, redirect: 'follow', signal: AbortSignal.timeout(30_000) });
@@ -204,8 +207,8 @@ async function save(key: string, url: string, meta: Omit<ImageRecord, 'file' | '
     const ratio = m.width / m.height;
     if (ratio > 3 || ratio < 0.5) return null;
     const stats = await sharp(buf).stats();
-    if (stats.channels.slice(0, 3).every((c) => c.stdev < 18)) {
-      review.push(`- skipped ${key}: looks like a logo or flat graphic`);
+    if (meta.kind === 'website' && (await looksLikeLogo(buf))) {
+      review.push(`- skipped ${key}: looks like a logo, not a photo`);
       return null;
     }
     const dir = join(outDir, ...key.split('/').slice(0, -1));

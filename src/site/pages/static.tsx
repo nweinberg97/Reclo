@@ -34,7 +34,7 @@ export function SearchPage(): Html {
       }}
     >
       <div class="prose-page search-page">
-        <h1>Search the notebook</h1>
+        <h1>Search Reclo</h1>
         <form class="hero-search" action={href(routes.search())} method="get" role="search" data-search-page="">
           <label class="visually-hidden" for="page-q">
             {COPY.searchLabel}
@@ -48,7 +48,7 @@ export function SearchPage(): Html {
         <p class="visually-hidden" aria-live="polite" data-search-status=""></p>
         <div class="search-results search-results-page" data-search-results=""></div>
         <noscript>
-          <p class="note">Search runs in your browser and needs JavaScript. You can still browse every notebook from the home page.</p>
+          <p class="note">Search runs in your browser and needs JavaScript. You can still browse every city from the home page.</p>
         </noscript>
       </div>
     </Layout>
@@ -93,6 +93,7 @@ export function RanksPage(props: { content: Content }): Html {
         <p>Each piece of evidence earns points from two things we can explain.</p>
         <h3>Who said it</h3>
         <p>We sort publishers into three tiers. This is a human judgement, made once per publisher and shown here so you can disagree with it.</p>
+        <div class="table-scroll">
         <table class="rank-table">
           <thead>
             <tr>
@@ -111,6 +112,7 @@ export function RanksPage(props: { content: Content }): Html {
             ))}
           </tbody>
         </table>
+        </div>
         <h3>What kind of recommendation it is</h3>
         <p>
           An award counts {KIND_WEIGHT.award}×, a critic’s review {KIND_WEIGHT.critic}×, a guide entry {KIND_WEIGHT.guide}×, a roundup or local news piece {KIND_WEIGHT.list}×, and a tourism board or institution {KIND_WEIGHT.tourism}× (they have reasons to be nice).
@@ -192,7 +194,7 @@ export function NotFoundPage(): Html {
     <Layout
       meta={{
         title: 'Page not found',
-        description: 'This page isn’t in the notebook.',
+        description: 'This page isn’t on Reclo.',
         path: '404.html',
         ogImage: routes.ogHome(),
         ogImageAlt: 'Reclo',
@@ -203,7 +205,7 @@ export function NotFoundPage(): Html {
         <p class="not-found-mark" aria-hidden="true">
           404
         </p>
-        <h1>This page isn’t in the notebook</h1>
+        <h1>This page isn’t on Reclo</h1>
         <p>It may have moved, or the place may have closed. Try a search, or start from the shelf.</p>
         <form class="hero-search" action={href(routes.search())} method="get" role="search">
           <label class="visually-hidden" for="nf-q">

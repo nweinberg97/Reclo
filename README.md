@@ -41,6 +41,7 @@ npm run preview                    # http://localhost:4321/Reclo/
 | `npm run check-links` | Checks every source link and website, flags entries not verified in 6 months; writes `link-report.md` |
 | `npm run events` | Refreshes "This week" from the calendar feeds in `content/event-feeds.json` |
 | `npm run import -- research/raw/<city>-<category>.json` | Turns a research file into a published list |
+| `npm run images` | Finds and saves photos (runs in the Photos workflow; needs internet) |
 
 ## Deploy
 

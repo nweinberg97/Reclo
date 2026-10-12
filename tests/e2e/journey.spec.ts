@@ -20,12 +20,12 @@ test('land, open a city, browse a list, open a pick and share it', async ({ page
   // Open the full restaurants list from its tab.
   await page.getByRole('navigation', { name: 'Vancouver lists' }).getByRole('link', { name: /Restaurants & cafés/ }).click();
   await expect(page).toHaveURL(/\/vancouver\/restaurants\/$/);
-  const rows = page.locator('.pick-row');
+  const rows = page.locator('.place-grid .place-card');
   await expect(rows).toHaveCount(25);
-  await expect(rows.first()).toContainText('Number 1');
+  await expect(rows.first()).toContainText(/Number #?1/);
 
   // Open the #1 pick: it must show why it's here and at least two receipts.
-  const firstName = (await rows.first().locator('.pick-row-name').innerText()).trim();
+  const firstName = (await rows.first().locator('.place-card-name').innerText()).trim();
   await rows.first().getByRole('link').click();
   await expect(page.getByRole('heading', { level: 1 })).toContainText(firstName);
   await expect(page.getByRole('heading', { name: 'Why it’s here' })).toBeVisible();
@@ -74,13 +74,13 @@ test('search finds cities, places and accents, instantly', async ({ page }) => {
 
 test('a search with no results says what to try next', async ({ page }) => {
   await page.goto('./search/?q=zzqxv');
-  await expect(page.locator('.search-empty')).toContainText('Nothing in the notebook for “zzqxv” yet.');
+  await expect(page.locator('.search-empty')).toContainText('Nothing for “zzqxv” yet.');
 });
 
 test('unfinished lists and empty events are honest, not padded', async ({ page }) => {
   await page.goto('./paris/hotels/');
-  await expect(page.getByRole('heading', { name: 'This page is still being researched' })).toBeVisible();
-  await expect(page.locator('.pick-row')).toHaveCount(0);
+  await expect(page.getByRole('heading', { name: 'We’re still checking this list' })).toBeVisible();
+  await expect(page.locator('.place-grid .place-card')).toHaveCount(0);
 
   await page.goto('./vancouver/events/');
   await expect(page.getByRole('heading', { name: /still blank|Nothing on the calendars/ })).toBeVisible();
@@ -125,7 +125,7 @@ test('images have text alternatives and controls have names', async ({ page }) =
     expect(missingAlt, `${path} images without alt`).toBe(0);
     const unnamed = await page.locator('button').evaluateAll((bs) => bs.filter((b) => !(b.getAttribute('aria-label') || b.textContent?.trim())).length);
     expect(unnamed, `${path} unnamed buttons`).toBe(0);
-    const svgArt = await page.locator('.pick-art svg').evaluateAll((s) => s.every((el) => el.getAttribute('role') === 'img' && el.getAttribute('aria-label')));
+    const svgArt = await page.locator('.pic svg.art').evaluateAll((s) => s.every((el) => el.getAttribute('role') === 'img' && el.getAttribute('aria-label')));
     expect(svgArt).toBe(true);
   }
 });

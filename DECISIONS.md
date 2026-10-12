@@ -57,3 +57,15 @@ One line of reasoning per call. Newest at the bottom of each section.
 - **GitHub Pages via Actions, rebuilt daily.** Free, static, and the daily run refreshes events and removes past ones.
 - **`npm install` without a lockfile, for now.** The build environment that made v1 had no access to the npm registry, so a lockfile couldn't be generated honestly; commit the one CI creates on first run.
 - **Code and content in separate folders, both "all rights reserved, licence to be decided".** Either can be licensed later without untangling the other.
+
+## Redesign: photo-led and vibrant (v1.1, owner feedback)
+
+- **"Guide", not "notebook".** The notebook described the feel, not the thing; each city is now a guide ("Pick a city", "The Vancouver guide").
+- **Photography leads every screen.** Full-bleed city photos on the home page and city pages, a photo on every place card and pick, Airbnb-style swipeable rails.
+- **Where photos come from:** first a freely licensed Wikimedia Commons photo via the place's Wikidata entry (credited to the photographer, with licence). Otherwise, the place's own share image (the og:image its site publishes for link previews), credited to the site and linked back, with a "remove this photo" link on the pick. The owner chose to accept that a website photo is the business's copyright and shown without explicit permission; the takedown path and `content/image-optout.json` are the safeguard.
+- **Photos are fetched by a GitHub Action, checked, and committed.** Self-hosted for speed and privacy (no visitor requests to other sites). Matches require the right name and a location within 30–45 km of the city; logos are filtered out automatically; every photo was reviewed by eye on a contact sheet before shipping, and wrong ones are blocked in `content/image-overrides.json`.
+- **Five wrong matches caught in review and blocked:** The Bowery Hotel (matched The Bowery House), The Ritz-Carlton NoMad (matched the Central Park Ritz), Toronto Island Park (matched its disc-golf course), Commercial Drive (matched a SkyTrain station), the Waldorf Astoria (an old print of the original building). Museum of Vancouver's share image was a text banner, also blocked.
+- **No photo is better than a logo.** About 90 picks (mostly restaurants, whose sites often publish a logo as their share image) show a vivid illustrated card in the city's colours until a real photo is found.
+- **Palette turned up.** Clean white canvas so photos glow; Reclo pink `#E8175D` for actions; highlighter yellow for ranks; saturated city colours on chips, tabs and pride labels. Fonts and the bookmark icon are unchanged.
+- **Tabs wrap into a 2×2 grid on phones with short labels** ("Eat & drink"), so no label is ever cut off; the full name stays available to screen readers.
+- **A booking-style action bar on pick pages (phones):** rank, name, Share, Website or Book.

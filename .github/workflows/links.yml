@@ -31,6 +31,8 @@ jobs:
         if: steps.check.outcome == 'failure'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh issue create --title "Link check $(date -u +%F): broken or stale entries" --body-file link-report.md --label "data"  || gh issue create --title "Link check $(date -u +%F): broken or stale entries" --body-file link-report.md
+        run: |
+          title="Link check $(date -u +%F) - broken or stale entries"
+          gh issue create --title "$title" --body-file link-report.md
       - if: steps.check.outcome == 'failure'
         run: exit 1

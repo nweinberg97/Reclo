@@ -8,6 +8,8 @@ export interface CategoryCopy {
   id: CategoryId;
   /** Tab and heading label. */
   label: string;
+  /** Short tab label for phones. */
+  short: string;
   /** Lowercase phrase used mid-sentence. */
   phrase: string;
   /** Singular used for rank pride lines: "#1 place to eat in Lisbon". */
@@ -21,6 +23,7 @@ export interface CategoryCopy {
 export const CATEGORY_COPY: Record<CategoryId, CategoryCopy> = {
   restaurants: {
     id: 'restaurants',
+    short: 'Eat & drink',
     label: 'Restaurants & cafés',
     phrase: 'restaurants and cafés',
     singular: 'place to eat',
@@ -29,6 +32,7 @@ export const CATEGORY_COPY: Record<CategoryId, CategoryCopy> = {
   },
   hotels: {
     id: 'hotels',
+    short: 'Hotels',
     label: 'Hotels',
     phrase: 'hotels',
     singular: 'hotel',
@@ -37,6 +41,7 @@ export const CATEGORY_COPY: Record<CategoryId, CategoryCopy> = {
   },
   'things-to-do': {
     id: 'things-to-do',
+    short: 'Things to do',
     label: 'Things to do',
     phrase: 'things to do',
     singular: 'thing to do',
@@ -45,6 +50,7 @@ export const CATEGORY_COPY: Record<CategoryId, CategoryCopy> = {
   },
   events: {
     id: 'events',
+    short: 'This week',
     label: 'This week',
     phrase: 'events this week',
     singular: 'event',
@@ -56,19 +62,19 @@ export const CATEGORY_COPY: Record<CategoryId, CategoryCopy> = {
 export const COPY = {
   tagline: 'The best of every city, with the receipts.',
   intro:
-    'A free notebook of where to eat, stay and go in ten cities. Every pick shows the independent evidence behind it, and nobody can pay to be here.',
+    'Where to eat, stay and go in the world’s great cities. Every pick is backed by real reviews and awards, and nobody can pay to be here.',
   searchLabel: 'Search cities, places and lists',
   searchPlaceholder: 'Try “pizza” or “Toronto”',
-  shelfTitle: 'Pick a notebook',
+  shelfTitle: 'Pick a city',
   promises: [
     { title: 'Every pick shows its receipts', body: 'Two or more independent sources, linked, with the date we checked.' },
     { title: 'Nothing here is for sale', body: 'No ads, no sponsored spots, no paid placement. Ever.' },
-    { title: 'Nothing about you is collected', body: 'No accounts, no cookies, no tracking. Just the notebook.' },
+    { title: 'Nothing about you is collected', body: 'No accounts, no cookies, no tracking. Just the good stuff.' },
   ],
-  researching: 'Being researched',
-  researchingTitle: 'This page is still being researched',
+  researching: 'Coming soon',
+  researchingTitle: 'We’re still checking this list',
   researchingBody:
-    'We’d rather leave it blank than guess. Every pick has to be checked against independent sources before it goes in, and this one isn’t finished yet.',
+    'Every pick is checked against independent sources before it goes in, and we’d rather show nothing than guess. This one is on its way.',
   shortList: (n: number) =>
     `${n} verified so far. We only publish what we can back up, so this list grows as we check more places.`,
   eventsEmptyTitle: 'This week’s page is still blank',
@@ -90,9 +96,12 @@ export const COPY = {
     'If this is your place, congratulations. Here’s a card to share. You didn’t pay for it and nobody else can either.',
   badgeCard: 'Download your card',
   tellUs: 'Spot something wrong or missing? Tell us',
-  noResults: (q: string) => `Nothing in the notebook for “${q}” yet.`,
+  noResults: (q: string) => `Nothing for “${q}” yet.`,
   noResultsHint: 'Try a city, a neighbourhood or a kind of place, like “pizza” or “museum”.',
   footerPromise: 'No ads. No paid placement. No tracking.',
+  numberOnes: 'The number ones',
+  numberOnesSub: 'The top pick on every list, so far.',
+  removePhoto: 'Is this your photo? Ask us to remove it',
   howWeRank: 'How Reclo ranks',
   privacy: 'Privacy',
 };

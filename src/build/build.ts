@@ -21,7 +21,8 @@ import { CATEGORY_COPY } from '../site/copy.ts';
 import { routes } from '../site/routes.ts';
 import { CityPage, EventsPage, HomePage, ListPage, PickPage, totalPicks } from '../site/pages/pages.tsx';
 import { NotFoundPage, PrivacyPage, RanksPage, SearchPage } from '../site/pages/static.tsx';
-import { type CardJob, appIcon, cityOg, homeOg, listOg, pickCards, textOg } from './cards.tsx';
+import { type CardJob, type CardPhoto, appIcon, cityOg, homeOg, listOg, pickCards, textOg } from './cards.tsx';
+import { photoKey } from '../lib/photos.ts';
 import { renderCards } from './render-cards.ts';
 
 const root = join(import.meta.dirname, '..', '..');
@@ -52,6 +53,10 @@ rmSync(dist, { recursive: true, force: true });
 mkdirSync(join(dist, 'assets'), { recursive: true });
 cpSync(join(root, 'public'), dist, { recursive: true });
 writeFileSync(join(dist, '.nojekyll'), '');
+// Photos (see scripts/fetch-images.ts) are served from /img.
+if (existsSync(join(root, 'content/images'))) {
+  cpSync(join(root, 'content/images'), join(dist, 'img'), { recursive: true, filter: (src) => !/\.(md|json)$/.test(src) });
+}
 
 // 3. Client script and stylesheet, with a content hash for caching.
 const js = await esbuild({
@@ -82,6 +87,11 @@ const sitemap: string[] = [];
 const index: SearchDoc[] = [];
 const cards: CardJob[] = [];
 const fontsBase = `file://${join(dist, 'fonts')}/`;
+const cardPhoto = (key: string): CardPhoto | null => {
+  const ph = content.photos.get(key);
+  if (!ph) return null;
+  return { src: `file://${join(root, 'content/images', ph.file)}`, credit: `Photo: ${ph.credit}${ph.license ? `, ${ph.license}` : ''}` };
+};
 const sourceNames = new Map([...content.sources.values()].map((s) => [s.id, s.name]));
 
 write(routes.home(), HomePage({ content }));
@@ -99,7 +109,7 @@ for (const city of content.cities) {
   const total = totalPicks(content, city);
   write(routes.city(city.id), CityPage({ content, city }));
   sitemap.push(routes.city(city.id));
-  cards.push(cityOg(city, total, fontsBase, routes.ogPage(routes.city(city.id))));
+  cards.push(cityOg(city, total, fontsBase, routes.ogPage(routes.city(city.id)), cardPhoto(photoKey.city(city.id))));
   index.push(
     makeDoc({
       t: 'city',
@@ -145,6 +155,7 @@ for (const city of content.cities) {
           total: list.picks.length,
           sourceNames,
           fontsBase,
+          photo: cardPhoto(photoKey.pick(city.id, cat, e.id)),
           paths: {
             og: routes.ogPage(path),
             story: routes.card(city.id, cat, e.id, 'story'),

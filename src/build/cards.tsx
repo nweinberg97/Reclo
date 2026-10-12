@@ -57,9 +57,33 @@ function Mark(props: { size: number; color?: string }): Html {
   );
 }
 
-function CoverBlock(props: { city: City; w: number; h: number; glyph?: StaticCategoryId | 'events'; glyphSize?: number; uid: string; children?: Child }): Html {
+/** A photo plus its credit line, for cards. `src` is a file:// URL. */
+export interface CardPhoto {
+  src: string;
+  credit: string;
+}
+
+function CoverBlock(props: { city: City; w: number; h: number; glyph?: StaticCategoryId | 'events'; glyphSize?: number; uid: string; photo?: CardPhoto | null; children?: Child }): Html {
   const { city } = props;
   const gs = props.glyphSize ?? Math.min(props.w, props.h) * 0.5;
+  if (props.photo) {
+    return (
+      <div style={`position:relative;width:${props.w}px;height:${props.h}px;background:${city.accent};color:#fff;overflow:hidden;text-shadow:0 2px 22px rgba(0,0,0,.45)`}>
+        <img src={props.photo.src} style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover" />
+        <div
+          style={
+            props.glyph
+              ? 'position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,10,22,.4) 0%,rgba(5,10,22,0) 38%,rgba(5,10,22,0) 62%,rgba(5,10,22,.5) 100%)'
+              : 'position:absolute;inset:0;background:linear-gradient(90deg,rgba(5,10,22,.72) 0%,rgba(5,10,22,.35) 60%,rgba(5,10,22,.15) 100%)'
+          }
+        ></div>
+        <div style={`position:absolute;right:14px;bottom:10px;font-size:${Math.max(13, Math.round(props.w / 60))}px;color:rgba(255,255,255,.85);max-width:80%;text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis`}>
+          {props.photo.credit}
+        </div>
+        {props.children ?? null}
+      </div>
+    );
+  }
   return (
     <div style={`position:relative;width:${props.w}px;height:${props.h}px;background:${city.accent};color:${city.accentInk};overflow:hidden`}>
       {raw(
@@ -89,6 +113,7 @@ export function pickCards(opts: {
   total: number;
   sourceNames: Map<string, string>;
   fontsBase: string;
+  photo?: CardPhoto | null;
   paths: { og: string; story: string; post: string; badge: string };
 }): CardJob[] {
   const { city, category, p, sourceNames, fontsBase } = opts;
@@ -103,7 +128,7 @@ export function pickCards(opts: {
     1200,
     630,
     <div style="display:flex;height:630px">
-      <CoverBlock city={city} w={420} h={630} glyph={category} uid={`${uid}og`} glyphSize={250}>
+      <CoverBlock city={city} w={420} h={630} glyph={category} uid={`${uid}og`} glyphSize={250} photo={opts.photo}>
         <div style="position:absolute;left:52px;top:46px;right:30px" class="disp">
           <div style="font-weight:700;font-size:30px;opacity:.95">{city.name}</div>
           {city.localName ? <div style="font-size:24px;opacity:.9;margin-top:4px">{city.localName}</div> : null}
@@ -133,7 +158,7 @@ export function pickCards(opts: {
     1080,
     1920,
     <div style="display:flex;flex-direction:column;height:1920px">
-      <CoverBlock city={city} w={1080} h={760} glyph={category} uid={`${uid}st`} glyphSize={420}>
+      <CoverBlock city={city} w={1080} h={760} glyph={category} uid={`${uid}st`} glyphSize={420} photo={opts.photo}>
         <div style="position:absolute;left:96px;top:120px;right:80px" class="disp">
           <div style="font-weight:600;font-size:40px;opacity:.95;font-family:Inter">{city.country}</div>
           <div style="font-weight:900;font-size:150px;letter-spacing:-.05em;line-height:.95;margin-top:10px">{city.name}</div>
@@ -162,7 +187,7 @@ export function pickCards(opts: {
     1080,
     1080,
     <div style="display:flex;flex-direction:column;height:1080px">
-      <CoverBlock city={city} w={1080} h={300} glyph={category} uid={`${uid}po`} glyphSize={230}>
+      <CoverBlock city={city} w={1080} h={300} glyph={category} uid={`${uid}po`} glyphSize={230} photo={opts.photo}>
         <div style="position:absolute;left:84px;bottom:56px" class="disp">
           <div style="font-weight:900;font-size:96px;letter-spacing:-.05em;line-height:1">
             {city.name}
@@ -221,11 +246,11 @@ export function pickCards(opts: {
 
 // --- Page previews ----------------------------------------------------------------
 
-export function cityOg(city: City, total: number, fontsBase: string, out: string): CardJob {
+export function cityOg(city: City, total: number, fontsBase: string, out: string, photo?: CardPhoto | null): CardJob {
   const html = page(
     1200,
     630,
-    <CoverBlock city={city} w={1200} h={630} uid={`c${city.id.replace(/-/g, '')}`}>
+    <CoverBlock city={city} w={1200} h={630} uid={`c${city.id.replace(/-/g, '')}`} photo={photo}>
       <div style="position:absolute;right:56px;top:0;bottom:0;width:16px;background:rgba(0,0,0,.16)"></div>
       <div style="position:absolute;left:96px;top:70px;right:140px;bottom:64px;display:flex;flex-direction:column" class="disp">
         <div style="font-family:Inter;font-weight:600;font-size:30px;opacity:.95">{city.country}</div>
