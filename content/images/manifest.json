@@ -72,7 +72,7 @@
     "height": 1068,
     "color": "#d8d8d8",
     "kind": "commons",
-    "credit": "\ub77c\uc131\ubbfc",
+    "credit": "라성민",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
   },
@@ -600,7 +600,7 @@
     "height": 830,
     "color": "#c8d8e8",
     "kind": "commons",
-    "credit": "Pawe\u0142 Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
+    "credit": "Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cloisters_Hudson_River_crop.jpg"
   },
@@ -988,6 +988,17 @@
     "credit": "Dillan Payne",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinity_Bellwoods_Gates_on_Queen_Street,_July_7_2025.jpg"
+  },
+  "vancouver/hotels/fairmont-hotel-vancouver": {
+    "file": "vancouver/hotels/fairmont-hotel-vancouver-1600.webp",
+    "small": "vancouver/hotels/fairmont-hotel-vancouver-720.webp",
+    "width": 1600,
+    "height": 2219,
+    "color": "#f8f8f8",
+    "kind": "commons",
+    "credit": "Ken Walker kgw@lunar.ca",
+    "license": "CC BY 2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_vanc_2007.jpg"
   },
   "vancouver/hotels/fairmont-pacific-rim": {
     "file": "vancouver/hotels/fairmont-pacific-rim-1600.webp",
