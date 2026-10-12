@@ -164,6 +164,17 @@
     "license": null,
     "sourceUrl": "https://www.firmdalehotels.com/hotels/new-york/crosby-street-hotel/"
   },
+  "new-york/hotels/hotel-barriere-fouquets-new-york": {
+    "file": "new-york/hotels/hotel-barriere-fouquets-new-york-1600.webp",
+    "small": "new-york/hotels/hotel-barriere-fouquets-new-york-720.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#c8b8a8",
+    "kind": "website",
+    "credit": "hotelsbarriere.com",
+    "license": null,
+    "sourceUrl": "https://www.hotelsbarriere.com/en/new-york/le-fouquets.html"
+  },
   "new-york/hotels/mandarin-oriental-new-york": {
     "file": "new-york/hotels/mandarin-oriental-new-york-1600.webp",
     "small": "new-york/hotels/mandarin-oriental-new-york-720.webp",
@@ -174,6 +185,28 @@
     "credit": "OptimumPx",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Time_Warner_Center_May_2010.JPG"
+  },
+  "new-york/hotels/nine-orchard": {
+    "file": "new-york/hotels/nine-orchard-1600.webp",
+    "small": "new-york/hotels/nine-orchard-720.webp",
+    "width": 870,
+    "height": 783,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "nineorchard.com",
+    "license": null,
+    "sourceUrl": "https://www.nineorchard.com/"
+  },
+  "new-york/hotels/radio-hotel": {
+    "file": "new-york/hotels/radio-hotel-1600.webp",
+    "small": "new-york/hotels/radio-hotel-720.webp",
+    "width": 1200,
+    "height": 1200,
+    "color": "#786868",
+    "kind": "website",
+    "credit": "theradiohotel.com",
+    "license": null,
+    "sourceUrl": "https://www.theradiohotel.com/"
   },
   "new-york/hotels/the-beekman-a-thompson-hotel": {
     "file": "new-york/hotels/the-beekman-a-thompson-hotel-1600.webp",
@@ -219,6 +252,28 @@
     "license": null,
     "sourceUrl": "https://www.thegreenwichhotel.com/"
   },
+  "new-york/hotels/the-hotel-chelsea": {
+    "file": "new-york/hotels/the-hotel-chelsea-1600.webp",
+    "small": "new-york/hotels/the-hotel-chelsea-720.webp",
+    "width": 1600,
+    "height": 792,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "The Hotel Chelsea",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Chelsea_wordmark.svg"
+  },
+  "new-york/hotels/the-lowell": {
+    "file": "new-york/hotels/the-lowell-1600.webp",
+    "small": "new-york/hotels/the-lowell-720.webp",
+    "width": 1600,
+    "height": 2133,
+    "color": "#b8d8f8",
+    "kind": "commons",
+    "credit": "Jim.henderson",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lowell_Hotel_jeh.jpg"
+  },
   "new-york/hotels/the-mark": {
     "file": "new-york/hotels/the-mark-1600.webp",
     "small": "new-york/hotels/the-mark-720.webp",
@@ -240,6 +295,17 @@
     "credit": "Kimberlypeninsula",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:PNY_Exterior_with_Rolls_Royce.jpg"
+  },
+  "new-york/hotels/the-twenty-two-new-york": {
+    "file": "new-york/hotels/the-twenty-two-new-york-1600.webp",
+    "small": "new-york/hotels/the-twenty-two-new-york-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#d8d8d8",
+    "kind": "website",
+    "credit": "thetwentytwo.com",
+    "license": null,
+    "sourceUrl": "https://www.thetwentytwo.com/"
   },
   "new-york/hotels/the-whitby-hotel": {
     "file": "new-york/hotels/the-whitby-hotel-1600.webp",
@@ -307,6 +373,72 @@
     "license": "CC BY 2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barney_Greengrass.jpg"
   },
+  "new-york/restaurants/carnitas-ramirez": {
+    "file": "new-york/restaurants/carnitas-ramirez-1600.webp",
+    "small": "new-york/restaurants/carnitas-ramirez-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#c8c8c8",
+    "kind": "website",
+    "credit": "carnitasramirez.com",
+    "license": null,
+    "sourceUrl": "https://www.carnitasramirez.com/"
+  },
+  "new-york/restaurants/cervos": {
+    "file": "new-york/restaurants/cervos-1600.webp",
+    "small": "new-york/restaurants/cervos-720.webp",
+    "width": 1600,
+    "height": 2398,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "cervosnyc.com",
+    "license": null,
+    "sourceUrl": "https://www.cervosnyc.com/"
+  },
+  "new-york/restaurants/cho-dang-gol": {
+    "file": "new-york/restaurants/cho-dang-gol-1600.webp",
+    "small": "new-york/restaurants/cho-dang-gol-720.webp",
+    "width": 1600,
+    "height": 1018,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "chodanggolnyc.com",
+    "license": null,
+    "sourceUrl": "https://chodanggolnyc.com/"
+  },
+  "new-york/restaurants/dollys": {
+    "file": "new-york/restaurants/dollys-1600.webp",
+    "small": "new-york/restaurants/dollys-720.webp",
+    "width": 1338,
+    "height": 1784,
+    "color": "#b8b8b8",
+    "kind": "website",
+    "credit": "dollysnyc.com",
+    "license": null,
+    "sourceUrl": "https://www.dollysnyc.com/"
+  },
+  "new-york/restaurants/jean-georges": {
+    "file": "new-york/restaurants/jean-georges-1600.webp",
+    "small": "new-york/restaurants/jean-georges-720.webp",
+    "width": 1600,
+    "height": 1000,
+    "color": "#c8b8b8",
+    "kind": "website",
+    "credit": "jean-georgesrestaurant.com",
+    "license": null,
+    "sourceUrl": "https://www.jean-georgesrestaurant.com/"
+  },
+  "new-york/restaurants/joe-and-pats": {
+    "file": "new-york/restaurants/joe-and-pats-1600.webp",
+    "small": "new-york/restaurants/joe-and-pats-720.webp",
+    "width": 480,
+    "height": 320,
+    "color": "#b82818",
+    "kind": "website",
+    "credit": "joeandpatsny.com",
+    "license": null,
+    "sourceUrl": "https://www.joeandpatsny.com/"
+  },
   "new-york/restaurants/katzs-delicatessen": {
     "file": "new-york/restaurants/katzs-delicatessen-1600.webp",
     "small": "new-york/restaurants/katzs-delicatessen-720.webp",
@@ -318,6 +450,28 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lozupone_katz2.png"
   },
+  "new-york/restaurants/l-and-b-spumoni-gardens": {
+    "file": "new-york/restaurants/l-and-b-spumoni-gardens-1600.webp",
+    "small": "new-york/restaurants/l-and-b-spumoni-gardens-720.webp",
+    "width": 1600,
+    "height": 1188,
+    "color": "#e8e8e8",
+    "kind": "commons",
+    "credit": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%26B_Spumoni_Gardens_pizza_(41436).jpg"
+  },
+  "new-york/restaurants/la-pirana-lechonera": {
+    "file": "new-york/restaurants/la-pirana-lechonera-1600.webp",
+    "small": "new-york/restaurants/la-pirana-lechonera-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#b8b8b8",
+    "kind": "commons",
+    "credit": "Jeff",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lechonera_la_pirana_rear_exterior.jpg"
+  },
   "new-york/restaurants/le-bernardin": {
     "file": "new-york/restaurants/le-bernardin-1600.webp",
     "small": "new-york/restaurants/le-bernardin-720.webp",
@@ -328,6 +482,72 @@
     "credit": "Arnold Gatilao",
     "license": "CC BY 2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_Le_Bernardin.jpg"
+  },
+  "new-york/restaurants/le-veau-dor": {
+    "file": "new-york/restaurants/le-veau-dor-1600.webp",
+    "small": "new-york/restaurants/le-veau-dor-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#b87858",
+    "kind": "commons",
+    "credit": "Transpoman",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Veau_d%27Or_NYC.jpg"
+  },
+  "new-york/restaurants/lucali": {
+    "file": "new-york/restaurants/lucali-1600.webp",
+    "small": "new-york/restaurants/lucali-720.webp",
+    "width": 1011,
+    "height": 641,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucali_logo.png"
+  },
+  "new-york/restaurants/semma": {
+    "file": "new-york/restaurants/semma-1600.webp",
+    "small": "new-york/restaurants/semma-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Transpoman",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Semma_NYC.jpg"
+  },
+  "new-york/restaurants/tanoreen": {
+    "file": "new-york/restaurants/tanoreen-1600.webp",
+    "small": "new-york/restaurants/tanoreen-720.webp",
+    "width": 1200,
+    "height": 959,
+    "color": "#c8c8c8",
+    "kind": "website",
+    "credit": "tanoreen.com",
+    "license": null,
+    "sourceUrl": "https://www.tanoreen.com/"
+  },
+  "new-york/restaurants/tatiana-by-kwame-onwuachi": {
+    "file": "new-york/restaurants/tatiana-by-kwame-onwuachi-1600.webp",
+    "small": "new-york/restaurants/tatiana-by-kwame-onwuachi-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#d8c8a8",
+    "kind": "commons",
+    "credit": "Transpoman",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tatiana_by_Kwame_Onwuachi.jpg"
+  },
+  "new-york/restaurants/the-four-horsemen": {
+    "file": "new-york/restaurants/the-four-horsemen-1600.webp",
+    "small": "new-york/restaurants/the-four-horsemen-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#484848",
+    "kind": "commons",
+    "credit": "Meelar",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FourHorsemen.jpg"
   },
   "new-york/restaurants/una-pizza-napoletana": {
     "file": "new-york/restaurants/una-pizza-napoletana-1600.webp",
@@ -350,6 +570,28 @@
     "credit": "Jim.henderson",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Via_Carota_2023_jeh.jpg"
+  },
+  "new-york/restaurants/zaab-zaab": {
+    "file": "new-york/restaurants/zaab-zaab-1600.webp",
+    "small": "new-york/restaurants/zaab-zaab-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Transpoman",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zaab_Zaab_Pier_57.jpg"
+  },
+  "new-york/things-to-do/9-11-memorial-and-museum": {
+    "file": "new-york/things-to-do/9-11-memorial-and-museum-1600.webp",
+    "small": "new-york/things-to-do/9-11-memorial-and-museum-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#888888",
+    "kind": "commons",
+    "credit": "Paul Sableman",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:9-11_Memorial_and_Museum_(28815276064).jpg"
   },
   "new-york/things-to-do/american-museum-of-natural-history": {
     "file": "new-york/things-to-do/american-museum-of-natural-history-1600.webp",
@@ -471,6 +713,39 @@
     "credit": "The original uploader was David Shankbone at English Wikipedia.",
     "license": "CC BY 2.5",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Green-Wood_Cemetery_by_David_Shankbone.jpg"
+  },
+  "new-york/things-to-do/intrepid-museum": {
+    "file": "new-york/things-to-do/intrepid-museum-1600.webp",
+    "small": "new-york/things-to-do/intrepid-museum-720.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#c8d8f8",
+    "kind": "commons",
+    "credit": "Ajay Suresh from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Intrepid_Museum_(49052290092).jpg"
+  },
+  "new-york/things-to-do/little-island": {
+    "file": "new-york/things-to-do/little-island-1600.webp",
+    "small": "new-york/things-to-do/little-island-720.webp",
+    "width": 1600,
+    "height": 1205,
+    "color": "#686868",
+    "kind": "commons",
+    "credit": "Praneeth Thalla",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Island_at_Pier_55.jpg"
+  },
+  "new-york/things-to-do/moma-ps1": {
+    "file": "new-york/things-to-do/moma-ps1-1600.webp",
+    "small": "new-york/things-to-do/moma-ps1-720.webp",
+    "width": 1600,
+    "height": 890,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MoMA_PS1_logo.svg"
   },
   "new-york/things-to-do/museum-of-modern-art-moma": {
     "file": "new-york/things-to-do/museum-of-modern-art-moma-1600.webp",
@@ -626,6 +901,28 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington_Square_Arch-Isabella.jpg"
   },
+  "toronto/hotels/1-hotel-toronto": {
+    "file": "toronto/hotels/1-hotel-toronto-1600.webp",
+    "small": "toronto/hotels/1-hotel-toronto-720.webp",
+    "width": 1431,
+    "height": 1800,
+    "color": "#382818",
+    "kind": "website",
+    "credit": "1hotels.com",
+    "license": null,
+    "sourceUrl": "https://www.1hotels.com/toronto"
+  },
+  "toronto/hotels/ace-hotel-toronto": {
+    "file": "toronto/hotels/ace-hotel-toronto-1600.webp",
+    "small": "toronto/hotels/ace-hotel-toronto-720.webp",
+    "width": 1080,
+    "height": 1167,
+    "color": "#a89888",
+    "kind": "website",
+    "credit": "acehotel.com",
+    "license": null,
+    "sourceUrl": "https://acehotel.com/toronto/"
+  },
   "toronto/hotels/fairmont-royal-york": {
     "file": "toronto/hotels/fairmont-royal-york-1600.webp",
     "small": "toronto/hotels/fairmont-royal-york-720.webp",
@@ -670,6 +967,39 @@
     "license": "CC BY 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimpton_Saint_George_Hotel,_Toronto.jpg"
   },
+  "toronto/hotels/le-germain-hotel-maple-leaf-square": {
+    "file": "toronto/hotels/le-germain-hotel-maple-leaf-square-1600.webp",
+    "small": "toronto/hotels/le-germain-hotel-maple-leaf-square-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#d8d8e8",
+    "kind": "website",
+    "credit": "germainhotels.com",
+    "license": null,
+    "sourceUrl": "https://www.germainhotels.com/en/le-germain-hotel/toronto-maple-leaf-square"
+  },
+  "toronto/hotels/le-germain-hotel-toronto-mercer": {
+    "file": "toronto/hotels/le-germain-hotel-toronto-mercer-1600.webp",
+    "small": "toronto/hotels/le-germain-hotel-toronto-mercer-720.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "germainhotels.com",
+    "license": null,
+    "sourceUrl": "https://www.germainhotels.com/en/le-germain-hotel/toronto-mercer"
+  },
+  "toronto/hotels/nobu-hotel-toronto": {
+    "file": "toronto/hotels/nobu-hotel-toronto-1600.webp",
+    "small": "toronto/hotels/nobu-hotel-toronto-720.webp",
+    "width": 1600,
+    "height": 1204,
+    "color": "#d8d8d8",
+    "kind": "website",
+    "credit": "nobuhotels.com",
+    "license": null,
+    "sourceUrl": "https://www.nobuhotels.com/toronto/"
+  },
   "toronto/hotels/park-hyatt-toronto": {
     "file": "toronto/hotels/park-hyatt-toronto-1600.webp",
     "small": "toronto/hotels/park-hyatt-toronto-720.webp",
@@ -680,6 +1010,17 @@
     "credit": "SimonP",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Plaza_Hotel.JPG"
+  },
+  "toronto/hotels/shangri-la-hotel-toronto": {
+    "file": "toronto/hotels/shangri-la-hotel-toronto-1600.webp",
+    "small": "toronto/hotels/shangri-la-hotel-toronto-720.webp",
+    "width": 1600,
+    "height": 2133,
+    "color": "#585858",
+    "kind": "commons",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shangri-La_Toronto_2023.jpg"
   },
   "toronto/hotels/the-broadview-hotel": {
     "file": "toronto/hotels/the-broadview-hotel-1600.webp",
@@ -703,6 +1044,28 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Drake_Hotel_Toronto,_September_19_2026_(02).jpg"
   },
+  "toronto/hotels/the-ritz-carlton-toronto": {
+    "file": "toronto/hotels/the-ritz-carlton-toronto-1600.webp",
+    "small": "toronto/hotels/the-ritz-carlton-toronto-720.webp",
+    "width": 1600,
+    "height": 2397,
+    "color": "#081818",
+    "kind": "commons",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz-Carlton_Toronto_August_2017_01.jpg"
+  },
+  "toronto/hotels/the-st-regis-toronto": {
+    "file": "toronto/hotels/the-st-regis-toronto-1600.webp",
+    "small": "toronto/hotels/the-st-regis-toronto-720.webp",
+    "width": 1600,
+    "height": 2400,
+    "color": "#c8c8c8",
+    "kind": "commons",
+    "credit": "JK Liu",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Regis_Toronto_2025-05-24.jpg"
+  },
   "toronto/hotels/windsor-arms-hotel": {
     "file": "toronto/hotels/windsor-arms-hotel-1600.webp",
     "small": "toronto/hotels/windsor-arms-hotel-720.webp",
@@ -713,6 +1076,72 @@
     "credit": "SimonP",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windsor_Arms_Hotel.JPG"
+  },
+  "toronto/restaurants/akin": {
+    "file": "toronto/restaurants/akin-1600.webp",
+    "small": "toronto/restaurants/akin-720.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#081808",
+    "kind": "website",
+    "credit": "akintoronto.com",
+    "license": null,
+    "sourceUrl": "https://www.akintoronto.com/"
+  },
+  "toronto/restaurants/alo": {
+    "file": "toronto/restaurants/alo-1600.webp",
+    "small": "toronto/restaurants/alo-720.webp",
+    "width": 1600,
+    "height": 1299,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Alo Food Group",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alo_(restaurant)_logo.svg"
+  },
+  "toronto/restaurants/bar-eugenie": {
+    "file": "toronto/restaurants/bar-eugenie-1600.webp",
+    "small": "toronto/restaurants/bar-eugenie-720.webp",
+    "width": 1600,
+    "height": 2392,
+    "color": "#d8d8d8",
+    "kind": "website",
+    "credit": "bareugenie.com",
+    "license": null,
+    "sourceUrl": "https://www.bareugenie.com/"
+  },
+  "toronto/restaurants/bar-raval": {
+    "file": "toronto/restaurants/bar-raval-1600.webp",
+    "small": "toronto/restaurants/bar-raval-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "thisisbarraval.com",
+    "license": null,
+    "sourceUrl": "https://www.thisisbarraval.com"
+  },
+  "toronto/restaurants/blackbird-baking-co": {
+    "file": "toronto/restaurants/blackbird-baking-co-1600.webp",
+    "small": "toronto/restaurants/blackbird-baking-co-720.webp",
+    "width": 1512,
+    "height": 882,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "blackbirdbakingco.com",
+    "license": null,
+    "sourceUrl": "https://blackbirdbakingco.com/"
+  },
+  "toronto/restaurants/casa-paco": {
+    "file": "toronto/restaurants/casa-paco-1600.webp",
+    "small": "toronto/restaurants/casa-paco-720.webp",
+    "width": 1600,
+    "height": 1064,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "casapaco.ca",
+    "license": null,
+    "sourceUrl": "https://www.casapaco.ca/"
   },
   "toronto/restaurants/dreyfus": {
     "file": "toronto/restaurants/dreyfus-1600.webp",
@@ -736,6 +1165,39 @@
     "license": null,
     "sourceUrl": "https://www.edulisrestaurant.com/"
   },
+  "toronto/restaurants/emmer": {
+    "file": "toronto/restaurants/emmer-1600.webp",
+    "small": "toronto/restaurants/emmer-720.webp",
+    "width": 1600,
+    "height": 2177,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "emmertoronto.ca",
+    "license": null,
+    "sourceUrl": "https://www.emmertoronto.ca/"
+  },
+  "toronto/restaurants/favorites-thai": {
+    "file": "toronto/restaurants/favorites-thai-1600.webp",
+    "small": "toronto/restaurants/favorites-thai-720.webp",
+    "width": 980,
+    "height": 527,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "myfavethai.com",
+    "license": null,
+    "sourceUrl": "https://www.myfavethai.com/"
+  },
+  "toronto/restaurants/harbord-bakery": {
+    "file": "toronto/restaurants/harbord-bakery-1600.webp",
+    "small": "toronto/restaurants/harbord-bakery-720.webp",
+    "width": 600,
+    "height": 347,
+    "color": "#e8e8e8",
+    "kind": "website",
+    "credit": "harbordbakery.ca",
+    "license": null,
+    "sourceUrl": "https://www.harbordbakery.ca/"
+  },
   "toronto/restaurants/n-l-ginzburg": {
     "file": "toronto/restaurants/n-l-ginzburg-1600.webp",
     "small": "toronto/restaurants/n-l-ginzburg-720.webp",
@@ -747,6 +1209,17 @@
     "license": null,
     "sourceUrl": "https://www.nlginzburg.com/"
   },
+  "toronto/restaurants/quetzal": {
+    "file": "toronto/restaurants/quetzal-1600.webp",
+    "small": "toronto/restaurants/quetzal-720.webp",
+    "width": 500,
+    "height": 800,
+    "color": "#180808",
+    "kind": "website",
+    "credit": "quetzaltoronto.com",
+    "license": null,
+    "sourceUrl": "https://quetzaltoronto.com/"
+  },
   "toronto/restaurants/ricky-olivia": {
     "file": "toronto/restaurants/ricky-olivia-1600.webp",
     "small": "toronto/restaurants/ricky-olivia-720.webp",
@@ -757,6 +1230,72 @@
     "credit": "rickyandolivia.com",
     "license": null,
     "sourceUrl": "https://www.rickyandolivia.com/"
+  },
+  "toronto/restaurants/sam-james-coffee-bar": {
+    "file": "toronto/restaurants/sam-james-coffee-bar-1600.webp",
+    "small": "toronto/restaurants/sam-james-coffee-bar-720.webp",
+    "width": 1080,
+    "height": 720,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "samjamescoffeebar.com",
+    "license": null,
+    "sourceUrl": "https://www.samjamescoffeebar.com/"
+  },
+  "toronto/restaurants/sammarco": {
+    "file": "toronto/restaurants/sammarco-1600.webp",
+    "small": "toronto/restaurants/sammarco-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#180808",
+    "kind": "website",
+    "credit": "sammarco.ca",
+    "license": null,
+    "sourceUrl": "https://sammarco.ca/"
+  },
+  "toronto/restaurants/som-tum-jinda": {
+    "file": "toronto/restaurants/som-tum-jinda-1600.webp",
+    "small": "toronto/restaurants/som-tum-jinda-720.webp",
+    "width": 1440,
+    "height": 900,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "somtumjinda.ca",
+    "license": null,
+    "sourceUrl": "https://somtumjinda.ca/"
+  },
+  "toronto/restaurants/sunnys-chinese": {
+    "file": "toronto/restaurants/sunnys-chinese-1600.webp",
+    "small": "toronto/restaurants/sunnys-chinese-720.webp",
+    "width": 1280,
+    "height": 720,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "sunnyschinese.com",
+    "license": null,
+    "sourceUrl": "https://www.sunnyschinese.com/"
+  },
+  "toronto/restaurants/sushi-masaki-saito": {
+    "file": "toronto/restaurants/sushi-masaki-saito-1600.webp",
+    "small": "toronto/restaurants/sushi-masaki-saito-720.webp",
+    "width": 1600,
+    "height": 1600,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Bobak Ha'Eri",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024-0606_Masaki_Saito.jpg"
+  },
+  "toronto/restaurants/the-lunch-lady": {
+    "file": "toronto/restaurants/the-lunch-lady-1600.webp",
+    "small": "toronto/restaurants/the-lunch-lady-720.webp",
+    "width": 1600,
+    "height": 2400,
+    "color": "#180808",
+    "kind": "website",
+    "credit": "thelunchlady.com",
+    "license": null,
+    "sourceUrl": "https://thelunchlady.com/"
   },
   "toronto/things-to-do/aga-khan-museum": {
     "file": "toronto/things-to-do/aga-khan-museum-1600.webp",
@@ -801,6 +1340,17 @@
     "credit": "Xander Ashburn",
     "license": "CC BY 2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casa_Loma_2016_(65_of_122)_(27655967032).jpg"
+  },
+  "toronto/things-to-do/chinatown": {
+    "file": "toronto/things-to-do/chinatown-1600.webp",
+    "small": "toronto/things-to-do/chinatown-720.webp",
+    "width": 1600,
+    "height": 876,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "dbking from Washington, DC",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dundas_Street_West_at_Huron_Street_Toronto_2010.jpg"
   },
   "toronto/things-to-do/cn-tower": {
     "file": "toronto/things-to-do/cn-tower-1600.webp",
@@ -901,6 +1451,17 @@
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kensington_market.jpg"
   },
+  "toronto/things-to-do/museum-of-contemporary-art-toronto": {
+    "file": "toronto/things-to-do/museum-of-contemporary-art-toronto-1600.webp",
+    "small": "toronto/things-to-do/museum-of-contemporary-art-toronto-720.webp",
+    "width": 1280,
+    "height": 720,
+    "color": "#282828",
+    "kind": "website",
+    "credit": "moca.ca",
+    "license": null,
+    "sourceUrl": "https://moca.ca/"
+  },
   "toronto/things-to-do/royal-ontario-museum": {
     "file": "toronto/things-to-do/royal-ontario-museum-1600.webp",
     "small": "toronto/things-to-do/royal-ontario-museum-720.webp",
@@ -967,6 +1528,17 @@
     "license": "CC BY 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beaches_aerial_view_2023.jpg"
   },
+  "toronto/things-to-do/the-village-at-black-creek": {
+    "file": "toronto/things-to-do/the-village-at-black-creek-1600.webp",
+    "small": "toronto/things-to-do/the-village-at-black-creek-720.webp",
+    "width": 1600,
+    "height": 1064,
+    "color": "#283818",
+    "kind": "commons",
+    "credit": "johnantoni from Toronto, Canada",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:In_the_shade_(1247127124).jpg"
+  },
   "toronto/things-to-do/toronto-city-hall-and-nathan-phillips-square": {
     "file": "toronto/things-to-do/toronto-city-hall-and-nathan-phillips-square-1600.webp",
     "small": "toronto/things-to-do/toronto-city-hall-and-nathan-phillips-square-720.webp",
@@ -977,6 +1549,17 @@
     "credit": "Taxiarchos228",
     "license": "CC BY 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Rathaus_und_Nathan_Phillips_Square.jpg"
+  },
+  "toronto/things-to-do/trillium-park-and-william-g-davis-trail": {
+    "file": "toronto/things-to-do/trillium-park-and-william-g-davis-trail-1600.webp",
+    "small": "toronto/things-to-do/trillium-park-and-william-g-davis-trail-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#d8d8d8",
+    "kind": "commons",
+    "credit": "TheTrolleyPole",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trillium_Park,_Toronto_-_View_from_The_Summit.jpg"
   },
   "toronto/things-to-do/trinity-bellwoods-park": {
     "file": "toronto/things-to-do/trinity-bellwoods-park-1600.webp",
@@ -1033,6 +1616,17 @@
     "license": null,
     "sourceUrl": "https://www.opushotel.com/"
   },
+  "vancouver/hotels/pan-pacific-vancouver": {
+    "file": "vancouver/hotels/pan-pacific-vancouver-1600.webp",
+    "small": "vancouver/hotels/pan-pacific-vancouver-720.webp",
+    "width": 1140,
+    "height": 642,
+    "color": "#083858",
+    "kind": "website",
+    "credit": "panpacific.com",
+    "license": null,
+    "sourceUrl": "https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html"
+  },
   "vancouver/hotels/paradox-hotel-vancouver": {
     "file": "vancouver/hotels/paradox-hotel-vancouver-1600.webp",
     "small": "vancouver/hotels/paradox-hotel-vancouver-720.webp",
@@ -1054,6 +1648,28 @@
     "credit": "Wpcpey",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosewood_Hotel_Georgia_2018.jpg"
+  },
+  "vancouver/hotels/skwachays-lodge": {
+    "file": "vancouver/hotels/skwachays-lodge-1600.webp",
+    "small": "vancouver/hotels/skwachays-lodge-720.webp",
+    "width": 1600,
+    "height": 2398,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "jmv",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skwach%C3%A0ys_Healing_Lodge.jpg"
+  },
+  "vancouver/hotels/the-burrard": {
+    "file": "vancouver/hotels/the-burrard-1600.webp",
+    "small": "vancouver/hotels/the-burrard-720.webp",
+    "width": 1600,
+    "height": 899,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "theburrard.com",
+    "license": null,
+    "sourceUrl": "https://www.theburrard.com/"
   },
   "vancouver/hotels/the-sutton-place-hotel-vancouver": {
     "file": "vancouver/hotels/the-sutton-place-hotel-vancouver-1600.webp",
@@ -1077,6 +1693,17 @@
     "license": null,
     "sourceUrl": "https://anhandchi.com"
   },
+  "vancouver/restaurants/beaucoup-bakery": {
+    "file": "vancouver/restaurants/beaucoup-bakery-1600.webp",
+    "small": "vancouver/restaurants/beaucoup-bakery-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#180808",
+    "kind": "website",
+    "credit": "beaucoupbakery.com",
+    "license": null,
+    "sourceUrl": "https://beaucoupbakery.com"
+  },
   "vancouver/restaurants/boulevard-kitchen-and-oyster-bar": {
     "file": "vancouver/restaurants/boulevard-kitchen-and-oyster-bar-1600.webp",
     "small": "vancouver/restaurants/boulevard-kitchen-and-oyster-bar-720.webp",
@@ -1087,6 +1714,61 @@
     "credit": "boulevardvancouver.ca",
     "license": null,
     "sourceUrl": "https://boulevardvancouver.ca"
+  },
+  "vancouver/restaurants/chefs-choice-chinese-cuisine": {
+    "file": "vancouver/restaurants/chefs-choice-chinese-cuisine-1600.webp",
+    "small": "vancouver/restaurants/chefs-choice-chinese-cuisine-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#e8e8e8",
+    "kind": "website",
+    "credit": "chefschoice955.ca",
+    "license": null,
+    "sourceUrl": "https://chefschoice955.ca/"
+  },
+  "vancouver/restaurants/delara": {
+    "file": "vancouver/restaurants/delara-1600.webp",
+    "small": "vancouver/restaurants/delara-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#c8a888",
+    "kind": "website",
+    "credit": "delararestaurant.ca",
+    "license": null,
+    "sourceUrl": "https://delararestaurant.ca"
+  },
+  "vancouver/restaurants/elem": {
+    "file": "vancouver/restaurants/elem-1600.webp",
+    "small": "vancouver/restaurants/elem-720.webp",
+    "width": 1290,
+    "height": 842,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "elemvancouver.com",
+    "license": null,
+    "sourceUrl": "https://elemvancouver.com"
+  },
+  "vancouver/restaurants/fat-mao-noodles": {
+    "file": "vancouver/restaurants/fat-mao-noodles-1600.webp",
+    "small": "vancouver/restaurants/fat-mao-noodles-720.webp",
+    "width": 1600,
+    "height": 1219,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "fatmaonoodles.com",
+    "license": null,
+    "sourceUrl": "https://fatmaonoodles.com"
+  },
+  "vancouver/restaurants/good-thief": {
+    "file": "vancouver/restaurants/good-thief-1600.webp",
+    "small": "vancouver/restaurants/good-thief-720.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "goodthief.ca",
+    "license": null,
+    "sourceUrl": "https://www.goodthief.ca/"
   },
   "vancouver/restaurants/kissa-tanto": {
     "file": "vancouver/restaurants/kissa-tanto-1600.webp",
@@ -1099,6 +1781,17 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kissa_Tanto_exterior_wide.jpg"
   },
+  "vancouver/restaurants/labattoir": {
+    "file": "vancouver/restaurants/labattoir-1600.webp",
+    "small": "vancouver/restaurants/labattoir-720.webp",
+    "width": 1600,
+    "height": 2400,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "labattoir.ca",
+    "license": null,
+    "sourceUrl": "https://labattoir.ca"
+  },
   "vancouver/restaurants/lunch-lady": {
     "file": "vancouver/restaurants/lunch-lady-1600.webp",
     "small": "vancouver/restaurants/lunch-lady-720.webp",
@@ -1109,6 +1802,94 @@
     "credit": "Lunarvoyages",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunch_Lady_(1).jpg"
+  },
+  "vancouver/restaurants/masayoshi": {
+    "file": "vancouver/restaurants/masayoshi-1600.webp",
+    "small": "vancouver/restaurants/masayoshi-720.webp",
+    "width": 1600,
+    "height": 1000,
+    "color": "#281818",
+    "kind": "website",
+    "credit": "masayoshi.ca",
+    "license": null,
+    "sourceUrl": "https://www.masayoshi.ca/"
+  },
+  "vancouver/restaurants/published-on-main": {
+    "file": "vancouver/restaurants/published-on-main-1600.webp",
+    "small": "vancouver/restaurants/published-on-main-720.webp",
+    "width": 1600,
+    "height": 717,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Published_on_Main.jpg"
+  },
+  "vancouver/restaurants/revolver": {
+    "file": "vancouver/restaurants/revolver-1600.webp",
+    "small": "vancouver/restaurants/revolver-720.webp",
+    "width": 1000,
+    "height": 882,
+    "color": "#a89888",
+    "kind": "website",
+    "credit": "revolvercoffee.ca",
+    "license": null,
+    "sourceUrl": "https://revolvercoffee.ca/"
+  },
+  "vancouver/restaurants/st-lawrence": {
+    "file": "vancouver/restaurants/st-lawrence-1600.webp",
+    "small": "vancouver/restaurants/st-lawrence-720.webp",
+    "width": 1600,
+    "height": 778,
+    "color": "#f8f8f8",
+    "kind": "commons",
+    "credit": "Premeditated Chaos",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_lawrence_restaurant_interior.jpg"
+  },
+  "vancouver/restaurants/sumibiyaki-arashi": {
+    "file": "vancouver/restaurants/sumibiyaki-arashi-1600.webp",
+    "small": "vancouver/restaurants/sumibiyaki-arashi-720.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "sumibiyakiarashi.com",
+    "license": null,
+    "sourceUrl": "https://sumibiyakiarashi.com/"
+  },
+  "vancouver/restaurants/sushi-hil": {
+    "file": "vancouver/restaurants/sushi-hil-1600.webp",
+    "small": "vancouver/restaurants/sushi-hil-720.webp",
+    "width": 1600,
+    "height": 925,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sushi_Hil.jpg"
+  },
+  "vancouver/restaurants/vijs": {
+    "file": "vancouver/restaurants/vijs-1600.webp",
+    "small": "vancouver/restaurants/vijs-720.webp",
+    "width": 1334,
+    "height": 2000,
+    "color": "#280808",
+    "kind": "website",
+    "credit": "vijs.ca",
+    "license": null,
+    "sourceUrl": "https://vijs.ca"
+  },
+  "vancouver/things-to-do/bill-reid-gallery-of-northwest-coast-art": {
+    "file": "vancouver/things-to-do/bill-reid-gallery-of-northwest-coast-art-1600.webp",
+    "small": "vancouver/things-to-do/bill-reid-gallery-of-northwest-coast-art-720.webp",
+    "width": 725,
+    "height": 500,
+    "color": "#b8a898",
+    "kind": "website",
+    "credit": "billreidgallery.ca",
+    "license": null,
+    "sourceUrl": "https://www.billreidgallery.ca/"
   },
   "vancouver/things-to-do/bloedel-conservatory": {
     "file": "vancouver/things-to-do/bloedel-conservatory-1600.webp",
@@ -1143,6 +1924,17 @@
     "license": null,
     "sourceUrl": "https://www.capbridge.com"
   },
+  "vancouver/things-to-do/chinatown": {
+    "file": "vancouver/things-to-do/chinatown-1600.webp",
+    "small": "vancouver/things-to-do/chinatown-720.webp",
+    "width": 1600,
+    "height": 1201,
+    "color": "#78a8e8",
+    "kind": "commons",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_Chinatown_Millennium_Gate_2025.jpg"
+  },
   "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden": {
     "file": "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden-1600.webp",
     "small": "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden-720.webp",
@@ -1153,6 +1945,17 @@
     "credit": "No machine-readable author provided. Bobanny assumed (based on copyright claims)",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:SunYatSenGarden.jpg"
+  },
+  "vancouver/things-to-do/english-bay-beach": {
+    "file": "vancouver/things-to-do/english-bay-beach-1600.webp",
+    "small": "vancouver/things-to-do/english-bay-beach-720.webp",
+    "width": 1024,
+    "height": 767,
+    "color": "#d8e8e8",
+    "kind": "commons",
+    "credit": "No real name given",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:English_Bay,_Vancouver,_BC.jpg"
   },
   "vancouver/things-to-do/gastown": {
     "file": "vancouver/things-to-do/gastown-1600.webp",
@@ -1220,6 +2023,17 @@
     "license": "CC BY 2.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynn_canyon_park_lynn_creek.jpg"
   },
+  "vancouver/things-to-do/main-street-mount-pleasant": {
+    "file": "vancouver/things-to-do/main-street-mount-pleasant-1600.webp",
+    "small": "vancouver/things-to-do/main-street-mount-pleasant-720.webp",
+    "width": 1600,
+    "height": 1154,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "No machine-readable author provided. Keefer4~commonswiki assumed (based on copyr",
+    "license": "CC BY-SA 2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main25night.jpg"
+  },
   "vancouver/things-to-do/museum-of-anthropology-at-ubc": {
     "file": "vancouver/things-to-do/museum-of-anthropology-at-ubc-1600.webp",
     "small": "vancouver/things-to-do/museum-of-anthropology-at-ubc-720.webp",
@@ -1285,6 +2099,17 @@
     "credit": "Unknown",
     "license": "Public domain",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_Art_Gallery_Robson_Square_from_third_floor.jpg"
+  },
+  "vancouver/things-to-do/vancouver-seawall": {
+    "file": "vancouver/things-to-do/vancouver-seawall-1600.webp",
+    "small": "vancouver/things-to-do/vancouver-seawall-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#384838",
+    "kind": "commons",
+    "credit": "No machine-readable author provided. Bobanny assumed (based on copyright claims)",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seawall2.jpg"
   },
   "vancouver/things-to-do/vandusen-botanical-garden": {
     "file": "vancouver/things-to-do/vandusen-botanical-garden-1600.webp",
