@@ -1,0 +1,1040 @@
+{
+  "city": "vancouver",
+  "category": "things-to-do",
+  "status": "researched",
+  "updated": "2026-10-11",
+  "entries": [
+    {
+      "id": "stanley-park",
+      "name": "Stanley Park",
+      "localName": null,
+      "neighbourhood": "Stanley Park",
+      "subtype": "park",
+      "description": "A 400-hectare forested peninsula with beaches, totem poles, lagoons and trails beside downtown.",
+      "why": "Voted the top place to bring visitors in a 2025 local poll, and every guide starts here.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/stanley-park/1361918",
+          "title": "Stanley Park | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "One of North America's largest urban parks; free, open 24 hours, seawall, Beaver Lake, Lost Lagoon, totems.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed as a top Vancouver activity for its beaches, totem poles, aquarium, gardens and trails.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "north-shore-news",
+          "url": "https://www.nsnews.com/local-news/poll-where-friends-family-visit-vancouver-10926320",
+          "title": "Poll: The best places to take friends or family visiting Vancouver",
+          "kind": "local-press",
+          "published": "2025-06",
+          "afterVisit": true,
+          "supports": "Won the reader poll for best place to take visitors, with about 38% of votes.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public city park, free and open 24 hours per Lonely Planet; covered in 2026 World Cup travel guides."
+    },
+    {
+      "id": "vancouver-seawall",
+      "name": "Vancouver Seawall",
+      "localName": null,
+      "neighbourhood": "Stanley Park",
+      "subtype": "walking and cycling path",
+      "description": "Car-free waterfront path that loops Stanley Park and continues around False Creek.",
+      "why": "Rent a bike for the Stanley Park loop; guides single it out as the city's essential ride.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-vancouver",
+          "title": "10 of the Best Things to Do in Vancouver: Adventure, Wildlife and Food",
+          "kind": "guide",
+          "published": "2025-07-17",
+          "afterVisit": true,
+          "supports": "Recommends renting a bike to ride the Stanley Park seawall.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Long paved waterfront path; the Stanley Park section is the most popular stretch.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Stanley Park Seawall: car-free paved path of about 9 km, extending along the waterfront.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public path; named in 2026 guides including Destination Vancouver's World Cup itinerary."
+    },
+    {
+      "id": "granville-island-public-market",
+      "name": "Granville Island Public Market",
+      "localName": null,
+      "neighbourhood": "Granville Island",
+      "subtype": "market",
+      "description": "Covered waterfront market of fish, cheese, produce and bakery stalls in a former industrial area.",
+      "why": "Graze the stalls, grab a doughnut, then picnic by the water; second in the 2025 local poll.",
+      "price": 0,
+      "website": "https://granvilleisland.com/public-market",
+      "address": "Johnston St, Granville Island",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/granville-island-public-market/394025",
+          "title": "Granville Island Public Market | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "The highlight of Granville Island: fish, cheese, fruit, tea and bakery stalls plus a food court.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Market with local produce, crafts, specialty foods and prepared-food stalls.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Granville Island listed for its public market, food shops, galleries and floating homes.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Featured in Destination Vancouver's April 2026 itinerary and the June 2026 Euronews guide."
+    },
+    {
+      "id": "museum-of-anthropology-at-ubc",
+      "name": "Museum of Anthropology at UBC",
+      "localName": null,
+      "neighbourhood": "University of British Columbia",
+      "subtype": "museum",
+      "description": "Arthur Erickson-designed museum of Northwest Coast Indigenous art, with towering poles in the Great Hall.",
+      "why": "Bill Reid's Raven and the First Men alone is worth the bus ride to campus.",
+      "price": 2,
+      "website": "https://moa.ubc.ca",
+      "address": "6393 NW Marine Dr, Vancouver, BC V6T 1Z2",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/museum-of-anthropology/1367905",
+          "title": "Museum of Anthropology | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Called one of Vancouver's best museums; Great Hall, Multiversity Galleries and Bill Reid Rotunda.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Indigenous artifacts, the largest Bill Reid collection, and an Arthur Erickson building.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Official UBC visit page shows current hours and prices; Lonely Planet (Jul 2025) notes it reopened after a C$40M upgrade. Fodor's 'closed for renovations' note is outdated."
+    },
+    {
+      "id": "capilano-suspension-bridge-park",
+      "name": "Capilano Suspension Bridge Park",
+      "localName": null,
+      "neighbourhood": "North Vancouver",
+      "subtype": "nature attraction",
+      "description": "A 140 m footbridge swaying high over a rainforest canyon, plus treetop walkways and a cliffside path.",
+      "why": "Pricey and busy, but the canyon is spectacular; go early or for the winter lights.",
+      "price": null,
+      "website": "https://www.capbridge.com",
+      "address": "3735 Capilano Rd, North Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/capilano-suspension-bridge-park/393999",
+          "title": "Capilano Suspension Bridge Park | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "One of the world's longest, highest footbridges, with Cliffwalk, canopy trail and free shuttle.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Suspension bridge over the Capilano River in temperate rainforest.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Cedar bridge about 137 m long with treetop walks, Cliffwalk and totem park.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Included in Destination Vancouver's April 2026 World Cup itinerary; no closure news found in sources."
+    },
+    {
+      "id": "grouse-mountain",
+      "name": "Grouse Mountain",
+      "localName": null,
+      "neighbourhood": "North Vancouver",
+      "subtype": "mountain attraction",
+      "description": "Gondola-access peak above the city with alpine trails, a grizzly refuge in summer and skiing in winter.",
+      "why": "The Skyride view over the city is the payoff; locals hike the Grouse Grind up instead.",
+      "price": null,
+      "website": "https://www.grousemountain.com",
+      "address": "6400 Nancy Greene Way, North Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/grouse-mountain/1359639",
+          "title": "Grouse Mountain | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Skyride with city views, lumberjack shows, grizzly refuge; Grouse Grind hikers pay less.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Year-round mountain with hiking, ziplining, skating and a gondola with city views.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "euronews",
+          "url": "https://www.euronews.com/travel/2026/06/06/vancouver-a-travel-guide-to-the-2026-world-cup-host-city",
+          "title": "Vancouver: A travel guide to the 2026 World Cup host city",
+          "kind": "guide",
+          "published": "2026-06",
+          "afterVisit": false,
+          "supports": "Recommended for gondola access to mountain views close to the city.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Recommended in June 2026 Euronews guide and April 2026 Destination Vancouver itinerary; no closure news found."
+    },
+    {
+      "id": "vandusen-botanical-garden",
+      "name": "VanDusen Botanical Garden",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "garden",
+      "description": "A 55-acre garden of thousands of plant species, with lakes, a rose garden and a hedge maze.",
+      "why": "Calm, beautiful in any season, and the December Festival of Lights is a local ritual.",
+      "price": null,
+      "website": "https://vandusengarden.org",
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "55-acre garden with over 7,500 plant species and a cedar hedge maze.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Elizabethan maze, rose garden, lakes and a December Festival of Lights.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "City-owned garden listed in current Time Out and Fodor's guides; no closure news found."
+    },
+    {
+      "id": "dr-sun-yat-sen-classical-chinese-garden",
+      "name": "Dr. Sun Yat-Sen Classical Chinese Garden",
+      "localName": null,
+      "neighbourhood": "Chinatown",
+      "subtype": "garden",
+      "description": "Ming-style scholar's garden built by Suzhou artisans in 1986, with a free public park next door.",
+      "why": "A quiet pocket of courtyards and koi ponds; join a guided tour to read the design.",
+      "price": null,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Ming-style scholar's garden in Chinatown; paid entry with a free adjacent park.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Built in 1986 by Suzhou artisans, with guided tours.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/articles/top-free-things-to-do-in-vancouver",
+          "title": "The 25 best free experiences in Vancouver",
+          "kind": "guide",
+          "published": "2022-10-25",
+          "afterVisit": true,
+          "supports": "The free Sun Yat-Sen Park beside the paid garden is a recommended free experience.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Listed in current Time Out and Fodor's guides; no closure news found."
+    },
+    {
+      "id": "queen-elizabeth-park",
+      "name": "Queen Elizabeth Park",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "park",
+      "description": "The city's highest point, with quarry gardens, fountains and wide views of downtown and the mountains.",
+      "why": "Free, rarely crowded, and the summit view is one of the best in town.",
+      "price": 0,
+      "website": "https://vancouverparks.ca",
+      "address": "W 33rd Ave & Cambie St, Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/queen-elizabeth-park/394069",
+          "title": "Queen Elizabeth Park | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "City's highest point with skyline views, formal gardens, Henry Moore sculpture and birdwatching.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "travelpulse",
+          "url": "https://travelpulse.com/news/destinations/vancouver-world-cup-2026-travel-guide-things-to-do-in-british-columbia",
+          "title": "Vancouver World Cup 2026 Travel Guide for Canada vs Qatar",
+          "kind": "guide",
+          "published": "2026-06-17",
+          "afterVisit": false,
+          "supports": "Recommended for its high point, gardens, sculptures and the Bloedel Conservatory.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public city park; recommended in June 2026 TravelPulse guide."
+    },
+    {
+      "id": "bloedel-conservatory",
+      "name": "Bloedel Conservatory",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "conservatory",
+      "description": "Domed tropical conservatory atop Queen Elizabeth Park, full of free-flying birds and parrots.",
+      "why": "The best rainy-day hour in Vancouver, especially with kids.",
+      "price": 1,
+      "website": "https://vandusengarden.org",
+      "address": "4600 Cambie St, Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/bloedel-conservatory/393991",
+          "title": "Bloedel Conservatory | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Top Choice; tropical plants and hundreds of free-flying birds, good for rainy days and families.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "travelpulse",
+          "url": "https://travelpulse.com/news/destinations/vancouver-world-cup-2026-travel-guide-things-to-do-in-british-columbia",
+          "title": "Vancouver World Cup 2026 Travel Guide for Canada vs Qatar",
+          "kind": "guide",
+          "published": "2026-06-17",
+          "afterVisit": false,
+          "supports": "Named as a highlight of Queen Elizabeth Park.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Mentioned in June 2026 coverage; no closure news found. Weaker entry (TravelPulse only mentions it in passing)."
+    },
+    {
+      "id": "vancouver-art-gallery",
+      "name": "Vancouver Art Gallery",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "art museum",
+      "description": "Western Canada's largest public art museum, in a former courthouse, with a major Emily Carr collection.",
+      "why": "Go for the Emily Carr forests; Tuesday evenings are by donation.",
+      "price": 2,
+      "website": "https://www.vanartgallery.bc.ca",
+      "address": "750 Hornby St, Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/vancouver-art-gallery/394099",
+          "title": "Vancouver Art Gallery | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Western Canada's largest public art museum; Emily Carr paintings; $35 adult, by donation Tuesday evenings.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Gallery in a renovated courthouse with a large Emily Carr collection.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Listed in current Time Out and Lonely Planet pages with current pricing; no closure news found."
+    },
+    {
+      "id": "bill-reid-gallery-of-northwest-coast-art",
+      "name": "Bill Reid Gallery of Northwest Coast Art",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "art gallery",
+      "description": "Small gallery devoted to Haida artist Bill Reid and contemporary Northwest Coast Indigenous art.",
+      "why": "Compact and focused, a good downtown companion to the Museum of Anthropology.",
+      "price": null,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-vancouver",
+          "title": "10 of the Best Things to Do in Vancouver: Adventure, Wildlife and Food",
+          "kind": "guide",
+          "published": "2025-07-17",
+          "afterVisit": true,
+          "supports": "Canada's only public gallery dedicated to contemporary Northwest Coast Indigenous art.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Small downtown gallery of First Nations art with works by Bill Reid and current artists.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Recommended in Lonely Planet Jul 2025 and current Fodor's; no closure news found."
+    },
+    {
+      "id": "science-world",
+      "name": "Science World",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "science centre",
+      "description": "Hands-on science centre under the geodesic dome at the end of False Creek.",
+      "why": "Two floors of things to press and pull; the family pick when it rains.",
+      "price": 2,
+      "website": "https://www.scienceworld.ca",
+      "address": "1455 Quebec St, Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/science-world/1159995",
+          "title": "Science World | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Iconic dome, two floors of interactive exhibits, live demos and an outdoor science park; $36 adult.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "destination-vancouver",
+          "url": "https://www.destinationvancouver.com/things-to-do/",
+          "title": "Things to Do In Vancouver | Official Visitor Guide",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Featured among the city's main attractions.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Listed on the official tourism site and Lonely Planet with current pricing; no closure news found."
+    },
+    {
+      "id": "vancouver-aquarium",
+      "name": "Vancouver Aquarium",
+      "localName": null,
+      "neighbourhood": "Stanley Park",
+      "subtype": "aquarium",
+      "description": "Canada's largest aquarium, inside Stanley Park, with rescued marine mammals and a rainforest gallery.",
+      "why": "Easy to pair with a seawall walk, and a solid bet with kids.",
+      "price": null,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Conservation-focused aquarium in Stanley Park with rescued marine mammals.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Marine-life displays, an Amazon rainforest gallery and dive shows.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "travelpulse",
+          "url": "https://travelpulse.com/news/destinations/vancouver-world-cup-2026-travel-guide-things-to-do-in-british-columbia",
+          "title": "Vancouver World Cup 2026 Travel Guide for Canada vs Qatar",
+          "kind": "guide",
+          "published": "2026-06-17",
+          "afterVisit": false,
+          "supports": "Recommended for visitors and described as Canada's largest aquarium.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Recommended in June 2026 TravelPulse guide and on the official tourism site; no closure news found."
+    },
+    {
+      "id": "gastown",
+      "name": "Gastown",
+      "localName": null,
+      "neighbourhood": "Gastown",
+      "subtype": "neighbourhood",
+      "description": "The city's oldest quarter: cobbled Water Street, heritage brick, the Steam Clock, boutiques and bars.",
+      "why": "Touristy at the Steam Clock, but the side streets hold some of the city's best bars and shops.",
+      "price": 0,
+      "website": null,
+      "address": "Steam Clock at Water St & Cambie St",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Historic neighbourhood with cobblestones, boutiques, galleries and the Steam Clock.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver",
+          "title": "Vancouver Travel Guide",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Vancouver's oldest neighbourhood, home of the Victorian-inspired Steam Clock.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "euronews",
+          "url": "https://www.euronews.com/travel/2026/06/06/vancouver-a-travel-guide-to-the-2026-world-cup-host-city",
+          "title": "Vancouver: A travel guide to the 2026 World Cup host city",
+          "kind": "guide",
+          "published": "2026-06",
+          "afterVisit": false,
+          "supports": "Recommended for historic streets showing the city's origins.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Neighbourhood; covered in 2026 guides."
+    },
+    {
+      "id": "chinatown",
+      "name": "Chinatown",
+      "localName": "唐人街",
+      "neighbourhood": "Chinatown",
+      "subtype": "neighbourhood",
+      "description": "Canada's largest Chinatown, with dim sum halls, tea and herb shops, a classical garden and history museums.",
+      "why": "Come hungry, then dig into the history at the Storytelling Centre.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver",
+          "title": "Vancouver Travel Guide",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Canada's largest Chinatown: Sun Yat-Sen Garden, Storytelling Centre, dim sum, tea and herbal shops.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "destination-vancouver",
+          "url": "https://www.destinationvancouver.com/es/inspirations/city/things-to-do-in-vancouver-during-the-world-cup",
+          "title": "The Perfect Things to Do in Vancouver During the World Cup",
+          "kind": "tourism",
+          "published": "2026-04-14",
+          "afterVisit": false,
+          "supports": "Recommended for affordable eats, dim sum, Cantonese restaurants and cocktail bars.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Neighbourhood; recommended in April 2026 official tourism itinerary."
+    },
+    {
+      "id": "kitsilano-beach",
+      "name": "Kitsilano Beach",
+      "localName": null,
+      "neighbourhood": "Kitsilano",
+      "subtype": "beach",
+      "description": "Sandy city beach facing downtown and the North Shore, with a long heated saltwater pool.",
+      "why": "Summer volleyball, a swim, then West 4th for food; the classic Kits afternoon.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Busy beach west of Burrard Bridge with a 137.5 m heated saltwater pool.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/articles/top-free-things-to-do-in-vancouver",
+          "title": "The 25 best free experiences in Vancouver",
+          "kind": "guide",
+          "published": "2022-10-25",
+          "afterVisit": true,
+          "supports": "Free summer hangout for sunbathing, volleyball and swimming with downtown and mountain views.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "north-shore-news",
+          "url": "https://www.nsnews.com/local-news/poll-where-friends-family-visit-vancouver-10926320",
+          "title": "Poll: The best places to take friends or family visiting Vancouver",
+          "kind": "local-press",
+          "published": "2025-06",
+          "afterVisit": true,
+          "supports": "Kitsilano and Kits Beach named among the best places to take visitors.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public beach; cited in June 2026 Euronews guide."
+    },
+    {
+      "id": "english-bay-beach",
+      "name": "English Bay Beach",
+      "localName": null,
+      "neighbourhood": "West End",
+      "subtype": "beach",
+      "description": "The West End's city beach at the edge of Stanley Park, known for sunsets and summer fireworks.",
+      "why": "Sunset here with takeout from Davie or Denman is a very Vancouver evening.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Well-known beach near Stanley Park with fireworks, volleyball and the A-maze-ing Laughter sculptures.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "West End listed for English Bay and Sunset beaches, dining and public art.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "north-shore-news",
+          "url": "https://www.nsnews.com/local-news/poll-where-friends-family-visit-vancouver-10926320",
+          "title": "Poll: The best places to take friends or family visiting Vancouver",
+          "kind": "local-press",
+          "published": "2025-06",
+          "afterVisit": true,
+          "supports": "English Bay Beach and the West End came third in the reader poll.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public beach; cited in June 2026 Euronews guide."
+    },
+    {
+      "id": "jericho-beach",
+      "name": "Jericho Beach",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "beach",
+      "description": "Long, calmer west-side beach with paddling rentals, running into Spanish Banks.",
+      "why": "Quieter than Kits, and the place to rent a kayak or board.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-vancouver",
+          "title": "10 of the Best Things to Do in Vancouver: Adventure, Wildlife and Food",
+          "kind": "guide",
+          "published": "2025-07-17",
+          "afterVisit": true,
+          "supports": "Recommended for kayak and paddleboard access and rentals.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Beach for swimming and water sports, next to Spanish Banks.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public beach; no issues found."
+    },
+    {
+      "id": "commercial-drive",
+      "name": "Commercial Drive",
+      "localName": null,
+      "neighbourhood": "Commercial Drive",
+      "subtype": "neighbourhood",
+      "description": "East Van strip of cafés, vintage shops, bookstores and patios, with Grandview Park at its heart.",
+      "why": "The best street for an unhurried local afternoon of espresso and browsing.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/articles/best-neighborhoods-in-vancouver",
+          "title": "The 6 Best Neighborhoods in Vancouver for Brews, Beaches and Boutiques",
+          "kind": "guide",
+          "published": "2025-09-22",
+          "afterVisit": true,
+          "supports": "One of the city's best neighbourhoods: boutiques, vintage, Pulpfiction Books, Grandview Park.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Named among neighbourhoods worth exploring.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Neighbourhood; covered by Lonely Planet Sept 2025."
+    },
+    {
+      "id": "main-street-mount-pleasant",
+      "name": "Main Street, Mount Pleasant",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "neighbourhood",
+      "description": "Indie boutiques, vintage stores, galleries and a cluster of craft breweries along Main Street.",
+      "why": "Where to spend a brewery-hopping evening away from downtown crowds.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver",
+          "title": "Vancouver Travel Guide",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Independent boutiques, vintage on Main Street, galleries, craft breweries and 1890s homes.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "South Main named among neighbourhoods worth exploring.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Neighbourhood. Time Out support is a passing mention only."
+    },
+    {
+      "id": "museum-of-vancouver",
+      "name": "Museum of Vancouver",
+      "localName": null,
+      "neighbourhood": "Kitsilano",
+      "subtype": "museum",
+      "description": "Civic history museum in Vanier Park, strongest on the city's 1950s and 60s pop and counterculture.",
+      "why": "The 1950s pop culture and 60s counterculture galleries tell the city's story with real charm.",
+      "price": null,
+      "website": "https://museumofvancouver.ca",
+      "address": "1100 Chestnut St, Vancouver",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/points-of-interest/museum-of-vancouver/1357378",
+          "title": "Museum of Vancouver | Vancouver, Canada Attractions",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Highlights 1950s pop culture and 1960s counterculture galleries alongside First Nations and pioneer exhibits.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver",
+          "title": "Vancouver Travel Guide",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Kitsilano highlight, described as Canada's largest civic museum.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "travelpulse",
+          "url": "https://travelpulse.com/news/destinations/vancouver-world-cup-2026-travel-guide-things-to-do-in-british-columbia",
+          "title": "Vancouver World Cup 2026 Travel Guide for Canada vs Qatar",
+          "kind": "guide",
+          "published": "2026-06-17",
+          "afterVisit": false,
+          "supports": "Recommended to visitors as the city's oldest museum.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Recommended in June 2026 TravelPulse guide; no closure news found."
+    },
+    {
+      "id": "canada-place",
+      "name": "Canada Place",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "landmark",
+      "description": "Sail-roofed cruise terminal with a waterfront promenade, harbour views and the FlyOver Canada ride.",
+      "why": "Walk the promenade for floatplanes and North Shore views; free unless you ride FlyOver.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Ship-shaped cruise terminal with FlyOver Canada and a waterfront promenade.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "north-shore-news",
+          "url": "https://www.nsnews.com/local-news/poll-where-friends-family-visit-vancouver-10926320",
+          "title": "Poll: The best places to take friends or family visiting Vancouver",
+          "kind": "local-press",
+          "published": "2025-06",
+          "afterVisit": true,
+          "supports": "Canada Place and the harbour placed fourth in the reader poll.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "euronews",
+          "url": "https://www.euronews.com/travel/2026/06/06/vancouver-a-travel-guide-to-the-2026-world-cup-host-city",
+          "title": "Vancouver: A travel guide to the 2026 World Cup host city",
+          "kind": "guide",
+          "published": "2026-06",
+          "afterVisit": false,
+          "supports": "Named a classic spot for city views.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Landmark; featured in June 2026 coverage."
+    },
+    {
+      "id": "lynn-canyon-park",
+      "name": "Lynn Canyon Park",
+      "localName": null,
+      "neighbourhood": "North Vancouver",
+      "subtype": "park",
+      "description": "Rainforest canyon park with a free suspension bridge, creekside trails and swimming holes.",
+      "why": "The free alternative to Capilano, with fewer crowds and real forest trails.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/british-columbia/vancouver/things-to-do/sights",
+          "title": "88 Best Sights in Vancouver, British Columbia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Canyon park with a free suspension bridge about 50 m above Lynn Creek, trails and swimming hole.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/vancouver/things-to-do/best-things-to-do-in-vancouver",
+          "title": "The 21 best things to do in Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Mentions the free Lynn Canyon suspension bridge as a nearby option.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Public park; no closure news found. Time Out support is a passing mention."
+    }
+  ]
+}

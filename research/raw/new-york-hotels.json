@@ -1,0 +1,511 @@
+{
+  "city": "new-york",
+  "category": "hotels",
+  "researchedOn": "2026-10-11",
+  "entries": [
+    {
+      "name": "Aman New York",
+      "localName": null,
+      "neighbourhood": "Midtown",
+      "subtype": "luxury hotel",
+      "description": "All-suite Aman in the Crown Building on Fifth Avenue, with fireplaces, deep tubs and a lofty lobby.",
+      "why": "Holds Michelin's top three Keys and Forbes stars; the calmest, priciest hush in Midtown.",
+      "price": 4,
+      "website": "https://www.aman.com/hotels/aman-new-york",
+      "address": "The Crown Building, 730 Fifth Avenue, New York, NY 10019",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed among the Three-Key hotels in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Praised for Japanese-leaning minimalism in a Beaux-Arts landmark; rates from about $2,300."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Rated Four-Star in the Forbes Travel Guide New York City listings."}
+      ],
+      "closureCheck": "Official site shows Fifth Avenue address and live booking; listed in Michelin's Sept 2026 selection; no closure news found."
+    },
+    {
+      "name": "The Whitby Hotel",
+      "localName": null,
+      "neighbourhood": "Midtown",
+      "subtype": "boutique hotel",
+      "description": "Firmdale's colourful Kit Kemp hotel by Fifth Avenue, with afternoon tea and a private screening room.",
+      "why": "A Three-Key Michelin pick that feels playful rather than stuffy, a rare thing in Midtown.",
+      "price": 4,
+      "website": "https://www.firmdalehotels.com/hotels/new-york/the-whitby-hotel/",
+      "address": "18 W 56th Street, New York, NY 10019",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Three Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Colourful Midtown boutique noted for Wedgwood tea and film club; from about $1,150."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Listed as Recommended in Forbes Travel Guide's New York City hotels."}
+      ],
+      "closureCheck": "Official site shows address, live room booking and restaurant reservations; no closure notice or news found."
+    },
+    {
+      "name": "Crosby Street Hotel",
+      "localName": null,
+      "neighbourhood": "Soho",
+      "subtype": "boutique hotel",
+      "description": "Firmdale's maximalist Soho hotel in a loft-style building, with a busy bar and screening room.",
+      "why": "Three Michelin Keys and Forbes Five-Star, yet it still feels like a neighbourhood hangout.",
+      "price": null,
+      "website": "https://www.firmdalehotels.com/hotels/new-york/crosby-street-hotel/",
+      "address": "79 Crosby Street, New York, NY 10012",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Three Keys in the 2026 US selection."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Rated Five-Star in Forbes Travel Guide's New York City listings."}
+      ],
+      "closureCheck": "Official site shows address, live room booking and OpenTable link; no closure notice or news found."
+    },
+    {
+      "name": "Casa Cipriani New York",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "luxury hotel",
+      "description": "Hotel and members' club in the restored Battery Maritime Building, looking out over the East River.",
+      "why": "One of only four Three-Key hotels in the city, with ocean-liner glamour by the ferry piers.",
+      "price": 4,
+      "website": "https://www.casacipriani.com/",
+      "address": null,
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Three Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Vintage ocean-liner styling, private terraces and harbour views; from about $1,000."}
+      ],
+      "closureCheck": "Brand site describes the New York hotel in the Battery Maritime Building with no closure notice (NY subsite blocked to fetch); in Michelin's Sept 2026 selection; no closure news found."
+    },
+    {
+      "name": "Warren Street Hotel",
+      "localName": null,
+      "neighbourhood": "Tribeca",
+      "subtype": "boutique hotel",
+      "description": "Firmdale's newest New York hotel, a bold Kit Kemp design with its own bar and restaurant in Tribeca.",
+      "why": "Two Michelin Keys and AFAR's nod for its riot of colour and craft on a quiet Tribeca street.",
+      "price": 4,
+      "website": "https://www.firmdalehotels.com/hotels/new-york/warren-street-hotel/",
+      "address": "86 Warren Street, New York, NY 10007",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Kit Kemp's maximalist Tribeca retreat; rates from about $985."}
+      ],
+      "closureCheck": "Official site shows address, live booking and OpenTable link; no closure notice or news found."
+    },
+    {
+      "name": "Hôtel Barrière Fouquet's New York",
+      "localName": null,
+      "neighbourhood": "Tribeca",
+      "subtype": "luxury hotel",
+      "description": "Parisian art deco hotel in Tribeca with a private cinema, French dining and a rooftop garden bar.",
+      "why": "Two Michelin Keys and a French accent that actually lands, from the brasserie to the roof.",
+      "price": 4,
+      "website": "https://www.hotelsbarriere.com/en/new-york/le-fouquets.html",
+      "address": "456 Greenwich St, New York, NY 10013",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Art deco glamour, private cinema and strong French cooking; from about $950."}
+      ],
+      "closureCheck": "Official site shows bookable rooms and says the rooftop is open for the season; no closure news found."
+    },
+    {
+      "name": "Nine Orchard",
+      "localName": null,
+      "neighbourhood": "Lower East Side",
+      "subtype": "boutique hotel",
+      "description": "Boutique hotel in a grand former bank building at the Dimes Square end of Orchard Street.",
+      "why": "Two Michelin Keys and a Time Out favourite, with downtown's liveliest scene on the doorstep.",
+      "price": 3,
+      "website": "https://www.nineorchard.com/",
+      "address": "9 Orchard Street, New York, NY 10002",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 tried-and-tested list; rooms from about $520."}
+      ],
+      "closureCheck": "Official site shows address and room reservations; sold to a new owner in Aug 2025 but still operating and on Oct 2026 lists; no closure news found."
+    },
+    {
+      "name": "Pendry Manhattan West",
+      "localName": null,
+      "neighbourhood": "Hudson Yards",
+      "subtype": "luxury hotel",
+      "description": "Sleek, California-inflected tower hotel on the far west side near Hudson Yards and Penn Station.",
+      "why": "Forbes Five-Star and two Michelin Keys, and a smart base for the High Line and west side.",
+      "price": null,
+      "website": "https://www.pendry.com/manhattan-west/",
+      "address": "438 W 33rd Street, New York, NY 10001",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Rated Five-Star in Forbes Travel Guide's New York City listings."}
+      ],
+      "closureCheck": "Official site shows live availability for Oct 2026 dates; no closure news found."
+    },
+    {
+      "name": "The Fifth Avenue Hotel",
+      "localName": null,
+      "neighbourhood": "NoMad",
+      "subtype": "luxury hotel",
+      "description": "A 1907 mansion turned whimsical hotel in NoMad, home to Café Carmellini and the Portrait Bar.",
+      "why": "Two Michelin Keys and on nearly every 2026 list we checked; the dining alone is worth the trip.",
+      "price": 3,
+      "website": "https://www.thefifthavenuehotel.com/",
+      "address": "1 West 28th Street, New York, NY 10001",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $720."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Celebrated conversion with whimsical Martin Brudnizki interiors."}
+      ],
+      "closureCheck": "Official site shows live availability for Oct 2026 dates; no closure news found."
+    },
+    {
+      "name": "The Carlyle, A Rosewood Hotel",
+      "localName": null,
+      "neighbourhood": "Upper East Side",
+      "subtype": "classic grand hotel",
+      "description": "Old-guard Upper East Side landmark with Bemelmans Bar, Café Carlyle and apartment-style rooms.",
+      "why": "Two Michelin Keys and every major list; a nightcap at Bemelmans is a New York rite.",
+      "price": 3,
+      "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york",
+      "address": "35 East 76th St., New York, NY 10021",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $850."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Storied old-New York elegance, with Bemelmans Bar and Café Carlyle."}
+      ],
+      "closureCheck": "Official site shows reservations and open restaurants and bars; no closure news found."
+    },
+    {
+      "name": "The Mark",
+      "localName": null,
+      "neighbourhood": "Upper East Side",
+      "subtype": "luxury hotel",
+      "description": "Madison Avenue hotel with bold contemporary design, a Jean-Georges restaurant and a caviar bar.",
+      "why": "Forbes Five-Star and two Michelin Keys; service here is the kind people talk about for years.",
+      "price": 4,
+      "website": "https://www.themarkhotel.com/",
+      "address": "Madison Avenue at 77th Street, New York, NY 10075",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Impeccable service and striking redesign; from about $1,395."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Rated Five-Star in Forbes Travel Guide's New York City listings."}
+      ],
+      "closureCheck": "Official site shows reservations and phone booking; no closure news found."
+    },
+    {
+      "name": "Waldorf Astoria New York",
+      "localName": null,
+      "neighbourhood": "Midtown East",
+      "subtype": "classic grand hotel",
+      "description": "The art deco Park Avenue icon, reopened after a long restoration with Peacock Alley back in action.",
+      "why": "New Two-Key Michelin hotel in 2026, and the restored lobby alone justifies a visit.",
+      "price": 4,
+      "website": "https://www.hilton.com/en/hotels/nycwawa-waldorf-astoria-new-york/",
+      "address": "301 Park Avenue, New York, NY 10022",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from around $1,350."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Restored art deco landmark with grand lobby and Peacock Alley."}
+      ],
+      "closureCheck": "Official Hilton page live with no closure notice; reopened after renovation and on Sept/Oct 2026 lists."
+    },
+    {
+      "name": "The Lowell",
+      "localName": null,
+      "neighbourhood": "Upper East Side",
+      "subtype": "luxury hotel",
+      "description": "Understated Upper East Side hotel with wood-burning fireplaces, afternoon tea and a residential feel.",
+      "why": "Upgraded to two Michelin Keys in 2026; it runs like a very well-kept private house.",
+      "price": 4,
+      "website": "https://www.lowellhotel.com/",
+      "address": "28 East 63rd Street, New York, NY 10065",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Private-residence feel, fireplaces, handwritten turndown notes; from about $1,295."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Rated Four-Star in Forbes Travel Guide's New York City listings."}
+      ],
+      "closureCheck": "Official site shows address and live booking; no closure news found."
+    },
+    {
+      "name": "The Ritz-Carlton New York, NoMad",
+      "localName": null,
+      "neighbourhood": "NoMad",
+      "subtype": "luxury hotel",
+      "description": "Modern Ritz-Carlton tower in NoMad with José Andrés restaurants and a 50th-floor rooftop bar.",
+      "why": "Bumped to two Michelin Keys in 2026; a younger, livelier take on Ritz polish.",
+      "price": 4,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $1,400."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Contemporary Ritz service, José Andrés dining and skyline views."}
+      ],
+      "closureCheck": "Official Marriott page failed to load; relied on Oct 2026 Time Out list and Sept 2026 Michelin upgrade as signs it is open. No closure news found."
+    },
+    {
+      "name": "The Peninsula New York",
+      "localName": null,
+      "neighbourhood": "Midtown",
+      "subtype": "classic grand hotel",
+      "description": "Beaux-Arts tower on Fifth Avenue at 55th Street, crowned by the Pen Top rooftop bar.",
+      "why": "Forbes Five-Star and a Michelin Key; a dependable grand-hotel stay right on Fifth Avenue.",
+      "price": 4,
+      "website": "https://www.peninsula.com/en/new-york/5-star-luxury-hotel-midtown-nyc",
+      "address": "700 Fifth Avenue at 55th Street, New York, NY",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $1,145."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Rated Five-Star in Forbes Travel Guide's New York City listings."}
+      ],
+      "closureCheck": "Official site live with address and no closure notice; on Oct 2026 Time Out list."
+    },
+    {
+      "name": "Mandarin Oriental, New York",
+      "localName": null,
+      "neighbourhood": "Columbus Circle",
+      "subtype": "luxury hotel",
+      "description": "High-floor hotel above Columbus Circle with Central Park views, a big spa and an indoor lap pool.",
+      "why": "Ranked in the US top five by U.S. News for 2026; the park views from the pool are hard to beat.",
+      "price": 4,
+      "website": "https://www.mandarinoriental.com/en/new-york/manhattan",
+      "address": "80 Columbus Circle, New York, NY 10023",
+      "evidence": [
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $850."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Top-tier spa, 75-foot lap pool and sweeping skyline views."},
+        {"publisher": "Forbes Travel Guide", "domain": "forbestravelguide.com", "url": "https://www.forbestravelguide.com/destinations/new-york-city-new-york", "title": "New York City, New York - Forbes Travel Guide", "kind": "award", "published": null, "afterVisit": true, "supports": "Listed as Recommended in Forbes Travel Guide's New York City hotels."}
+      ],
+      "closureCheck": "Official site shows address and reservations contacts, no closure notice; on Oct 2026 Time Out list."
+    },
+    {
+      "name": "The Greenwich Hotel",
+      "localName": null,
+      "neighbourhood": "Tribeca",
+      "subtype": "boutique hotel",
+      "description": "Discreet Tribeca hideaway with a candlelit pool, a serious spa and an Italian tavern downstairs.",
+      "why": "Michelin Key holder that AFAR and Time Out both love for its quiet, lived-in luxury.",
+      "price": 4,
+      "website": "https://www.thegreenwichhotel.com/",
+      "address": "377 Greenwich Street, New York, NY 10013",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $950."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Residential-feeling Tribeca retreat with a standout spa."}
+      ],
+      "closureCheck": "Official site shows address and live booking; no closure news found."
+    },
+    {
+      "name": "The Bowery Hotel",
+      "localName": null,
+      "neighbourhood": "NoHo",
+      "subtype": "boutique hotel",
+      "description": "Moody downtown hotel with factory windows, a wood-panelled lobby and an old-New York feel.",
+      "why": "A Michelin Key and two 2026 best-of lists; still the coolest lobby to linger in downtown.",
+      "price": 3,
+      "website": "https://www.theboweryhotel.com/",
+      "address": "335 Bowery, New York, NY",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $600."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Downtown institution with members'-club charm and superb service."}
+      ],
+      "closureCheck": "Official site loads (JS-only, no closure notice); on Sept 2026 Michelin and Oct 2026 Time Out lists; no closure news found."
+    },
+    {
+      "name": "The Beekman, A Thompson Hotel",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "historic hotel",
+      "description": "An 1881 landmark with a soaring nine-storey atrium, plus restaurants from Boulud and Colicchio.",
+      "why": "Michelin Key and on Time Out and AFAR's lists; look up in that atrium and you'll see why.",
+      "price": 3,
+      "website": "https://www.thebeekman.com/",
+      "address": "123 Nassau Street, New York, NY 10038",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $530."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Landmark 1881 building with a dramatic atrium and big-name dining."}
+      ],
+      "closureCheck": "Official site shows address and live availability widget; no closure news found."
+    },
+    {
+      "name": "The Wall Street Hotel",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "luxury hotel",
+      "description": "Beaux-Arts hotel near the harbour with a pearl theme, an oyster-forward raw bar and a rooftop bar.",
+      "why": "Michelin Key, Forbes Four-Star and on 2026 lists; the best-dressed bed in the Financial District.",
+      "price": 3,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $535."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Pearl-themed Beaux-Arts hotel with a strong raw bar; from about $695."}
+      ],
+      "closureCheck": "Could not confirm an official site (thewallstreethotel.com redirects to a domain-for-sale page); relied on Sept 2026 Michelin and Oct 2026 Time Out listings. Flag for re-check."
+    },
+    {
+      "name": "The Hotel Chelsea",
+      "localName": null,
+      "neighbourhood": "Chelsea",
+      "subtype": "historic hotel",
+      "description": "The storied bohemian landmark on West 23rd, restored with its art collection and rough edges intact.",
+      "why": "Michelin Key and tops Time Out's 2026 list; you're sleeping inside the city's cultural history.",
+      "price": 3,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $527."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Restored literary and rock landmark that keeps its character; from about $500."}
+      ],
+      "closureCheck": "Closure search only surfaced the 2011 renovation closure; it has since reopened and appears on Sept 2026 Michelin and Oct 2026 Time Out lists. Official site redirect loop prevented a fetch."
+    },
+    {
+      "name": "The Twenty Two New York",
+      "localName": null,
+      "neighbourhood": "Union Square",
+      "subtype": "boutique hotel",
+      "description": "Former women's residence off Union Square, now a hotel with a members'-club feel and lively dining.",
+      "why": "Michelin Key and AFAR pick; it brings the London original's buzz to a quiet 16th Street block.",
+      "price": 3,
+      "website": "https://www.thetwentytwo.com/",
+      "address": "16 E 16th St, New York, NY 10003",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Members'-club-style boutique in a historic building; from about $800."}
+      ],
+      "closureCheck": "Official site lists the New York address and contacts; in Michelin's Sept 2026 selection; no closure news found."
+    },
+    {
+      "name": "The Ludlow Hotel",
+      "localName": null,
+      "neighbourhood": "Lower East Side",
+      "subtype": "boutique hotel",
+      "description": "Lower East Side hotel with an oak-panelled lobby bar, loft-style rooms and big city views.",
+      "why": "A Michelin Key at a more forgiving price, right in the middle of LES nightlife.",
+      "price": 2,
+      "website": "https://www.ludlowhotel.com/",
+      "address": "180 Ludlow Street, New York, NY",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key in the 2026 US selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $402."}
+      ],
+      "closureCheck": "Official site has live booking link; Michelin page shows current Key; no closure news found."
+    },
+    {
+      "name": "1 Hotel Brooklyn Bridge",
+      "localName": null,
+      "neighbourhood": "Brooklyn Bridge Park",
+      "subtype": "eco-luxury hotel",
+      "description": "Plant-filled waterfront hotel at Pier 1 with a rooftop pool and head-on Manhattan skyline views.",
+      "why": "Michelin Key and Time Out pick; the rooftop view back across the river is the reason to book.",
+      "price": 3,
+      "website": "https://www.1hotels.com/brooklyn-bridge",
+      "address": "60 Furman Street, Brooklyn, NY 11201",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key under Brooklyn in the 2026 selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $650."}
+      ],
+      "closureCheck": "Official site shows live availability and a current fall offer; no closure news found."
+    },
+    {
+      "name": "Wythe Hotel",
+      "localName": null,
+      "neighbourhood": "Williamsburg",
+      "subtype": "boutique hotel",
+      "description": "Converted Williamsburg factory with warehouse-style rooms, Le Crocodile downstairs and a rooftop bar.",
+      "why": "The Brooklyn boutique that set the template, still holding a Michelin Key in 2026.",
+      "price": 2,
+      "website": "https://wythehotel.com/",
+      "address": "80 Wythe Avenue, Brooklyn, NY 11249",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with One Key under Brooklyn in the 2026 selection."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $400."}
+      ],
+      "closureCheck": "Official site shows address and live booking; no closure news found."
+    },
+    {
+      "name": "Ace Hotel Brooklyn",
+      "localName": null,
+      "neighbourhood": "Boerum Hill",
+      "subtype": "design hotel",
+      "description": "Industrial-modern hotel near Downtown Brooklyn with a lobby that works as café, office and bar.",
+      "why": "Michelin-selected and Time Out's pick from about $200, good value for this much style.",
+      "price": 1,
+      "website": "https://acehotel.com/brooklyn/",
+      "address": "252 Schermerhorn St, Brooklyn, NY 11217",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/where-to-stay-every-key-hotel-brooklyn", "title": "Where to Stay: Every Key Hotel in Brooklyn", "kind": "guide", "published": "2026-04-20", "afterVisit": true, "supports": "Named among Brooklyn's Key hotels in April 2026, noting its workspace-by-day lobby bar."},
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://timeout.com/newyork/hotels/best-hotels-in-nyc", "title": "The 30 best hotels in New York City for 2026, tried and tested", "kind": "list", "published": "2026-10-07", "afterVisit": true, "supports": "Included in the fall 2026 list; rooms from about $200."}
+      ],
+      "closureCheck": "Official site shows live availability and events into Nov 2026; no closure news found. Note: absent from Michelin's Sept 2026 full Key list, so it may no longer hold a Key."
+    },
+    {
+      "name": "The Rockaway Hotel",
+      "localName": null,
+      "neighbourhood": "Rockaway Park, Queens",
+      "subtype": "beach hotel",
+      "description": "Breezy beach hotel a block from the Rockaway boardwalk, with a pool, spa, saunas and an ocean-view rooftop.",
+      "why": "The city's only real beach-resort stay, rated 4 stars by Time Out and listed by Michelin.",
+      "price": 2,
+      "website": "https://www.therockawayhotel.com/",
+      "address": "108-10 Rockaway Beach Dr., Rockaway Park, NY 11694",
+      "evidence": [
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://www.timeout.com/newyork/hotels/the-rockaway-hotel", "title": "The Rockaway Hotel + Spa", "kind": "critic", "published": "2025-06-23", "afterVisit": true, "supports": "Four-star review praising ocean-view rooms, heated pool, saunas and rooftop."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/new-york/reviews/the-rockaway-hotel", "title": "The Rockaway Hotel", "kind": "guide", "published": "2023-06-21", "afterVisit": true, "supports": "Covers the 53-room hotel near the boardwalk with pool, spa and rooftop bar."},
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ch/it/hotels-stays/queens/the-rockaway-hotel-11741", "title": "The Rockaway Hotel", "kind": "guide", "published": null, "afterVisit": true, "supports": "In the Michelin hotel selection as a stylish beach retreat designed by Morris Adjmi."}
+      ],
+      "closureCheck": "Official site shows address and live Book Now with 2026 footer; closure search found nothing relevant; on Time Out's Oct 2026 list."
+    },
+    {
+      "name": "TWA Hotel",
+      "localName": null,
+      "neighbourhood": "JFK Airport, Queens",
+      "subtype": "design hotel",
+      "description": "Eero Saarinen's 1962 TWA Flight Center at JFK, now a hotel with a runway-view rooftop pool and a cocktail plane.",
+      "why": "Four stars from Time Out, and a top travel blogger's favourite airport hotel in the world.",
+      "price": 2,
+      "website": "https://www.twahotel.com/",
+      "address": "1 Idlewild Drive, JFK International Airport, New York, NY 11430",
+      "evidence": [
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://www.timeout.com/newyork/hotels/twa-hotel", "title": "TWA Hotel", "kind": "critic", "published": "2026-09-23", "afterVisit": true, "supports": "Four-star review praising the restored terminal, quiet rooms and infinity pool; from $254."},
+        {"publisher": "One Mile at a Time", "domain": "onemileatatime.com", "url": "https://onemileatatime.com/twa-hotel-jfk-review/", "title": "Review: TWA Hotel New York JFK", "kind": "critic", "published": "2019-07-13", "afterVisit": true, "supports": "Reviewer's favourite airport hotel for design, but flags uneven service."}
+      ],
+      "closureCheck": "Official site shows Book Now and says the pool is open year-round, 2026 footer; Time Out review dated Sept 2026."
+    },
+    {
+      "name": "Radio Hotel",
+      "localName": null,
+      "neighbourhood": "Washington Heights",
+      "subtype": "budget boutique hotel",
+      "description": "Colourful uptown hotel with Dominican flavour, from Jalao restaurant downstairs to bachata nights.",
+      "why": "Time Out's top-rated cheap hotel in the city, and a true neighbourhood stay uptown.",
+      "price": 1,
+      "website": null,
+      "address": "2420 Amsterdam Ave, New York, NY 10033",
+      "evidence": [
+        {"publisher": "Time Out New York", "domain": "timeout.com", "url": "https://www.timeout.com/newyork/hotels/radio-hotel", "title": "Radio Hotel", "kind": "critic", "published": "2025-08-21", "afterVisit": true, "supports": "Four-star review calling it colourful, good value, with rooms from about $175."},
+        {"publisher": "Fodor's", "domain": "fodors.com", "url": "https://cdn.fodors.com/world/north-america/usa/new-york/new-york-city/neighborhoods/washington-heights-and-inwood/hotels", "title": "The Best Hotel in Washington Heights and Inwood, New York City", "kind": "guide", "published": null, "afterVisit": true, "supports": "Its pick for the area: minimalist rooms, Dominican restaurant Jalao, $ price tier."},
+        {"publisher": "The Points Guy", "domain": "thepointsguy.com", "url": "https://thepointsguy.com/hotel/reviews/radio-hotel-nyc/", "title": "Radio Hotel NYC review", "kind": "critic", "published": "2023-02-05", "afterVisit": true, "supports": "Found it fun and distinctive, praising design, Jalao and staff; rooms small."}
+      ],
+      "closureCheck": "Official site blocked to fetch; still on Time Out's Mar 2026 cheap-hotels ranking; closure search found no closure news."
+    },
+    {
+      "name": "The Surrey, A Corinthia Hotel",
+      "localName": null,
+      "neighbourhood": "Upper East Side",
+      "subtype": "luxury hotel",
+      "description": "Renovated Upper East Side landmark run by Corinthia, with spacious suites and attentive service.",
+      "why": "Upgraded to two Michelin Keys in 2026, with AFAR singling out its anticipatory service.",
+      "price": 4,
+      "website": "https://www.thesurrey.com/",
+      "address": null,
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/us/en/article/travel/all-the-key-hotels-united-states", "title": "All the Key Hotels in the United States: The Full 2026 Selection", "kind": "award", "published": "2026-09-18", "afterVisit": true, "supports": "Listed with Two Keys in the 2026 US selection."},
+        {"publisher": "AFAR", "domain": "afar.com", "url": "https://www.afar.com/hotels/best-hotels-in-new-york-city", "title": "The Best Luxury Hotels in Manhattan for Every Kind of New York Trip", "kind": "guide", "published": "2026-06-23", "afterVisit": true, "supports": "Renovated landmark with personal, anticipatory service; from about $1,170."}
+      ],
+      "closureCheck": "Official site shows live booking form; no closure news found."
+    }
+  ],
+  "rejected": [
+    {"name": "The Mercer", "reason": "Michelin Key confirmed, but no second independent source opened in time"},
+    {"name": "Faena New York", "reason": "Verified (Michelin 2026 Key + AFAR) but left out to keep balance; usable as an extra backup"},
+    {"name": "The William Vale", "reason": "Only one independent source opened (Time Out); Forbes lists it as not yet rated"},
+    {"name": "Now Now NoHo", "reason": "Only Time Out coverage found; no second independent source"},
+    {"name": "The Plaza", "reason": "Time Out list + Forbes Five-Star available but cut for balance; usable as a backup"}
+  ]
+}

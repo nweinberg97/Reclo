@@ -1,0 +1,33 @@
+{
+  "name": "reclo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reclo: an honest, evidence-backed notebook of the best places in the world's great cities.",
+  "type": "module",
+  "imports": {
+    "#jsx/jsx-runtime": "./src/jsx/jsx-runtime.ts",
+    "#jsx/jsx-dev-runtime": "./src/jsx/jsx-runtime.ts"
+  },
+  "scripts": {
+    "validate": "tsx scripts/validate.ts",
+    "build": "tsx src/build/build.ts",
+    "build:fast": "RECLO_SKIP_CARDS=1 tsx src/build/build.ts",
+    "preview": "tsx scripts/serve.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/unit/*.test.ts",
+    "test:e2e": "playwright test",
+    "check-links": "tsx scripts/check-links.ts",
+    "events": "tsx scripts/fetch-events.ts",
+    "import": "tsx scripts/import-research.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "esbuild": "^0.28.0",
+    "playwright": "1.56.0",
+    "tsx": "^4.20.0",
+    "typescript": ">=5.9.0 <7"
+  }
+}

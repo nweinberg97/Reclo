@@ -1,0 +1,36 @@
+# Weekly check that every source link and official website still works, and
+# that no entry has gone too long without being re-verified. Opens an issue if not.
+name: Check links
+
+on:
+  schedule:
+    - cron: '41 15 * * 1' # Mondays
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - id: check
+        run: npm run check-links
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: link-report.md
+      - name: Open an issue when something needs a human
+        if: steps.check.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Link check $(date -u +%F): broken or stale entries" --body-file link-report.md --label "data"  || gh issue create --title "Link check $(date -u +%F): broken or stale entries" --body-file link-report.md
+      - if: steps.check.outcome == 'failure'
+        run: exit 1

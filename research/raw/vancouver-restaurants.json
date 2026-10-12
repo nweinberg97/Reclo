@@ -1,0 +1,514 @@
+{
+  "city": "vancouver",
+  "category": "restaurants",
+  "researchedOn": "2026-10-11",
+  "entries": [
+    {
+      "name": "AnnaLena",
+      "localName": null,
+      "neighbourhood": "Kitsilano",
+      "subtype": "contemporary tasting menu",
+      "description": "Relaxed Kitsilano room serving a playful seasonal tasting menu with strong cocktails and wine pairings.",
+      "why": "Vancouver's first two-Michelin-star restaurant, and it still feels casual rather than stuffy.",
+      "price": 4,
+      "website": "https://annalena.ca",
+      "address": "1809 W 1st Ave, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/annalena", "title": "AnnaLena – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Two Michelin Stars in the 2026 Canada guide; praises its seasonal tasting menu and polished service."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/annalena", "title": "AnnaLena - Review - Kitsilano - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Calls it one of Vancouver's best restaurants; tasting menu, book well ahead."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-upscale-contemporary-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Upscale Contemporary Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Honourable mention in Best Upscale Contemporary, 2026."}
+      ],
+      "closureCheck": "Promoted to two stars in Michelin's Oct 6 2026 guide (Daily Hive, Scout); Scout notes a winter renovation closure, not a permanent one. No closure news found."
+    },
+    {
+      "name": "Kissa Tanto",
+      "localName": null,
+      "neighbourhood": "Chinatown",
+      "subtype": "Japanese-Italian",
+      "description": "Moody upstairs room in Chinatown that marries Italian pasta with Japanese technique.",
+      "why": "Holds a Michelin star and ranks in Canada's top 20, and the miso-yolk tajarin earns its reputation.",
+      "price": 4,
+      "website": "https://kissatanto.com",
+      "address": "263 E Pender St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/kissa-tanto", "title": "Kissa Tanto – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "One Michelin Star, 2026; Japanese-Italian cooking in a 1960s Tokyo jazz-café setting."},
+        {"publisher": "Canada's 100 Best", "domain": "canadas100best.com", "url": "https://canadas100best.com/", "title": "Canada's 100 Best Restaurants 2026", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Ranked No. 15 on Canada's 100 Best Restaurants 2026."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/kissa-tanto", "title": "Kissa Tanto - Review - Chinatown - Vancouver", "kind": "guide", "published": "2025-09-18", "afterVisit": true, "supports": "Still one of Vancouver's top dining destinations; whole fried fish and tajarin are the highlights."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-upscale-contemporary-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Upscale Contemporary Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Bronze, Best Upscale Contemporary 2026."}
+      ],
+      "closureCheck": "Kept its star in Michelin's Oct 2026 guide (Daily Hive, Scout); Canada's 100 Best 2026 listing. No closure news found."
+    },
+    {
+      "name": "Sumibiyaki Arashi",
+      "localName": "炭火焼きアラシ",
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "yakitori omakase",
+      "description": "Fourteen-seat counter grilling heritage chicken over binchotan as part of a multicourse omakase.",
+      "why": "Starred by Michelin and named Canada's best new restaurant of 2026, so book as early as you can.",
+      "price": 4,
+      "website": null,
+      "address": "363 E Broadway, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/sumibiyaki-arashi", "title": "Sumibiyaki Arashi – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "One Star in 2026; 14-seat yakitori omakase, called the city's most in-demand reservation."},
+        {"publisher": "Canada's 100 Best", "domain": "canadas100best.com", "url": "https://canadas100best.com/", "title": "Canada's 100 Best Restaurants 2026", "kind": "award", "published": "2026", "afterVisit": true, "supports": "No. 1 Best New Restaurant 2026 and No. 17 overall."}
+      ],
+      "closureCheck": "In Michelin's Oct 2026 guide with its star (Daily Hive, Vancouver Magazine Oct 7 2026). No closure news found."
+    },
+    {
+      "name": "St. Lawrence",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "Québécois bistro",
+      "description": "Charming Powell Street bistro serving rich, fixed-menu French-Canadian cooking with maple throughout.",
+      "why": "A Michelin star and a Canada's 100 Best ranking, for Québécois comfort food done properly.",
+      "price": 4,
+      "website": null,
+      "address": "269 Powell St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/st-lawrence", "title": "St. Lawrence – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "One Star, 2026; refined French-Canadian set menu from chef Jean-Christophe Poirier."},
+        {"publisher": "Canada's 100 Best", "domain": "canadas100best.com", "url": "https://canadas100best.com/", "title": "Canada's 100 Best Restaurants 2026", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Ranked No. 40 on Canada's 100 Best Restaurants 2026."}
+      ],
+      "closureCheck": "Kept its star in Michelin's Oct 2026 guide (Daily Hive, Vancouver Magazine Oct 7 2026). No closure news found. Neighbourhood from The Infatuation's location tag."
+    },
+    {
+      "name": "Published on Main",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "seasonal Pacific Northwest",
+      "description": "Farm-driven Main Street dining room cooking with local produce, foraged finds and house preserves.",
+      "why": "A Michelin star for five straight years and a top-20 national ranking, with a new fall tasting menu.",
+      "price": 3,
+      "website": null,
+      "address": "3593 Main St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/published-on-main", "title": "Published on Main – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "One Star, 2026; seasonal cooking built on local farms and foraging."},
+        {"publisher": "Canada's 100 Best", "domain": "canadas100best.com", "url": "https://canadas100best.com/", "title": "Canada's 100 Best Restaurants 2026", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Ranked No. 20 on Canada's 100 Best Restaurants 2026."},
+        {"publisher": "Scout Magazine", "domain": "scoutmagazine.ca", "url": "https://scoutmagazine.ca/published-on-main-unveils-their-2026-harvest-tasting-menu/", "title": "Published on Main Unveils Their 2026 Harvest Tasting Menu", "kind": "local-press", "published": "2026-10-08", "afterVisit": false, "supports": "New 12-course fall menu running to January 2027; open daily."}
+      ],
+      "closureCheck": "Scout (Oct 8 2026) reports a new menu running to Jan 2027, open daily 5–11pm. No closure news found."
+    },
+    {
+      "name": "Boulevard Kitchen & Oyster Bar",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "seafood fine dining",
+      "description": "Polished seafood-focused dining room on Burrard, led by chef Roger Ma.",
+      "why": "Won Vancouver Magazine's 2026 fine dining gold, and its chef took Chef of the Year.",
+      "price": null,
+      "website": "https://boulevardvancouver.ca",
+      "address": "845 Burrard St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-fine-dining-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Fine Dining Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold for Best Fine Dining 2026; judges single out chef Roger Ma's cooking."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Lists it as Michelin Recommended in the 2026 Vancouver guide."}
+      ],
+      "closureCheck": "Michelin Recommended in the Oct 6 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "L'Abattoir",
+      "localName": null,
+      "neighbourhood": "Gastown",
+      "subtype": "French-leaning contemporary",
+      "description": "Gastown mainstay cooking French-ish dishes with local flavours in a historic building.",
+      "why": "Kept its edge under a new chef, winning the 2026 upscale contemporary gold and Gastown's readers' pick.",
+      "price": null,
+      "website": "https://labattoir.ca",
+      "address": "217 Carrall St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-upscale-contemporary-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Upscale Contemporary Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold for Best Upscale Contemporary 2026; new chef Jasper Cruickshank has kept standards high."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Lists it as Michelin Recommended for 2026."}
+      ],
+      "closureCheck": "Michelin Recommended in Oct 2026 (Daily Hive), and Vancouver Magazine (Oct 7 2026) says it kept its spot. No closure news found."
+    },
+    {
+      "name": "Kavita",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "regional Indian",
+      "description": "Regional Indian cooking with house-ground spices, foraged greens and Fraser Valley produce.",
+      "why": "In its first year it won Best Indian, a Michelin Bib Gourmand and a Canada's 100 Best spot.",
+      "price": 2,
+      "website": "https://restaurantkavita.com",
+      "address": "250 W 3rd Ave, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/kavita", "title": "Kavita – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; regional Indian dishes with local ingredients and careful technique."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-indian-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Indian Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold for Best Indian 2026; a judge called the cooking 'off the charts'."},
+        {"publisher": "Canada's 100 Best", "domain": "canadas100best.com", "url": "https://canadas100best.com/", "title": "Canada's 100 Best Restaurants 2026", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Ranked No. 96 on Canada's 100 Best Restaurants 2026."}
+      ],
+      "closureCheck": "New Bib Gourmand in Michelin's Oct 6 2026 guide (Daily Hive, Scout). No closure news found."
+    },
+    {
+      "name": "Elem",
+      "localName": null,
+      "neighbourhood": "Main Street",
+      "subtype": "global contemporary",
+      "description": "Sleek Main Street room with globally minded cooking that leans on chef Vish Mayekar's South Asian roots.",
+      "why": "Vancouver Magazine's best new restaurant of 2026, and Michelin recommends it too.",
+      "price": null,
+      "website": "https://elemvancouver.com",
+      "address": "2110 Main St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-new-restaurant-in-vancouver", "title": "Restaurant Awards 2026: The Best New Restaurant in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold, Best New Restaurant 2026; judges praise technical, lush food."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Recommended in the 2026 Vancouver guide."}
+      ],
+      "closureCheck": "Michelin Recommended in Oct 2026 (Daily Hive); Scout's search listing shows a Sept 14 2026 story on a seasonal menu. No closure news found."
+    },
+    {
+      "name": "Zarak",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "Afghan",
+      "description": "Modern Afghan cooking on Main, with slow-cooked lamb shank and inventive cocktails.",
+      "why": "Shared 2026 Middle Eastern gold, and a June 2026 review found everything dialled in.",
+      "price": null,
+      "website": "https://zarakvancouver.com",
+      "address": "2102 Main St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-middle-eastern-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Middle Eastern Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Tied gold for Best Middle Eastern 2026; strong cocktails, ambitious menu."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/zarak-by-afghan-kitchen", "title": "Zarak By Afghan Kitchen - Review - Mount Pleasant - Vancouver", "kind": "guide", "published": "2026-06-16", "afterVisit": true, "supports": "Praises the lamb shank and fried chicken; good for dates and family celebrations."}
+      ],
+      "closureCheck": "Reviewed June 2026 by The Infatuation with live OpenTable booking. No closure news found."
+    },
+    {
+      "name": "Delara",
+      "localName": null,
+      "neighbourhood": "Kitsilano",
+      "subtype": "Persian",
+      "description": "Persian home cooking made with West Coast produce, with charcoal-grilled kebabs and crisp-bottomed rice.",
+      "why": "Judges called it the benchmark for elevated Middle Eastern dining, and Michelin recommends it.",
+      "price": null,
+      "website": "https://delararestaurant.ca",
+      "address": "2272 W 4th Ave, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-middle-eastern-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Middle Eastern Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Tied gold for Best Middle Eastern 2026; praised for service, decor and technique."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/delara", "title": "Delara - Review - Kitsilano - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Persian food with local produce; grilled chicken with barberries and tahdig highlighted."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Recommended for 2026."}
+      ],
+      "closureCheck": "Michelin Recommended in the Oct 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Osteria Savio Volpe",
+      "localName": null,
+      "neighbourhood": "Fraserhood",
+      "subtype": "Italian osteria",
+      "description": "Wood-fired Italian osteria on Kingsway with a mix of house classics, new dishes and a deep wine list.",
+      "why": "A decade in and still winning Best Italian, plus the readers' vote for Fraserhood.",
+      "price": null,
+      "website": "https://saviovolpe.com",
+      "address": "615 Kingsway, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-italian-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Italian Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold for Best Italian 2026; still vibrant a decade on, with consistent service."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Recommended for 2026."}
+      ],
+      "closureCheck": "Michelin Recommended in the Oct 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Nightingale",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "upscale casual",
+      "description": "David Hawksworth's lively downtown spot for share plates, pizzas and pasta.",
+      "why": "Judges say this big, busy room does everything right, and it took the 2026 informal contemporary gold.",
+      "price": null,
+      "website": null,
+      "address": "1017 W Hastings St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-informal-contemporary-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Informal Contemporary Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold, Best Informal Contemporary 2026; strong service at scale."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Recommended for 2026."}
+      ],
+      "closureCheck": "Michelin Recommended in the Oct 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Dynasty Seafood Restaurant",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "Cantonese seafood & dim sum",
+      "description": "Grand Hong Kong-style Cantonese dining room on West Broadway with handmade dim sum and banquet seafood.",
+      "why": "Vancouver Magazine's 2026 Restaurant of the Year, and third in Canada at the 2026 Chinese Restaurant Awards.",
+      "price": null,
+      "website": null,
+      "address": "108–777 W Broadway, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/2026-vancouver-magazine-restaurant-awards/restaurant-awards-2026-restaurant-of-the-year-dynasty", "title": "Restaurant Awards 2026: Restaurant of the Year, Dynasty", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Restaurant of the Year 2026; praises its handmade dim sum and Typhoon Shelter crab."},
+        {"publisher": "Scout Magazine", "domain": "scoutmagazine.ca", "url": "https://scoutmagazine.ca/mott-32-tops-the-chinese-restaurant-awards-2026/", "title": "Mott 32 Tops The Chinese Restaurant Awards 2026", "kind": "award", "published": "2026-09-23", "afterVisit": true, "supports": "Ranked No. 3 on the Chinese Restaurant Awards' Elite 30 Canada for 2026."}
+      ],
+      "closureCheck": "Ranked at Sept 2026 Chinese Restaurant Awards (Scout). Dropped from Michelin's Oct 2026 guide with no reason given (Daily Hive); no closure found. Official site blocked."
+    },
+    {
+      "name": "Vij's",
+      "localName": null,
+      "neighbourhood": "South Cambie",
+      "subtype": "Indian",
+      "description": "Long-running Cambie Street institution pairing Indian spice with West Coast ingredients.",
+      "why": "Over 30 years on it holds a Michelin Bib Gourmand and silver for Best Indian, and the lamb popsicles still deliver.",
+      "price": 2,
+      "website": "https://vijs.ca",
+      "address": "3106 Cambie St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/vij-s", "title": "Vij's – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; opened 1994, known for wine-marinated lamb popsicles."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-indian-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Indian Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Silver for Best Indian 2026; recommends the rogan josh and Goan halibut."}
+      ],
+      "closureCheck": "Michelin page lists daily 5:30–10pm hours; Bib Gourmand retained in Oct 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Sushi Hil",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "sushi",
+      "description": "Bright Main Street sushi counter focused on seasonal fish and clean fundamentals.",
+      "why": "Best Japanese 2026, a Michelin Bib Gourmand, and fairer prices than the omakase crowd.",
+      "price": 2,
+      "website": "https://sushihil.com",
+      "address": "3330 Main St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-japanese-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Japanese Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Gold for Best Japanese 2026; a judge's first pick for out-of-towners."},
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/sushi-hil", "title": "Sushi Hil – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; recommends sitting at the counter."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/sushi-hil", "title": "Sushi Hil - Review - Mount Pleasant - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "One of the city's best sushi spots because it nails the classics."}
+      ],
+      "closureCheck": "Bib Gourmand in Michelin's Oct 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Anh and Chi",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "Vietnamese",
+      "description": "Sibling-run Vietnamese restaurant on Main in the space their parents ran for over 30 years.",
+      "why": "Michelin Bib Gourmand and the readers' pick for Mount Pleasant, worth it for the banana blossom salad.",
+      "price": 2,
+      "website": "https://anhandchi.com",
+      "address": "3388 Main St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/anh-and-chi", "title": "Anh and Chi – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; family-run Vietnamese with a changing dessert menu."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-readers-choice-best-of-the-neighbourhoods", "title": "Restaurant Awards 2026: Readers' Choice, Best of the Neighbourhoods", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Readers' Choice winner for Mount Pleasant, 2026."}
+      ],
+      "closureCheck": "Bib Gourmand retained in the Oct 2026 Michelin guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Phnom Penh",
+      "localName": null,
+      "neighbourhood": "Chinatown",
+      "subtype": "Cambodian-Vietnamese",
+      "description": "Family-run Chinatown spot since 1985, serving Cambodian and Vietnamese rice and noodle dishes.",
+      "why": "Expect a line for the fried chicken wings and butter beef; it's a Bib Gourmand and Chinatown's readers' pick.",
+      "price": 2,
+      "website": null,
+      "address": "244 E Georgia St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/phnom-penh", "title": "Phnom Penh – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; family-run since 1985, expect a wait."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/phnom-penh", "title": "Phnom Penh - Review - Chinatown - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Calls its wings the writer's favourite in the city; butter beef is the other must-order."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-readers-choice-best-of-the-neighbourhoods", "title": "Restaurant Awards 2026: Readers' Choice, Best of the Neighbourhoods", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Readers' Choice winner for Chinatown, 2026."}
+      ],
+      "closureCheck": "Bib Gourmand retained in the Oct 2026 Michelin guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Lunch Lady",
+      "localName": null,
+      "neighbourhood": "Commercial Drive",
+      "subtype": "Vietnamese",
+      "description": "Colourful Commercial Drive Vietnamese spot carrying on the legacy of Saigon's famous Lunch Lady.",
+      "why": "Bib Gourmand, Best Vietnamese silver and the Drive's readers' pick; order the prawn fritters.",
+      "price": 2,
+      "website": "https://thelunchlady.com",
+      "address": "1046 Commercial Dr, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/lunch-lady", "title": "Lunch Lady – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; fried tiger prawns and wagyu noodle soup highlighted."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-vietnamese-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Vietnamese Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Silver for Best Vietnamese 2026; crispy prawn fritters and bone marrow pho."}
+      ],
+      "closureCheck": "Bib Gourmand retained in the Oct 2026 Michelin guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Fat Mao Noodles",
+      "localName": null,
+      "neighbourhood": "Chinatown",
+      "subtype": "noodle shop",
+      "description": "Small Chinatown noodle shop known for Thai-leaning soups like a rich, balanced khao soi.",
+      "why": "Silver for Best Casual 2026 and a local favourite; get the roti for dipping.",
+      "price": null,
+      "website": "https://fatmaonoodles.com",
+      "address": "217 E Georgia St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-casual-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Casual Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Silver for Best Casual 2026; bright bowls with clean heat."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/fat-mao-noodles", "title": "Fat Mao Noodles - Review - Chinatown - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Khao soi is the standout; small shop popular with locals."}
+      ],
+      "closureCheck": "Won a 2026 award in May 2026 (Vancouver Magazine). No closure news found. Exact hours not verified."
+    },
+    {
+      "name": "Chef's Choice Chinese Cuisine",
+      "localName": null,
+      "neighbourhood": "South Cambie",
+      "subtype": "dim sum",
+      "description": "West Broadway Cantonese room known for thin-skinned dumplings, seafood congee and egg tarts.",
+      "why": "Promoted to Bib Gourmand in 2026, and some of the best dim sum in Vancouver proper.",
+      "price": null,
+      "website": null,
+      "address": "955 W Broadway, Vancouver",
+      "evidence": [
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Promoted from Recommended to Michelin Bib Gourmand in 2026."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/chefs-choice-chinese-cuisine", "title": "Chef's Choice Chinese Cuisine - Review - South Cambie - Vancouver", "kind": "guide", "published": "2024-05-20", "afterVisit": true, "supports": "Some of the best dim sum in Vancouver proper; har gow and egg tarts recommended."}
+      ],
+      "closureCheck": "Newly promoted to Bib Gourmand in Michelin's Oct 6 2026 guide (Daily Hive, Scout). No closure news found."
+    },
+    {
+      "name": "Beaucoup Bakery",
+      "localName": null,
+      "neighbourhood": "Kitsilano",
+      "subtype": "bakery",
+      "description": "French pastry shop with buttery kouign amann, double-baked croissants and a case that changes often.",
+      "why": "An Editors' Choice best bakery for 2026 that keeps turning up on every serious pastry list.",
+      "price": null,
+      "website": "https://beaucoupbakery.com",
+      "address": "2150 Fir St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-editors-choice-best-bakeries", "title": "Restaurant Awards 2026: Editors' Choice, Best Bakeries", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Editors' Choice best bakery 2026; kouign amann leads the case."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/beaucoup-bakery", "title": "Beaucoup Bakery - Review - Vancouver", "kind": "guide", "published": "2024-05-20", "afterVisit": true, "supports": "Double-baked almond croissants and rotating limited pastries; second shop downtown."},
+        {"publisher": "Vancity Lookout", "domain": "vancitylookout.com", "url": "https://www.vancitylookout.com/p/guide-best-bakeries-vancouver", "title": "Guide to the best bakeries in Vancouver", "kind": "local-press", "published": "2025-04-15", "afterVisit": true, "supports": "Included for French-style pastries, croissants and seasonal tarts."}
+      ],
+      "closureCheck": "Named a 2026 best bakery in May 2026 (Vancouver Magazine), with Kitsilano and downtown shops. No closure news found."
+    },
+    {
+      "name": "Their There",
+      "localName": null,
+      "neighbourhood": "Kitsilano",
+      "subtype": "bakery-café",
+      "description": "AnnaLena's daytime sibling, a bakery-café for creative brunch plates and brown butter mochi doughnuts.",
+      "why": "Gets the AnnaLena team's care at brunch prices; come early before the doughnuts sell out.",
+      "price": null,
+      "website": null,
+      "address": "2042 W 4th Ave, Vancouver",
+      "evidence": [
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/their-there", "title": "Their There - Review - Kitsilano - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Recommends brisket hash and mochi doughnuts; no reservations, expect a wait."},
+        {"publisher": "Scout Magazine", "domain": "scoutmagazine.ca", "url": "https://scoutmagazine.ca/places/their-there/", "title": "Their There – Scout Magazine", "kind": "local-press", "published": null, "afterVisit": false, "supports": "Profiles the AnnaLena owners' handbuilt café on W 4th and lists current hours."}
+      ],
+      "closureCheck": "Scout's listing shows current hours (Tue–Sun, closed Mon); Infatuation updated Sept 2025. No closure news found."
+    },
+    {
+      "name": "Timbertrain Coffee Roasters",
+      "localName": null,
+      "neighbourhood": "Gastown",
+      "subtype": "café",
+      "description": "Gastown roaster-café in a heritage building, with seating made from an old train carriage.",
+      "why": "A fixture on Vancouver coffee lists for years, still picked by Vancouver Magazine and Daily Hive readers in 2026.",
+      "price": 1,
+      "website": null,
+      "address": "311 W Cordova St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://vanmag.com/drink/general/best-coffee-shops-vancouver/", "title": "The Best Coffee Shops in Vancouver Right Now", "kind": "list", "published": "2026-09-21", "afterVisit": true, "supports": "Lists the Gastown café and its roastery 'depot' with tours and classes."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/best-iced-coffee-vancouver", "title": "We asked our readers where to get the best iced coffee in Vancouver", "kind": "local-press", "published": "2026-07-12", "afterVisit": false, "supports": "Readers' pick for iced coffee; Gastown and other locations listed."}
+      ],
+      "closureCheck": "Featured as open in Vancouver Magazine (Sept 21 2026) and Daily Hive (July 2026). No closure news found."
+    },
+    {
+      "name": "Revolver",
+      "localName": null,
+      "neighbourhood": "Gastown",
+      "subtype": "café",
+      "description": "Tiny brick-walled Gastown coffee bar pouring a rotating cast of roasters from around the world.",
+      "why": "Has drawn coffee nerds for years, and Vancouver Magazine still rates it among the best in 2026.",
+      "price": 1,
+      "website": null,
+      "address": "325 Cambie St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://vanmag.com/drink/general/best-coffee-shops-vancouver/", "title": "The Best Coffee Shops in Vancouver Right Now", "kind": "list", "published": "2026-09-21", "afterVisit": true, "supports": "Small café serving classic and experimental drinks with beans from North America, Europe, Japan."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/best-coffee-shops-vancouver-2", "title": "Best coffee shops in Vancouver", "kind": "list", "published": "2017-12-20", "afterVisit": true, "supports": "Listed for its rotating guest roasters and relaxed brick-walled room."}
+      ],
+      "closureCheck": "Featured in Vancouver Magazine's Sept 21 2026 coffee list. No closure news found."
+    },
+    {
+      "name": "Good Thief",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "Vietnamese bar & snacks",
+      "description": "Anh and Chi's rowdier sibling next door, serving Vietnamese bar snacks, skewers and creative drinks.",
+      "why": "Michelin Bib Gourmand and silver for informal contemporary; the frog legs are the move.",
+      "price": 2,
+      "website": null,
+      "address": "3336 Main St, Vancouver",
+      "evidence": [
+        {"publisher": "Michelin Guide", "domain": "guide.michelin.com", "url": "https://guide.michelin.com/ca/en/british-columbia/vancouver/restaurant/good-thief", "title": "Good Thief – MICHELIN Guide", "kind": "award", "published": "2026", "afterVisit": true, "supports": "Bib Gourmand, 2026; inventive Vietnamese small plates and crab garlic noodles."},
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-informal-contemporary-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Informal Contemporary Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Silver, Best Informal Contemporary 2026; frog legs a standout."}
+      ],
+      "closureCheck": "Bib Gourmand retained in Michelin's Oct 2026 guide (Daily Hive, Vancouver Magazine Oct 7). No closure news found."
+    },
+    {
+      "name": "Nero Tondo",
+      "localName": null,
+      "neighbourhood": "Railtown",
+      "subtype": "farm-to-table bistro",
+      "description": "Eighteen-seat open-kitchen spot on Powell with a constantly changing farm menu and local wine.",
+      "why": "Judges say the room has mojo; take the prix fixe, and come Saturday night for late pancakes.",
+      "price": null,
+      "website": null,
+      "address": "1879 Powell St, Vancouver",
+      "evidence": [
+        {"publisher": "Vancouver Magazine", "domain": "vanmag.com", "url": "https://www.vanmag.com/restaurant-awards/2026/restaurant-awards-2026-the-best-informal-contemporary-restaurants-in-vancouver", "title": "Restaurant Awards 2026: The Best Informal Contemporary Restaurants in Vancouver", "kind": "award", "published": "2026-05-04", "afterVisit": true, "supports": "Bronze, Best Informal Contemporary 2026; praised for vibe and service."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/nero-tondo", "title": "Nero Tondo - Review - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Tiny, lively room; recommends the $79 prix fixe."},
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Recommended for 2026."}
+      ],
+      "closureCheck": "Michelin Recommended in the Oct 2026 guide (Daily Hive). No closure news found."
+    },
+    {
+      "name": "Gary's",
+      "localName": null,
+      "neighbourhood": "Fairview",
+      "subtype": "seasonal bistro",
+      "description": "Gallery-white Fairview room cooking loosely French seasonal dishes, with a set 'for the table' menu.",
+      "why": "Michelin Bib Gourmand with warm, easy service, a good pick for a relaxed date.",
+      "price": null,
+      "website": null,
+      "address": "1485 W 12th Ave, Vancouver",
+      "evidence": [
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Bib Gourmand in the 2026 Vancouver guide."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/gary-s", "title": "Gary's - Review - Fairview - Vancouver", "kind": "guide", "published": "2025-09-19", "afterVisit": true, "supports": "Recommends the $72 'for the table' menu; seasonal, polished cooking."}
+      ],
+      "closureCheck": "Bib Gourmand in Michelin's Oct 2026 guide (Daily Hive, Scout). No closure news found."
+    },
+    {
+      "name": "Magari by Oca",
+      "localName": null,
+      "neighbourhood": "Commercial Drive",
+      "subtype": "pasta bar",
+      "description": "Counter-side pasta bar on the Drive where fresh noodles are made and plated in front of you.",
+      "why": "A Bib Gourmand with a line before opening, and reviewers say the wait is worth it.",
+      "price": null,
+      "website": null,
+      "address": "1260 Commercial Dr, Vancouver",
+      "evidence": [
+        {"publisher": "Daily Hive", "domain": "dailyhive.com", "url": "https://dailyhive.com/vancouver/michelin-guide-vancouver-2026", "title": "Here are all 72 Vancouver restaurants that made the 2026 Michelin Guide", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Michelin Bib Gourmand in the 2026 Vancouver guide."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/magari-by-oca", "title": "Magari By Oca - Review - Commercial Drive - Vancouver", "kind": "guide", "published": "2025-09-18", "afterVisit": true, "supports": "Recommends the $75 set pasta menu; queue forms before doors open."}
+      ],
+      "closureCheck": "Bib Gourmand in Michelin's Oct 2026 guide (Daily Hive, Scout). No closure news found."
+    },
+    {
+      "name": "Masayoshi",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "sushi omakase",
+      "description": "Calm, precise roughly 18-course sushi omakase on Fraser Street.",
+      "why": "Michelin-starred and reviewed again in 2026; book at least a month ahead.",
+      "price": 4,
+      "website": null,
+      "address": "4376 Fraser St, Vancouver",
+      "evidence": [
+        {"publisher": "Scout Magazine", "domain": "scoutmagazine.ca", "url": "https://scoutmagazine.ca/annalena-earns-vancouvers-first-two-michelin-stars-in-2026-guide/", "title": "Michelin's 2026 Vancouver Guide Is Here. Here's What Changed…", "kind": "award", "published": "2026-10-06", "afterVisit": true, "supports": "Listed among Vancouver's One Michelin Star restaurants for 2026."},
+        {"publisher": "The Infatuation", "domain": "theinfatuation.com", "url": "https://www.theinfatuation.com/vancouver/reviews/masayoshi", "title": "Masayoshi - Review - Mount Pleasant - Vancouver", "kind": "guide", "published": "2026-02-05", "afterVisit": true, "supports": "About 18 courses at $245; praises the scallops, smoked bonito and eel."}
+      ],
+      "closureCheck": "Holds a star in Michelin's Oct 2026 guide (Scout, Daily Hive); reviewed Feb 2026. No closure news found."
+    }
+  ],
+  "rejected": [
+    {"name": "Burdock & Co", "reason": "Michelin star confirmed, but the only other source opened just restated Michelin; no independent second source opened."},
+    {"name": "Mishmish", "reason": "Only Vancouver Magazine opened (2026 best bakeries and coffee lists, same publisher); other coverage was rate-limited and couldn't be opened."},
+    {"name": "Argo Cafe", "reason": "Best Casual 2026 gold (Vancouver Magazine) but no second independent source opened; official site was rate-limited."},
+    {"name": "Northern Cafe", "reason": "Only Vancouver Magazine evidence opened."},
+    {"name": "Caffe La Tana", "reason": "Only The Infatuation evidence opened."},
+    {"name": "Small Victory", "reason": "Several older sources, but no 2026 closure check possible (search budget exhausted)."},
+    {"name": "Purebread", "reason": "Older list coverage only; couldn't confirm it is open in 2026."},
+    {"name": "Hunnybee Bruncheonette", "reason": "Only a 2019 Infatuation review; nothing recent."},
+    {"name": "Fable Kitchen", "reason": "Closed; dropped from the 2026 Michelin guide for that reason (Daily Hive, Oct 6 2026)."},
+    {"name": "Bacaro", "reason": "Closed per Daily Hive (Oct 6 2026)."},
+    {"name": "Wildlight Kitchen and Bar", "reason": "Announced closing Nov 28 2026 (Daily Hive)."},
+    {"name": "Mott 32", "reason": "Verified (Vancouver Magazine silver, Chinese Restaurant Awards #1) but cut for balance; available as an alternate."},
+    {"name": "Chez Céline", "reason": "Verified (Vancouver Magazine Best New bronze, Canada's 100 Best New #10) but cut for balance; available as an alternate."},
+    {"name": "Le Crocodile", "reason": "Verified (Canada's 100 Best #26, Vancouver Magazine fine dining HM) but cut to limit fine dining."},
+    {"name": "Botanist", "reason": "Verified (Canada's 100 Best #64, Michelin Recommended) but cut to limit fine dining."}
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "city": "toronto",
+  "category": "things-to-do",
+  "researchedOn": "2026-10-11",
+  "entries": [
+    {
+      "name": "CN Tower",
+      "localName": null,
+      "neighbourhood": "Harbourfront",
+      "subtype": "landmark",
+      "description": "The 553 m tower with a glass-floored SkyPod and the harnessed EdgeWalk around its outer rim.",
+      "why": "Every guide puts it first for the skyline views; book ahead and go on a clear day.",
+      "price": null,
+      "website": "https://www.cntower.ca/",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Top pick for city views from the main deck and SkyPod; EdgeWalk outer-edge walk; advises booking."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Listed as the 553 m landmark with observation decks, EdgeWalk and a restaurant."
+        },
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Recommended sight in Harbourfront; called the city's defining landmark."
+        }
+      ],
+      "closureCheck": "Official site updated 5 Oct 2026 lists an early close on 20 Oct 2026 only; operating normally otherwise."
+    },
+    {
+      "name": "Royal Ontario Museum",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "museum",
+      "description": "Canada's largest museum, with natural history, world cultures, fashion and a big dinosaur gallery.",
+      "why": "Time Out and Frommer's both rank it essential; the Libeskind crystal addition alone is worth a look.",
+      "price": null,
+      "website": "https://www.rom.on.ca/",
+      "address": "100 Queen's Park, Toronto, ON M5S 2C6",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Named Canada's largest museum, with art, artifacts, fashion and dinosaur galleries."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Lists the ROM as Canada's largest museum and notes the controversial Libeskind addition."
+        }
+      ],
+      "closureCheck": "Official site shows Oct 2026 daily hours (10:00-17:30) and current exhibitions; no closure news found."
+    },
+    {
+      "name": "Art Gallery of Ontario",
+      "localName": null,
+      "neighbourhood": "Chinatown",
+      "subtype": "art museum",
+      "description": "A major gallery in a Frank Gehry redesign, strong on Canadian, Indigenous and Group of Seven work.",
+      "why": "Turns up on every serious Toronto list, and Wednesday evenings are free if you book ahead.",
+      "price": null,
+      "website": "https://ago.ca/",
+      "address": "317 Dundas Street West, Toronto, ON M5T 1G4",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Major gallery with Canadian, Indigenous and Group of Seven art; free Wednesday evenings."
+        },
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Top sight in Chinatown, noting the glass-and-titanium Gehry facade."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Lists the AGO as a major gallery with a Gehry renovation."
+        }
+      ],
+      "closureCheck": "Official site shows current weekly hours, Thanksgiving hours for 12 Oct 2026 and exhibitions running into 2027."
+    },
+    {
+      "name": "St. Lawrence Market",
+      "localName": null,
+      "neighbourhood": "Old Town",
+      "subtype": "market",
+      "description": "An 1840s food hall of butchers, bakers and cheesemongers, plus a Saturday farmers' market across the street.",
+      "why": "Locals really shop here; get a peameal bacon sandwich and wander the stalls.",
+      "price": 0,
+      "website": "https://www.stlawrencemarket.com/",
+      "address": "92-95 Front St East, Toronto, ON M5E 1C3",
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Historic food market popular with locals; Saturday farmers' market, Sunday antiques, Market Gallery upstairs."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Historic food market with many vendors and weekend farmers' markets."
+        },
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Historic 1844 market in Old Town, known for Canadian (peameal) bacon."
+        }
+      ],
+      "closureCheck": "Official site lists current South and North Market hours and October 2026 market events."
+    },
+    {
+      "name": "Kensington Market",
+      "localName": null,
+      "neighbourhood": "Kensington Market",
+      "subtype": "neighbourhood",
+      "description": "A scruffy, walkable grid of vintage shops, small grocers, street food and painted Victorian houses.",
+      "why": "Every guide calls it the city's most bohemian corner; best on foot with an appetite.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Bohemian district of vintage shops, boutiques, art spaces and restaurants, with its painted garden car."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Bohemian neighbourhood known for vintage shops, cafés and street food."
+        },
+        {
+          "publisher": "Destination Toronto",
+          "domain": "destinationtoronto.com",
+          "url": "https://www.destinationtoronto.com/things-to-do/",
+          "title": "Things to Do in Toronto: Attractions, Parks, Museums & More",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Featured as a Westside neighbourhood known for its food."
+        }
+      ],
+      "closureCheck": "Public neighbourhood; no closure applicable."
+    },
+    {
+      "name": "Distillery Historic District",
+      "localName": null,
+      "neighbourhood": "Old Town",
+      "subtype": "historic district",
+      "description": "Car-free Victorian distillery buildings now full of galleries, shops, bars and patios.",
+      "why": "Great for a drink on cobblestones, and it hosts a well-known Christmas market each winter.",
+      "price": 0,
+      "website": "https://www.thedistillerydistrict.com/",
+      "address": "55 Mill Street, Toronto, ON M5A 3C4",
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Arts, dining and drinks district in an old whiskey distillery; winter Christmas market."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Pedestrian area of former distillery buildings with shops, galleries, restaurants and patios."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Restored 19th-century distillery turned arts and dining district."
+        }
+      ],
+      "closureCheck": "Official site lists current daily hours and says it is open 364 days a year."
+    },
+    {
+      "name": "Toronto Island Park",
+      "localName": null,
+      "neighbourhood": "Toronto Islands",
+      "subtype": "park",
+      "description": "A car-free chain of islands a short ferry ride offshore, with beaches, bike paths and skyline views.",
+      "why": "The easiest escape from downtown; rent a bike or walk to Ward's Island for a quieter beach.",
+      "price": 1,
+      "website": "https://www.toronto.ca/explore-enjoy/toronto-island-ferries/things-to-do-on-toronto-island/",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Ferry-reached islands with an amusement park, beaches and cottage-like scenery."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Island parkland reached by a short ferry ride."
+        },
+        {
+          "publisher": "Destination Toronto",
+          "domain": "destinationtoronto.com",
+          "url": "https://www.destinationtoronto.com/things-to-do/",
+          "title": "Things to Do in Toronto: Attractions, Parks, Museums & More",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Featured as a waterfront and island area to explore."
+        }
+      ],
+      "closureCheck": "City page modified 8 Oct 2026 lists activities and an event on 24 Oct 2026; some Hanlan's Point beach access is closed due to high water. Centreville runs May-Sept only. Price 1 reflects the ferry fare."
+    },
+    {
+      "name": "High Park",
+      "localName": null,
+      "neighbourhood": "Bloor West Village",
+      "subtype": "park",
+      "description": "The city's big west-end park: woods, ponds, trails, a small zoo and Grenadier Pond.",
+      "why": "Locals' favourite green space, and the place to be when the cherry blossoms open in spring.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Recommended for its famous spring cherry blossoms."
+        },
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Large park, once a private farm, listed under Bloor West Village."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Large park with a pond, small zoo and pool."
+        }
+      ],
+      "closureCheck": "Public city park; no closure news found."
+    },
+    {
+      "name": "Hockey Hall of Fame",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "museum",
+      "description": "Hockey's shrine downtown, with the Stanley Cup, decades of memorabilia and interactive games.",
+      "why": "Fun even if you don't follow hockey; the Cup itself lives here.",
+      "price": null,
+      "website": "https://www.hhof.com/",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "World's largest hockey memorabilia collection, with the Stanley Cup and interactive exhibits."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Huge memorabilia collection, worth a visit even for casual fans."
+        },
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Recommended Financial District museum devoted to Canada's national sport."
+        }
+      ],
+      "closureCheck": "Official site promotes 2026 Induction Weekend (Nov 7-9, 2026) and a current exhibit; no closure news found."
+    },
+    {
+      "name": "Aga Khan Museum",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "museum",
+      "description": "Islamic art and manuscripts from across centuries, housed in a serene Fumihiko Maki building.",
+      "why": "Worth the trip north of downtown, and Wednesday evenings are free.",
+      "price": null,
+      "website": "https://agakhanmuseum.org/",
+      "address": "77 Wynford Drive, Toronto, ON M3C 1K1",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Canada's first museum dedicated to Islamic civilizations, with manuscripts and historic objects."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed as a museum of Islamic art and objects."
+        }
+      ],
+      "closureCheck": "Official site shows the week of 5-11 Oct 2026 hours and exhibitions running into 2027."
+    },
+    {
+      "name": "Casa Loma",
+      "localName": null,
+      "neighbourhood": "The Annex",
+      "subtype": "historic house",
+      "description": "A financier's Gothic Revival castle on the hill, with turrets, secret passages and formal gardens.",
+      "why": "Over-the-top in the best way, with views back over the city from the towers.",
+      "price": null,
+      "website": "https://casaloma.ca/",
+      "address": "1 Austin Terrace, Toronto, ON",
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "European-style castle built by financier Sir Henry Pellatt, in The Annex."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Gothic Revival castle-style mansion and garden in midtown."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Hilltop castle with notable interiors and city views."
+        }
+      ],
+      "closureCheck": "Official site lists daily hours and a partial closure on 6 Oct 2026, plus a current Halloween event."
+    },
+    {
+      "name": "Bata Shoe Museum",
+      "localName": null,
+      "neighbourhood": "The Annex",
+      "subtype": "museum",
+      "description": "Thousands of years of footwear, from ancient Roman shoes to modern designer pairs.",
+      "why": "Sounds niche, but guides keep recommending it; Sundays are free.",
+      "price": null,
+      "website": "https://batashoemuseum.ca/",
+      "address": "327 Bloor St W, Toronto, ON M5S 1W7",
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Annex shoe museum with around 10,000 pieces of footwear."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Footwear museum with more than 13,000 items, ancient to modern."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed as a museum of footwear history."
+        }
+      ],
+      "closureCheck": "Official site shows regular hours, an Oct 10 post and a new exhibition opening 22 Oct 2026. The elevator is currently out of service."
+    },
+    {
+      "name": "Gardiner Museum",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "museum",
+      "description": "A compact ceramics museum opposite the ROM, from delftware and porcelain to contemporary clay.",
+      "why": "An easy pairing with the ROM, and you can book a hands-on clay class.",
+      "price": null,
+      "website": "https://www.gardinermuseum.on.ca/",
+      "address": "111 Queen's Park, Toronto, ON M5S 2C7",
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Yorkville museum of rare ceramics, including delftware and porcelain."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Ceramics museum with about 4,000 pieces and clay classes."
+        }
+      ],
+      "closureCheck": "Official site lists current exhibitions and an event on 22 Oct 2026; no closure news found."
+    },
+    {
+      "name": "Evergreen Brick Works",
+      "localName": null,
+      "neighbourhood": "Don Valley",
+      "subtype": "park",
+      "description": "A former brick factory in the Don Valley turned into trails, wetlands and a Saturday farmers' market.",
+      "why": "A real mix of nature and industrial history, and the Saturday market makes the morning.",
+      "price": 0,
+      "website": "https://www.evergreen.ca/evergreen-brick-works/",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Former brick factory reborn as a cultural and environmental centre."
+        },
+        {
+          "publisher": "Destination Toronto",
+          "domain": "destinationtoronto.com",
+          "url": "https://www.destinationtoronto.com/things-to-do/",
+          "title": "Things to Do in Toronto: Attractions, Parks, Museums & More",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Featured as a Don Valley destination."
+        }
+      ],
+      "closureCheck": "Official site says it is open daily year-round, with a Saturday farmers' market 8am-1pm."
+    },
+    {
+      "name": "Fort York National Historic Site",
+      "localName": null,
+      "neighbourhood": "Harbourfront",
+      "subtype": "historic site",
+      "description": "The 18th-century garrison where the city began, with original buildings and War of 1812 history.",
+      "why": "Free entry and free guided tours of the place where the city's story starts.",
+      "price": 0,
+      "website": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/fort-york-national-historic-site/",
+      "address": "250 Fort York Blvd., Toronto",
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Harbourfront historic site tied to Toronto's 1793 founding."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Military history site dating to the 1790s."
+        }
+      ],
+      "closureCheck": "City page lists Wed-Sun hours, free admission and a Remembrance Day event on 11 Nov 2026."
+    },
+    {
+      "name": "The Village at Black Creek",
+      "localName": null,
+      "neighbourhood": "North York",
+      "subtype": "living history museum",
+      "description": "A recreated 1800s Ontario village with costumed interpreters, formerly Black Creek Pioneer Village.",
+      "why": "A good day out with kids, with real trades demonstrated in period buildings.",
+      "price": null,
+      "website": "https://www.blackcreek.ca/",
+      "address": "1000 Murray Ross Parkway, Toronto, ON M3J 2P3",
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "North York living-history village recreating mid-1800s rural life (as Black Creek Pioneer Village)."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Reconstructed 19th-century village with costumed interpreters."
+        }
+      ],
+      "closureCheck": "Official site (renamed 2024) lists fall 2026 events, including 17 Oct 2026; season hours not confirmed, so check before visiting."
+    },
+    {
+      "name": "Spadina Museum",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "historic house",
+      "description": "A wealthy family's mansion kept as it was in the 1920s and 30s, with restored gardens beside Casa Loma.",
+      "why": "Free guided tours and a gentler, more human look at old money than the castle next door.",
+      "price": 0,
+      "website": "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/spadina-museum/",
+      "address": "285 Spadina Road, Toronto",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Historic Austin family house showing early-1900s life, with gardens."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "1866 house with seasonal gardens and exhibits on 1920s-30s domestic life."
+        }
+      ],
+      "closureCheck": "City page modified 30 Sept 2026 lists Wed-Sun hours and free tours."
+    },
+    {
+      "name": "Trinity Bellwoods Park",
+      "localName": null,
+      "neighbourhood": "Queen West",
+      "subtype": "park",
+      "description": "A sloping Queen West park where the neighbourhood picnics, plays ball and people-watches all summer.",
+      "why": "The city's social lawn on a warm weekend; grab takeout on Queen and join in.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Lively park, best May to October, known for people-watching."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Neighbourhood park with a military history."
+        }
+      ],
+      "closureCheck": "Public city park; no closure news found."
+    },
+    {
+      "name": "Museum of Contemporary Art Toronto",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "art museum",
+      "description": "Contemporary art in the converted Tower Automotive Building, an old factory in the Junction Triangle.",
+      "why": "The city's best bet for new international art, with free Friday nights.",
+      "price": null,
+      "website": "https://moca.ca/",
+      "address": "158 Sterling Rd., Toronto, ON M6R 2B7",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Contemporary art in the Tower Automotive Building, with free Friday evenings."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed as Toronto's contemporary art museum."
+        }
+      ],
+      "closureCheck": "Official site: closed for installation, reopening 4 Oct 2026, with a fall 2026 season running to 14 Feb 2027. It should be open now."
+    },
+    {
+      "name": "Elgin and Winter Garden Theatre Centre",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "historic theatre",
+      "description": "Two restored 1913 theatres stacked one above the other, still staging theatre, opera and ballet.",
+      "why": "The last working double-decker theatre in the world; take the guided tour if there's no show on.",
+      "price": null,
+      "website": "https://www.heritagetrust.on.ca/properties/elgin-and-winter-garden-theatres",
+      "address": "189 Yonge Street, Toronto, ON",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Double-decker theatre complex described as the last of its kind."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Restored Edwardian theatres dating from 1913."
+        }
+      ],
+      "closureCheck": "Ontario Heritage Trust page describes it as operating, with a 2026 tours calendar; no closure noted."
+    },
+    {
+      "name": "Scarborough Bluffs",
+      "localName": null,
+      "neighbourhood": "Scarborough",
+      "subtype": "nature",
+      "description": "Pale clay cliffs rising high above Lake Ontario on the east side, with beaches and lookouts below.",
+      "why": "The most dramatic natural scenery inside city limits, and it feels a world away from downtown.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Cliffs that preserve a geological record of the Ice Age."
+        },
+        {
+          "publisher": "Destination Toronto",
+          "domain": "destinationtoronto.com",
+          "url": "https://www.destinationtoronto.com/things-to-do/",
+          "title": "Things to Do in Toronto: Attractions, Parks, Museums & More",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Featured as a Scarborough destination."
+        }
+      ],
+      "closureCheck": "Natural area; no closure news found (access points vary by park; check City of Toronto notices)."
+    },
+    {
+      "name": "Harbourfront Centre",
+      "localName": null,
+      "neighbourhood": "Harbourfront",
+      "subtype": "cultural centre",
+      "description": "A lakeside arts campus with festivals, craft and design studios, theatre and talks.",
+      "why": "There's usually something free on, and it sits right on the waterfront stroll.",
+      "price": 0,
+      "website": "https://www.harbourfrontcentre.com/",
+      "address": "235 Queens Quay West, Toronto, ON M5J 2G8",
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Waterfront culture and recreation centre in Harbourfront."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Waterfront cultural complex."
+        }
+      ],
+      "closureCheck": "Official site: the main building is temporarily closed 5-18 Oct 2026 for upgrades; programming resumes 16 Oct (Shaw Festival). Outdoor grounds are open."
+    },
+    {
+      "name": "Chinatown",
+      "localName": null,
+      "neighbourhood": "Chinatown",
+      "subtype": "neighbourhood",
+      "description": "Spadina Avenue's busy strip of dumpling houses, bakeries, noodle shops and Vietnamese spots.",
+      "why": "One of the city's oldest, liveliest neighbourhoods, best done hungry and on foot next to the AGO.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Lively neighbourhood for dumplings, dim sum, noodles, pho and banh mi."
+        },
+        {
+          "publisher": "Destination Toronto",
+          "domain": "destinationtoronto.com",
+          "url": "https://www.destinationtoronto.com/things-to-do/",
+          "title": "Things to Do in Toronto: Attractions, Parks, Museums & More",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Listed among Westside neighbourhoods to explore."
+        }
+      ],
+      "closureCheck": "Public neighbourhood; no closure applicable."
+    },
+    {
+      "name": "The Beaches",
+      "localName": null,
+      "neighbourhood": "The Beaches",
+      "subtype": "neighbourhood",
+      "description": "An east-end lakeside neighbourhood with a long boardwalk, sandy beaches and a strip of cafés on Queen East.",
+      "why": "A summer-afternoon kind of place; walk the boardwalk, then browse Queen Street East.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "East-side neighbourhood with beaches, a boardwalk, cafés and summer festivals."
+        },
+        {
+          "publisher": "Destination Toronto",
+          "domain": "destinationtoronto.com",
+          "url": "https://www.destinationtoronto.com/things-to-do/",
+          "title": "Things to Do in Toronto: Attractions, Parks, Museums & More",
+          "kind": "tourism",
+          "published": null,
+          "afterVisit": false,
+          "supports": "Listed among Eastside neighbourhoods."
+        }
+      ],
+      "closureCheck": "Public neighbourhood; no closure applicable."
+    },
+    {
+      "name": "Trillium Park and William G. Davis Trail",
+      "localName": null,
+      "neighbourhood": "Ontario Place",
+      "subtype": "park",
+      "description": "A rolling lakeside park built over a former parking lot at Ontario Place, with trails and skyline views.",
+      "why": "Underrated for sunsets over the lake, and it's free.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-parks-in-toronto",
+          "title": "The 10 best parks in Toronto",
+          "kind": "guide",
+          "published": "2018-08-26",
+          "afterVisit": true,
+          "supports": "Newer waterfront park on the Ontario Place site with trails and stone walls carved with First Nations engravings."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Lakeside park built on a former parking lot."
+        }
+      ],
+      "closureCheck": "Not directly verified for Oct 2026; Ontario Place is under redevelopment, so access may be affected. Sources are older (2018). Treat as a backup."
+    },
+    {
+      "name": "Rogers Centre",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "stadium",
+      "description": "The Blue Jays' retractable-roof ballpark at the foot of the CN Tower.",
+      "why": "A summer game with the roof open is a classic night out in the city.",
+      "price": null,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto",
+          "kind": "guide",
+          "published": "2025-01-13",
+          "afterVisit": true,
+          "supports": "Recommends catching a Blue Jays home game here."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/things-to-do/best-things-to-do-in-toronto",
+          "title": "The best things to do in Toronto right now",
+          "kind": "guide",
+          "published": "2024-03-27",
+          "afterVisit": true,
+          "supports": "Home stadium of the Toronto Blue Jays."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Blue Jays stadium with a retractable roof."
+        }
+      ],
+      "closureCheck": "Active stadium; the MLB regular season is over by mid-October, so this is seasonal. Backup."
+    },
+    {
+      "name": "Toronto City Hall and Nathan Phillips Square",
+      "localName": null,
+      "neighbourhood": "Queen West",
+      "subtype": "architecture",
+      "description": "Curved 1960s modernist towers fronted by a big public square at Queen and Bay.",
+      "why": "Free modernist landmark, chosen through an international design competition.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Fodor's",
+          "domain": "fodors.com",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/things-to-do/sights",
+          "title": "Toronto sights",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Modern city hall chosen through a 1958 international design competition."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Lists City Hall as a modern 1960s civic building."
+        }
+      ],
+      "closureCheck": "Working municipal building; no closure news found. Backup."
+    },
+    {
+      "name": "Textile Museum of Canada",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "museum",
+      "description": "The country's only museum devoted to textiles, with global collections and thoughtful themed shows.",
+      "why": "A small, focused museum that rewards an hour, near Chinatown and the AGO.",
+      "price": null,
+      "website": "https://textilemuseum.ca/",
+      "address": "55 Centre Avenue, Toronto, ON M5G 2H5",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/museums/best-museums-in-toronto",
+          "title": "The best museums in Toronto to explore right now",
+          "kind": "guide",
+          "published": "2024-05-22",
+          "afterVisit": true,
+          "supports": "Canada's only textile arts museum, focused on cloth in society."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/toronto/attractions",
+          "title": "Things To Do in Toronto | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Museum of historic and ethnographic textiles."
+        }
+      ],
+      "closureCheck": "Official site lists Wed-Sun hours and current exhibitions; no closure notice beyond regular days off. Backup."
+    }
+  ],
+  "rejected": [
+    {
+      "name": "Ontario Science Centre",
+      "reason": "Original Don Mills site closed in 2024; listed in Time Out but not operating at that location."
+    },
+    {
+      "name": "Mackenzie House",
+      "reason": "City page says the historic house is under restoration and not open for regular tours."
+    },
+    {
+      "name": "Campbell House Museum",
+      "reason": "Could not confirm current opening from its official site."
+    },
+    {
+      "name": "Rouge National Urban Park",
+      "reason": "Only one independent source opened (Frommer's); the Parks Canada page is the operator's own site."
+    },
+    {
+      "name": "Toronto Music Garden",
+      "reason": "Only one independent source opened (Frommer's)."
+    },
+    {
+      "name": "Toronto Zoo",
+      "reason": "Only one independent source opened (Frommer's)."
+    },
+    {
+      "name": "Ripley's Aquarium of Canada",
+      "reason": "Only one independent source opened (Frommer's)."
+    },
+    {
+      "name": "Allan Gardens",
+      "reason": "Only one independent source opened (Frommer's)."
+    },
+    {
+      "name": "Graffiti Alley",
+      "reason": "Only one independent source opened (Lonely Planet highlights)."
+    },
+    {
+      "name": "Little Canada",
+      "reason": "Only one independent source opened (Time Out)."
+    }
+  ]
+}

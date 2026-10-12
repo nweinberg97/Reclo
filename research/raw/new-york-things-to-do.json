@@ -1,0 +1,1124 @@
+{
+  "city": "new-york",
+  "category": "things-to-do",
+  "researchedOn": "2026-10-11",
+  "entries": [
+    {
+      "name": "Central Park",
+      "localName": null,
+      "neighbourhood": "Manhattan (Midtown to Harlem)",
+      "subtype": "park",
+      "description": "Olmsted and Vaux's 843-acre park of meadows, lakes, woodland paths and summer Shakespeare.",
+      "why": "Every guide starts here, and a slow three-hour loop shows why New Yorkers treat it as a backyard.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Lists the 843-acre park and suggests allowing at least three hours to loop it."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/central-park/381791",
+          "title": "Central Park | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Covers meadows, lake, zoo, free concerts and Shakespeare, plus Olmsted-Vaux design and Seneca Village history."
+        }
+      ],
+      "closureCheck": "Public city park; current in Time Out and Lonely Planet coverage, no closure news."
+    },
+    {
+      "name": "The Metropolitan Museum of Art",
+      "localName": null,
+      "neighbourhood": "Upper East Side",
+      "subtype": "museum",
+      "description": "Five thousand years of art on Fifth Avenue, from the Temple of Dendur to European paintings.",
+      "why": "Both major guides rank it essential; pick two or three wings rather than trying to see it all.",
+      "price": 2,
+      "website": "https://www.metmuseum.org/plan-your-visit",
+      "address": "1000 Fifth Avenue, New York, NY 10028",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Highlights the vast collection, the Temple of Dendur and the Egyptian galleries."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/metropolitan-museum-of-art/1246350",
+          "title": "How to Visit the Met in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "About two million works over 5,000 years; singles out Egyptian, arms and armor, Islamic and European art."
+        }
+      ],
+      "closureCheck": "Official site shows current hours (closed Wednesdays) and $30 adult tickets; some galleries under renovation."
+    },
+    {
+      "name": "The High Line",
+      "localName": null,
+      "neighbourhood": "Meatpacking District / Chelsea / Hudson Yards",
+      "subtype": "park",
+      "description": "Elevated park on an old freight rail line, planted and art-lined from Gansevoort St to Hudson Yards.",
+      "why": "A free, car-free walk above the West Side that ends conveniently at the Whitney.",
+      "price": 0,
+      "website": "https://www.thehighline.org/visit/",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Elevated 1.45-mile park built on a former railway line."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/high-line/1105837",
+          "title": "Wander Along the High Line | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Planted, art-lined path on old freight rail running from Hudson Yards to the Whitney."
+        }
+      ],
+      "closureCheck": "Official site lists seasonal hours (7am-10pm Apr-Nov) and free entry; only past weather closures noted."
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "localName": null,
+      "neighbourhood": "Lower Manhattan to DUMBO",
+      "subtype": "landmark walk",
+      "description": "Walk the 1883 suspension bridge over the East River between City Hall and Brooklyn.",
+      "why": "Free and endlessly photographed; go early morning or late evening to beat the crowds.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "1883 suspension bridge; recommends going early or late to avoid crowds."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/brooklyn-bridge/1105821",
+          "title": "Brooklyn Bridge | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Landmark first steel suspension bridge with skyline views; gives walking access tips from both ends."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Free walk across an engineering masterpiece that has inspired poets and painters."
+        }
+      ],
+      "closureCheck": "Public pedestrian bridge; no closure news found."
+    },
+    {
+      "name": "Museum of Modern Art (MoMA)",
+      "localName": null,
+      "neighbourhood": "Midtown",
+      "subtype": "museum",
+      "description": "Van Gogh, Picasso, Warhol and Rothko across a rotating collection, plus a sculpture garden.",
+      "why": "The fourth and fifth floors alone justify the ticket; arrive at opening for breathing room.",
+      "price": 2,
+      "website": "https://www.moma.org/visit",
+      "address": "11 West 53 Street, New York, NY 10019",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Modern and contemporary art arranged by era."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/museum-of-modern-art/381795",
+          "title": "How to Visit MoMA in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Around 200,000 works, landmark pieces on floors four and five; advises going early."
+        }
+      ],
+      "closureCheck": "Official site shows daily hours (late Fridays) and $30 adult admission; open every day except Thanksgiving and Christmas."
+    },
+    {
+      "name": "Prospect Park",
+      "localName": null,
+      "neighbourhood": "Park Slope / Prospect Heights, Brooklyn",
+      "subtype": "park",
+      "description": "Brooklyn's Olmsted and Vaux park, with the Long Meadow, wooded Ravine, boating and skating.",
+      "why": "Feels looser and more local than Central Park, and Sunday Smorgasburg sets up inside it.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/prospect-park/1107881",
+          "title": "Promenade Through Prospect Park | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "585-acre Olmsted-Vaux park with Long Meadow, birding trails, kayaking and skating at LeFrak."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Olmsted and Vaux park with a zoo and the Ravine."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Free open space and quiet trails at a slower pace than Manhattan."
+        }
+      ],
+      "closureCheck": "Public city park; Smorgasburg's 2026 season there confirmed by News 12, no closure news."
+    },
+    {
+      "name": "American Museum of Natural History",
+      "localName": null,
+      "neighbourhood": "Upper West Side",
+      "subtype": "museum",
+      "description": "Dinosaur halls, the blue whale, gems and the Rose Center planetarium on Central Park West.",
+      "why": "The obvious family pick that adults end up loving just as much, especially the fossil floors.",
+      "price": 2,
+      "website": "https://www.amnh.org/plan-your-visit",
+      "address": "200 Central Park West, New York, NY 10024",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Blue whale, dinosaur skeletons and the newer Gilder Center wing."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/american-museum-of-natural-history/381813",
+          "title": "American Museum of Natural History | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "One of the world's top natural history museums; fossil halls, gems, Rose Center planetarium."
+        }
+      ],
+      "closureCheck": "Official site shows daily 10am-5:30pm hours and current ticket prices; only the 77th St entrance noted closed."
+    },
+    {
+      "name": "Statue of Liberty",
+      "localName": null,
+      "neighbourhood": "Liberty Island (New York Harbor)",
+      "subtype": "monument",
+      "description": "France's gift on Liberty Island, with pedestal and crown access and a museum holding the original torch.",
+      "why": "Worth doing properly: reserve crown or pedestal tickets well ahead, since same-day ones sell out.",
+      "price": null,
+      "website": "https://www.nps.gov/stli/index.htm",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Gift from France; advises booking ferry tickets early as day-of tickets sell out."
+        },
+        {
+          "publisher": "National Park Service",
+          "domain": "nps.gov",
+          "url": "https://www.nps.gov/stli/index.htm",
+          "title": "Statue Of Liberty National Monument (U.S. National Park Service)",
+          "kind": "institution",
+          "published": "2026-05-04",
+          "afterVisit": false,
+          "supports": "Crown and pedestal need reservations; museum has original torch; ferry departs from The Battery."
+        }
+      ],
+      "closureCheck": "NPS page updated May 2026 shows reservations open; notes Liberty Island construction and a relocated ferry departure."
+    },
+    {
+      "name": "Tenement Museum",
+      "localName": null,
+      "neighbourhood": "Lower East Side",
+      "subtype": "museum",
+      "description": "Guided tours through restored Orchard Street apartments telling real immigrant families' stories.",
+      "why": "The most human museum visit in the city; tours sell out, so book before you go.",
+      "price": null,
+      "website": "https://www.tenement.org/",
+      "address": "103 Orchard Street, New York, NY 10002",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Guided tours of restored immigrant apartments; recommends booking ahead."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/tenement-museum/382733",
+          "title": "Tenement Museum | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Two preserved 19th-century tenements showing immigrant hardship and resilience; tickets often sell out."
+        }
+      ],
+      "closureCheck": "Official site lists daily visitor-center hours and new tours plus an Oct 13 event; no closure notice."
+    },
+    {
+      "name": "9/11 Memorial & Museum",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "memorial",
+      "description": "Twin reflecting pools in the Twin Towers' footprints, with a museum beneath the plaza.",
+      "why": "The free memorial is quietly moving; the museum is intense, so budget time and energy for it.",
+      "price": 0,
+      "website": "https://www.911memorial.org/visit",
+      "address": "180 Greenwich Street, New York, NY 10007",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Memorial pools and museum on the former Twin Towers site."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/national-september-11-memorial/382039",
+          "title": "See NYC from the World Trade Center | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Describes the named pools and emotionally intense museum; advises buying timed tickets ahead."
+        }
+      ],
+      "closureCheck": "Official site: memorial open daily 8am-8pm free; museum open Wed-Mon with advance tickets. No closure notice."
+    },
+    {
+      "name": "Staten Island Ferry",
+      "localName": null,
+      "neighbourhood": "Whitehall Terminal, Lower Manhattan",
+      "subtype": "experience",
+      "description": "Free 25-minute commuter ferry across the harbor past the Statue of Liberty and Ellis Island.",
+      "why": "The best free view in New York; stand at the back on the way out for the skyline.",
+      "price": 0,
+      "website": null,
+      "address": "Whitehall Ferry Terminal, 4 South St, New York, NY",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/staten-island-ferry",
+          "title": "Staten Island Ferry | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-04",
+          "afterVisit": true,
+          "supports": "Free half-hour ride close to Liberty, Ellis and Governors islands; best skyline views from the back."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Calls the free 25-minute ride from Whitehall the best deal in the city."
+        },
+        {
+          "publisher": "NYC Tourism + Conventions",
+          "domain": "nyctourism.com",
+          "url": "https://www.nyctourism.com/articles/guide-to-the-staten-island-ferry/",
+          "title": "Guide to the Staten Island Ferry",
+          "kind": "tourism",
+          "published": "2025-03-31",
+          "afterVisit": true,
+          "supports": "Free crossing with harbor, Statue of Liberty and skyline views; gives both terminal addresses."
+        }
+      ],
+      "closureCheck": "City-run commuter service; Frommer's updated Jan 2026 and NYC Tourism Mar 2025 describe it operating. No suspension news."
+    },
+    {
+      "name": "Smorgasburg",
+      "localName": null,
+      "neighbourhood": "Williamsburg / Prospect Park, Brooklyn",
+      "subtype": "market",
+      "description": "Seasonal open-air food market of dozens of vendors, Saturdays in Williamsburg and Sundays in Prospect Park.",
+      "why": "Come hungry with friends and split everything; the season runs roughly April to October.",
+      "price": null,
+      "website": "https://smorgasburg.com/new-york",
+      "address": "90 Kent Ave, Brooklyn (Sat); Breeze Hill, Prospect Park (Sun)",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Large food market with many vendors, running summer and fall."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/smorgasburg",
+          "title": "Smorgasburg | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Calls it the largest US outdoor food market and praises its high-quality international food."
+        },
+        {
+          "publisher": "News 12 Brooklyn",
+          "domain": "brooklyn.news12.com",
+          "url": "https://brooklyn.news12.com/2026/04/05/smorgasburg-returns-to-prospect-park/1pCnu2s80MMIIEJT6RX55a",
+          "title": "Smorgasburg returns to Prospect Park",
+          "kind": "local-press",
+          "published": "2026-04-05",
+          "afterVisit": true,
+          "supports": "Reports the 2026 season opening in Prospect Park, Sundays 11am-6pm, April to October."
+        }
+      ],
+      "closureCheck": "Official site shows 2026 Williamsburg (Sat), Prospect Park (Sun) and new Central Park dates; seasonal, ends around late October."
+    },
+    {
+      "name": "Brooklyn Bridge Park",
+      "localName": null,
+      "neighbourhood": "DUMBO / Brooklyn Heights",
+      "subtype": "park",
+      "description": "85-acre waterfront park on old piers, with Jane's Carousel, lawns, courts and skyline views.",
+      "why": "The natural place to land after walking the bridge, and sunset over Manhattan from the piers is hard to beat.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/brooklyn-bridge-park/1199194",
+          "title": "While Away an Afternoon on Brooklyn's Waterfront | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "85-acre riverside park with bridge and skyline views; suggests half a day."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/brooklyn-bridge-park",
+          "title": "Brooklyn Bridge Park | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Former industrial waterfront with a 1922 carousel, sports courts, free tours and Manhattan views."
+        }
+      ],
+      "closureCheck": "Public park; no closure news found."
+    },
+    {
+      "name": "Brooklyn Museum",
+      "localName": null,
+      "neighbourhood": "Prospect Heights, Brooklyn",
+      "subtype": "museum",
+      "description": "Beaux-arts museum with Egyptian art, a strong African collection and Judy Chicago's The Dinner Party.",
+      "why": "Big-league collections without Manhattan crowds, and it pairs easily with the Botanic Garden next door.",
+      "price": null,
+      "website": null,
+      "address": "200 Eastern Pkwy, Brooklyn, NY",
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/brooklyn-museum/1281293",
+          "title": "Browse the Brooklyn Museum | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Large beaux-arts museum; American art, feminist art center, African collection, First Saturdays."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Egyptian art, Impressionists and The Dinner Party."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions",
+          "title": "Things To Do in New York City | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed as a large Brooklyn art museum noted for its Egyptian collection."
+        }
+      ],
+      "closureCheck": "Listed as current in Frommer's 2026 attractions index; no closure news found. Official site not opened."
+    },
+    {
+      "name": "Coney Island",
+      "localName": null,
+      "neighbourhood": "Coney Island, Brooklyn",
+      "subtype": "neighbourhood",
+      "description": "Beach, boardwalk, the 1927 Cyclone coaster, the Wonder Wheel and Nathan's hot dogs at the end of the subway.",
+      "why": "Gritty, nostalgic and fun in summer; time it for the June Mermaid Parade if you can.",
+      "price": 0,
+      "website": null,
+      "address": "Surf Ave & Boardwalk, Brooklyn",
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/coney-island/1246433",
+          "title": "Spend a Day at Coney Island | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Waterfront escape with vintage coasters, beach, boardwalk food and the Mermaid Parade."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Included among the city's best free outings, with notes on its heyday history."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Lists the landmark 1927 Cyclone wooden coaster and the New York Aquarium here."
+        }
+      ],
+      "closureCheck": "Neighbourhood and public beach; rides are seasonal (mostly summer). No closure news."
+    },
+    {
+      "name": "New York Botanical Garden",
+      "localName": null,
+      "neighbourhood": "Bronx Park, The Bronx",
+      "subtype": "garden",
+      "description": "250 acres of gardens, old-growth forest and the Victorian Enid A. Haupt Conservatory.",
+      "why": "A real reason to visit the Bronx, best for the orchid show in spring or the Holiday Train Show.",
+      "price": null,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/new-york-botanical-garden/1246376",
+          "title": "New York Botanical Garden | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "250 acres with old-growth forest, Haupt Conservatory and the Holiday Train Show."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Highlights its forest and the annual spring orchid show."
+        }
+      ],
+      "closureCheck": "Listed as current by Frommer's 2026 index and Time Out; no closure news found. Official site not opened."
+    },
+    {
+      "name": "Washington Square Park",
+      "localName": null,
+      "neighbourhood": "Greenwich Village",
+      "subtype": "park",
+      "description": "The Village's town square under the 1895 arch, full of chess players, buskers and NYU students.",
+      "why": "Grab a bench and people-watch for an hour; it is the city's best free show.",
+      "price": 0,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/washington-square-park/382569",
+          "title": "Meet the Locals in Washington Square Park | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Greenwich Village's informal town square of students, chess players and buskers; Stanford White arch."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "People-watching, street performers and the 1895 Washington Arch."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Calls it much smaller than Central Park but a city icon."
+        }
+      ],
+      "closureCheck": "Public city park; no closure news."
+    },
+    {
+      "name": "Intrepid Museum",
+      "localName": null,
+      "neighbourhood": "Hell's Kitchen (Pier 86)",
+      "subtype": "museum",
+      "description": "A WWII aircraft carrier on the Hudson holding jets, a submarine and the space shuttle Enterprise.",
+      "why": "Kids lose their minds on the flight deck, and the shuttle pavilion wins over adults too.",
+      "price": null,
+      "website": null,
+      "address": "Pier 86, Hudson River, New York, NY",
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/intrepid-sea-air-space-museum/1107385",
+          "title": "Intrepid Sea, Air & Space Museum | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Carrier with historic aircraft, submarine Growler and shuttle Enterprise; top pick for families."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "WWII aircraft carrier with jets and the space shuttle Enterprise."
+        }
+      ],
+      "closureCheck": "Listed in Frommer's 2026 attractions index; no closure news found. Official site not opened."
+    },
+    {
+      "name": "Governors Island",
+      "localName": null,
+      "neighbourhood": "New York Harbor",
+      "subtype": "park",
+      "description": "Car-free 172-acre island park a short ferry ride from Lower Manhattan, with forts, lawns and art.",
+      "why": "Rent a bike, picnic with harbor views and feel very far from Midtown for an afternoon.",
+      "price": null,
+      "website": "https://www.govisland.com",
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/governors-island/1105818",
+          "title": "Plan a Governors Island Getaway | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Car-free 172-acre park reached by ferry; cycling paths, outdoor art and historic forts."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Short ferry ride to a former military base opened to the public."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Included as a 172-acre harbor island close to Manhattan."
+        }
+      ],
+      "closureCheck": "Public park; Lonely Planet page current (mentions 2028 climate campus plans). No closure news."
+    },
+    {
+      "name": "Solomon R. Guggenheim Museum",
+      "localName": null,
+      "neighbourhood": "Upper East Side (Museum Mile)",
+      "subtype": "museum",
+      "description": "Frank Lloyd Wright's spiral rotunda on Fifth Avenue, home to major rotating shows and Kandinsky.",
+      "why": "The building is the masterpiece; walk the ramp top to bottom and let the show unfold.",
+      "price": 2,
+      "website": null,
+      "address": "1071 Fifth Avenue, New York, NY",
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/guggenheim-museum/382049",
+          "title": "Guggenheim Museum | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Architectural landmark whose rotunda exhibitions are the draw; $25 adults, pay-what-you-wish Saturdays."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Frank Lloyd Wright building with the largest US Kandinsky collection."
+        }
+      ],
+      "closureCheck": "Listed in Frommer's 2026 index; no closure news found. Official site not opened."
+    },
+    {
+      "name": "The Met Cloisters",
+      "localName": null,
+      "neighbourhood": "Fort Tryon Park, Washington Heights",
+      "subtype": "museum",
+      "description": "The Met's medieval branch, built from European cloister fragments, home of the Unicorn Tapestries.",
+      "why": "A calm uptown escape with river views; your Met ticket covers same-day entry.",
+      "price": 2,
+      "website": "https://www.metmuseum.org/plan-your-visit",
+      "address": "99 Margaret Corbin Drive, New York, NY 10040",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/the-cloisters",
+          "title": "The Cloisters | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-08",
+          "afterVisit": true,
+          "supports": "Only US museum devoted entirely to medieval art; focus on the Unicorn Tapestries."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "The Met's medieval collection in Washington Heights, including the Unicorn Tapestries."
+        }
+      ],
+      "closureCheck": "Met's official visit page lists the Cloisters address and joint same-day tickets; no closure notice."
+    },
+    {
+      "name": "The Frick Collection",
+      "localName": null,
+      "neighbourhood": "Upper East Side",
+      "subtype": "museum",
+      "description": "Vermeer, Rembrandt and Holbein hung in Henry Clay Frick's Fifth Avenue mansion.",
+      "why": "Freshly reopened after a long renovation and one of the best small museums in the country.",
+      "price": null,
+      "website": null,
+      "address": "1 E 70th St, New York, NY",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Ranked top of its list; Old Masters mansion reopened spring 2025 after five-year renovation."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/the-frick-collection",
+          "title": "The Frick Collection | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Calls it one of the country's best small museums, with Rembrandt, Vermeer and Holbein."
+        }
+      ],
+      "closureCheck": "Reopened 2025 per Time Out; Frommer's 2026 page gives current hours and admission. No closure news."
+    },
+    {
+      "name": "Noguchi Museum",
+      "localName": null,
+      "neighbourhood": "Long Island City, Queens",
+      "subtype": "museum",
+      "description": "Isamu Noguchi's own museum and serene sculpture garden, set in his former studio area.",
+      "why": "One of the most peaceful hours you can spend in New York, and worth the trip to Queens.",
+      "price": null,
+      "website": null,
+      "address": "9-01 33rd Rd (at Vernon Blvd), Long Island City, NY",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/isamu-noguchi-garden-museum",
+          "title": "Isamu Noguchi Garden Museum | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-11",
+          "afterVisit": true,
+          "supports": "Rare artist-founded museum with a tranquil garden and free afternoon gallery talks."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Noguchi's sculptures and garden in his former studio area."
+        }
+      ],
+      "closureCheck": "Frommer's page updated Jan 2026; no closure news found. Official site not opened."
+    },
+    {
+      "name": "MoMA PS1",
+      "localName": null,
+      "neighbourhood": "Long Island City, Queens",
+      "subtype": "museum",
+      "description": "Experimental contemporary art in a former public school, down to installations in the boiler room.",
+      "why": "Free entry and riskier shows than its Midtown parent; summer Warm Up parties are a local ritual.",
+      "price": 0,
+      "website": "https://www.moma.org/visit",
+      "address": "22-25 Jackson Avenue, Queens, NY 11101",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/ps-1-contemporary-art-center",
+          "title": "P.S. 1 Contemporary Art Center | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-11",
+          "afterVisit": true,
+          "supports": "Bold installations by emerging artists in an old school; rotating shows and summer Friday events."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Cutting-edge contemporary art in a former public school; hosts Warm Up."
+        }
+      ],
+      "closureCheck": "MoMA's official visit page lists PS1 with free admission for everyone; no closure notice."
+    },
+    {
+      "name": "Grand Central Terminal",
+      "localName": null,
+      "neighbourhood": "Midtown East",
+      "subtype": "landmark",
+      "description": "Beaux-arts rail terminal with a constellation ceiling, opal clock and the whispering gallery.",
+      "why": "Free to wander and still a working station, so the main concourse always has a pulse.",
+      "price": 0,
+      "website": null,
+      "address": "89 E 42nd St (at Park Ave), New York, NY",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/grand-central-station",
+          "title": "Grand Central Terminal | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-06",
+          "afterVisit": true,
+          "supports": "Grand vaulted concourse, Oyster Bar and whispering gallery; daily paid walking tours."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Century-old hub with its famous ceiling and four-faced opal clock."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Free to see the landmarked concourse with its constellation ceiling."
+        }
+      ],
+      "closureCheck": "Operating rail terminal; no closure news."
+    },
+    {
+      "name": "Green-Wood Cemetery",
+      "localName": null,
+      "neighbourhood": "Sunset Park / Greenwood Heights, Brooklyn",
+      "subtype": "historic site",
+      "description": "Rolling 1838 cemetery and arboretum with ornate monuments, harbor views and Leonard Bernstein's grave.",
+      "why": "Once a bigger draw than Niagara Falls, and still a beautiful, quiet free walk.",
+      "price": 0,
+      "website": null,
+      "address": "Main entrance at Fifth Ave and 25th St, Brooklyn, NY",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/green-wood-cemetery",
+          "title": "Green-Wood Cemetery | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-11",
+          "afterVisit": true,
+          "supports": "Historic cemetery and arboretum with ornate monuments, events and a free audio-tour app."
+        },
+        {
+          "publisher": "AFAR",
+          "domain": "afar.com",
+          "url": "https://www.afar.com/travel-tips/the-best-free-things-to-do-in-new-york-city",
+          "title": "The Best Free Things to Do in New York City",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Free 478-acre 1838 cemetery once a tourist draw second only to Niagara Falls."
+        }
+      ],
+      "closureCheck": "Frommer's page updated Jan 2026 describes current events and app; no closure news."
+    },
+    {
+      "name": "Little Island",
+      "localName": null,
+      "neighbourhood": "Hudson River Park (West Village / Meatpacking)",
+      "subtype": "park",
+      "description": "Hilly park that seems to float on the Hudson, raised on 132 concrete pots and densely planted.",
+      "why": "A quick, free detour from the High Line, with mostly free summer performances.",
+      "price": 0,
+      "website": null,
+      "address": "Hudson River at W 13th-14th St, New York, NY",
+      "evidence": [
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Floating park with lawns, gardens and mostly free summer events."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/little-island",
+          "title": "Little Island | Frommer's",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Park appearing to float on the Hudson atop 132 concrete structures, funded by Barry Diller."
+        }
+      ],
+      "closureCheck": "Public park; listed in Frommer's 2026 index. No closure news found."
+    },
+    {
+      "name": "Ellis Island National Museum of Immigration",
+      "localName": null,
+      "neighbourhood": "Ellis Island (New York Harbor)",
+      "subtype": "museum",
+      "description": "The restored main building where over 12 million immigrants were processed, now a museum.",
+      "why": "Pairs with the Statue of Liberty on the same ferry; start in the Registry Room upstairs.",
+      "price": null,
+      "website": null,
+      "address": null,
+      "evidence": [
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/points-of-interest/ellis-island/382007",
+          "title": "Ellis Island | New York City, USA | Attractions - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "America's key immigration gateway; museum in the restored Main Building with archives and tours."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/ellis-island",
+          "title": "Ellis Island | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-04",
+          "afterVisit": true,
+          "supports": "Recommends the Registry Hall; notes a renovation begun 2025 with the site staying open."
+        }
+      ],
+      "closureCheck": "Frommer's (Jan 2026) says a renovation runs through 2026 but the site should stay open; check status before going."
+    },
+    {
+      "name": "Bronx Zoo",
+      "localName": null,
+      "neighbourhood": "Bronx Park, The Bronx",
+      "subtype": "zoo",
+      "description": "One of the largest US zoos, with thousands of animals across 265 acres and the Congo gorilla forest.",
+      "why": "Make a full day of it, ideally on a weekday, and start at Congo Gorilla Forest.",
+      "price": null,
+      "website": null,
+      "address": "Fordham Rd and Bronx River Pkwy, Bronx, NY",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/bronx-zoo",
+          "title": "Bronx Zoo | Frommer's",
+          "kind": "guide",
+          "published": "2026-01-11",
+          "afterVisit": true,
+          "supports": "One of the largest US zoos; advises starting with Congo Forest and visiting on weekdays."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "265 acres and 5,000-plus animals, with free sea lion feedings."
+        }
+      ],
+      "closureCheck": "Frommer's page updated Jan 2026; no closure news found. Official site not opened."
+    },
+    {
+      "name": "Museum of the Moving Image",
+      "localName": null,
+      "neighbourhood": "Astoria, Queens",
+      "subtype": "museum",
+      "description": "Film, TV and video game history with hands-on exhibits, Jim Henson puppets and a working cinema.",
+      "why": "Playful and smart at once, and a good excuse to eat your way around Astoria after.",
+      "price": null,
+      "website": null,
+      "address": "35th Ave at 37th St, Astoria, NY",
+      "evidence": [
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/new-york-city/attractions/museum-of-the-moving-image",
+          "title": "Museum of the Moving Image | Frommer's",
+          "kind": "guide",
+          "published": "2025-01-06",
+          "afterVisit": true,
+          "supports": "Family-friendly look at film, TV and games; Behind the Screen and a Jim Henson exhibition."
+        },
+        {
+          "publisher": "Time Out New York",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/newyork/attractions/new-york-attractions",
+          "title": "The 80 best New York City attractions that should be on your list",
+          "kind": "guide",
+          "published": "2025-08-08",
+          "afterVisit": true,
+          "supports": "Film and TV history with screenings and rotating exhibitions."
+        }
+      ],
+      "closureCheck": "Frommer's 2026 free-things page lists current free Friday entry; no closure news found. Official site not opened."
+    }
+  ],
+  "rejected": [
+    { "name": "Top of the Rock", "reason": "Only one opened source (Time Out); Lonely Planet page seen in listing but not opened." },
+    { "name": "Empire State Building", "reason": "Left out for balance with other paid observation views; Lonely Planet page not opened." },
+    { "name": "Smorgasburg World Trade Center", "reason": "Official site marks this location closed for the season; entry covers Brooklyn markets only." },
+    { "name": "Brooklyn Botanic Garden", "reason": "Not enough opened evidence (Frommer's index plus Time Out list only mention it briefly); held back." },
+    { "name": "Times Square", "reason": "Well covered but left out on quality grounds; Time Out itself frames it mainly as a crowded icon." }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vancouver",
+    "name": "Vancouver",
+    "localName": null,
+    "localLang": null,
+    "country": "Canada",
+    "timezone": "America/Vancouver",
+    "accent": "#1E5E52",
+    "accentInk": "#FFFFFF",
+    "pattern": "waves",
+    "tagline": "Mountains at the end of the street, and dinner worth the rain."
+  },
+  {
+    "id": "toronto",
+    "name": "Toronto",
+    "localName": null,
+    "localLang": null,
+    "country": "Canada",
+    "timezone": "America/Toronto",
+    "accent": "#A8382B",
+    "accentInk": "#FFFFFF",
+    "pattern": "stripes",
+    "tagline": "A city of neighbourhoods, each with its own idea of dinner."
+  },
+  {
+    "id": "new-york",
+    "name": "New York",
+    "localName": null,
+    "localLang": null,
+    "country": "United States",
+    "timezone": "America/New_York",
+    "accent": "#F2C230",
+    "accentInk": "#1B2A4A",
+    "pattern": "grid",
+    "tagline": "Everything, all the time, and a slice at 2 a.m."
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "localName": null,
+    "localLang": null,
+    "country": "United Kingdom",
+    "timezone": "Europe/London",
+    "accent": "#1F3F8F",
+    "accentInk": "#FFFFFF",
+    "pattern": "dots",
+    "tagline": "Old streets, new kitchens, and a free museum for every mood."
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "localName": null,
+    "localLang": null,
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "accent": "#5A4A8C",
+    "accentInk": "#FFFFFF",
+    "pattern": "arches",
+    "tagline": "Long lunches, small bars, and a bridge for every walk home."
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "localName": "東京",
+    "localLang": "ja",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "accent": "#C2255C",
+    "accentInk": "#FFFFFF",
+    "pattern": "petals",
+    "tagline": "Ten-seat counters and treasures hidden in train stations."
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "localName": null,
+    "localLang": null,
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "accent": "#E8963A",
+    "accentInk": "#1B2A4A",
+    "pattern": "sun",
+    "tagline": "Late dinners, early swims, and Gaudí around the corner."
+  },
+  {
+    "id": "lisbon",
+    "name": "Lisbon",
+    "localName": "Lisboa",
+    "localLang": "pt",
+    "country": "Portugal",
+    "timezone": "Europe/Lisbon",
+    "accent": "#2A62B0",
+    "accentInk": "#FFFFFF",
+    "pattern": "tiles",
+    "tagline": "Seven hills, yellow trams, and custard tarts still warm."
+  },
+  {
+    "id": "mexico-city",
+    "name": "Mexico City",
+    "localName": "Ciudad de México",
+    "localLang": "es",
+    "country": "Mexico",
+    "timezone": "America/Mexico_City",
+    "accent": "#C4146F",
+    "accentInk": "#FFFFFF",
+    "pattern": "zigzag",
+    "tagline": "Taco stands at dawn, tasting menus at dusk."
+  },
+  {
+    "id": "seoul",
+    "name": "Seoul",
+    "localName": "서울",
+    "localLang": "ko",
+    "country": "South Korea",
+    "timezone": "Asia/Seoul",
+    "accent": "#1F7468",
+    "accentInk": "#FFFFFF",
+    "pattern": "blocks",
+    "tagline": "Palaces, night markets, and barbecue past midnight."
+  }
+]

@@ -1,0 +1,1201 @@
+{
+  "city": "toronto",
+  "category": "restaurants",
+  "researchedOn": "2026-10-11",
+  "entries": [
+    {
+      "name": "Alo",
+      "localName": null,
+      "neighbourhood": "Queen West",
+      "subtype": "French tasting menu",
+      "description": "Third-floor French tasting room above Spadina, with a shorter four-course option at the bar.",
+      "why": "Holds a Michelin star and sits in the top ten of Canada's 100 Best again in 2026.",
+      "price": 4,
+      "website": "https://alorestaurant.com/",
+      "address": "163 Spadina Ave, 3rd Floor, Toronto, ON M5V 2L6",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurants",
+          "title": "Toronto restaurants - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026-09",
+          "afterVisit": true,
+          "supports": "Listed with one Michelin Star, contemporary cuisine, $$$$."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 7 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "French tasting menu on its best-restaurants list, noting a cheaper four-course option."
+        }
+      ],
+      "closureCheck": "Official site lists Tue-Sat hours from 5pm, no closure notice; starred in Sept 2026 Michelin guide; not in 2026 closure roundups checked."
+    },
+    {
+      "name": "Edulis",
+      "localName": null,
+      "neighbourhood": "King West",
+      "subtype": "Mediterranean tasting menu",
+      "description": "Husband-and-wife set menu in a small Niagara Street house, leaning Spanish and seafood-heavy.",
+      "why": "Michelin-starred and ranked fifth in Canada for 2026; the warmth gets as much praise as the food.",
+      "price": 4,
+      "website": "https://www.edulisrestaurant.com/",
+      "address": "169 Niagara St, Toronto, ON M5V 1C9",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/edulis",
+          "title": "Edulis - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Star in 2026; prepaid Mediterranean set menu with Spanish lean and seafood focus."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 5 on Canada's 100 Best 2026."
+        }
+      ],
+      "closureCheck": "Official site says reservations open via Tock (Thu-Sat dinner, Sun lunch), no closure notice; starred in Sept 2026 Michelin guide."
+    },
+    {
+      "name": "Quetzal",
+      "localName": null,
+      "neighbourhood": "College Street",
+      "subtype": "Mexican, wood-fired",
+      "description": "Loud, smoky Mexican room where almost everything comes off a long wood and charcoal hearth.",
+      "why": "The highest-ranked Toronto spot on Canada's 100 Best 2026, and it holds a Michelin star.",
+      "price": 4,
+      "website": "https://quetzaltoronto.com/",
+      "address": "419 College St, Toronto, ON M5T 1T1",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/quetzal",
+          "title": "Quetzal - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Star; wood-fired cooking, house heirloom-corn tortillas, strong agave cocktails."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 4 on Canada's 100 Best 2026, top in Toronto."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Included for wood- and charcoal-cooked Mexican dishes and a tasting menu."
+        }
+      ],
+      "closureCheck": "Official site: open Wed-Sun, accepting reservations and walk-ins 6-10pm; no closure notice; starred Sept 2026."
+    },
+    {
+      "name": "aKin",
+      "localName": null,
+      "neighbourhood": "Old Town",
+      "subtype": "Asian tasting menu",
+      "description": "Eric Chong's themed tasting menus that rework Chinese takeout and holiday dishes with Canadian produce.",
+      "why": "Michelin-starred, on Canada's 100 Best, and a pick of both The Infatuation and Foodism this year.",
+      "price": 4,
+      "website": "https://www.akintoronto.com/",
+      "address": "51 Colborne St, Toronto, ON M5E 1E3",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/akin-1212180",
+          "title": "aKin - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Star; frequently changing themed Asian tasting menu with a four-seat chef's counter."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 27 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Chinese tasting menu that reimagines takeout favourites with rotating themes."
+        }
+      ],
+      "closureCheck": "Official site blocked to fetcher; starred in Sept 2026 Michelin guide and listed in Infatuation update of 28 Sept 2026; not in 2026 closure roundups checked."
+    },
+    {
+      "name": "Restaurant 20 Victoria",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "seafood tasting menu",
+      "description": "Tiny open-kitchen tasting room doing seafood-led dishes with Mexican accents.",
+      "why": "Kept its Michelin star through a chef change and still ranks top ten in Canada; seats go fast.",
+      "price": 4,
+      "website": "https://www.exploretock.com/restaurant20victoria",
+      "address": "20 Victoria St, Unit 100, Toronto, ON M5C 2N8",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/restaurant-20-victoria",
+          "title": "Restaurant 20 Victoria - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Star; chef Rafa Covarrubias' Mexican-influenced seafood tasting menu, hard-to-get reservations."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 10 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Seafood-focused tasting menu with Mexican-influenced dishes in a relaxed setting."
+        }
+      ],
+      "closureCheck": "Tock page booking through 31 Oct 2026 with slots on 14 Oct 2026; no closure notice; star retained Sept 2026."
+    },
+    {
+      "name": "Sunnys Chinese",
+      "localName": null,
+      "neighbourhood": "Kensington Market",
+      "subtype": "Chinese",
+      "description": "Crowded back-of-the-mall spot in Kensington doing punchy Sichuan and Cantonese plates.",
+      "why": "A Bib Gourmand that also cracked Canada's 100 Best; the Typhoon Shelter squid is the move.",
+      "price": 2,
+      "website": "https://www.sunnyschinese.com/",
+      "address": "60 Kensington Ave, Toronto, ON M5T 2K1",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/sunnys-chinese",
+          "title": "Sunnys Chinese - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; homestyle Sichuan and Guangdong dishes, lively and packed."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Retro Chinese-Canadian spot in Kensington Market on its best-restaurants list."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 94 on Canada's 100 Best 2026."
+        }
+      ],
+      "closureCheck": "Official site shows address and OpenTable booking link, no closure notice; Bib Gourmand renewed Sept 2026."
+    },
+    {
+      "name": "The Lunch Lady",
+      "localName": null,
+      "neighbourhood": "Ossington",
+      "subtype": "Vietnamese",
+      "description": "Vietnamese spot built on the Saigon Lunch Lady's recipes: soups by day, bigger plates at night.",
+      "why": "New Bib Gourmand, a Toronto Life best new pick and on The Infatuation's top list in one year.",
+      "price": 2,
+      "website": "https://thelunchlady.com/",
+      "address": "93 Ossington Ave, Toronto, ON M6J 2Z2",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/the-lunch-lady-of-saigon",
+          "title": "The Lunch Lady of Saigon - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; pomelo salad, garlic noodles, wagyu pho and coffee tiramisu highlighted."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/deep-dives/these-are-torontos-best-new-restaurants-of-2026/",
+          "title": "These are Toronto's best new restaurants of 2026",
+          "kind": "critic",
+          "published": "2026-05-25",
+          "afterVisit": true,
+          "supports": "Named among Toronto's 20 best new restaurants of 2026."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Upscale Vietnamese with soups at lunch and bolder dishes at dinner."
+        }
+      ],
+      "closureCheck": "Official site lists the Toronto location with reservation link, no closure notice; new Bib Gourmand Sept 2026."
+    },
+    {
+      "name": "Favorites Thai",
+      "localName": null,
+      "neighbourhood": "Ossington",
+      "subtype": "Thai",
+      "description": "Thai cooking over binchotan charcoal, reached by walking through a little coffee shop.",
+      "why": "Bib Gourmand again in 2026 and on The Infatuation's list; the Thai-style oysters earn their fame.",
+      "price": 2,
+      "website": "https://www.myfavethai.com/",
+      "address": "141 Ossington Ave, Toronto, ON M6J 2Z6",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/favorites-thai",
+          "title": "Favorites Thai - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; charcoal-grill Thai through a coffee shop, curries good for groups."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Binchotan-cooked Thai hidden behind a coffee shop, on its best list."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Its Thai-style oysters are one of the city's must-try dishes."
+        }
+      ],
+      "closureCheck": "Official site lists Tue-Sat dinner hours and OpenTable booking, no closure notice; Bib Gourmand renewed Sept 2026."
+    },
+    {
+      "name": "Blackbird Baking Co.",
+      "localName": null,
+      "neighbourhood": "Kensington Market",
+      "subtype": "bakery",
+      "description": "Naturally leavened loaves and baguettes from Simon Blackwell, with the original shop in Kensington.",
+      "why": "The bread Toronto's chefs reach for, with a new Mirvish Village shop that opened in Aug 2026.",
+      "price": 1,
+      "website": null,
+      "address": "172 Baldwin St, Toronto",
+      "evidence": [
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/blackbird-baking-co-simon-blackwell-mirvish-village/",
+          "title": "One of Toronto's best bakeries just opened its biggest location yet",
+          "kind": "local-press",
+          "published": "2026-08-31",
+          "afterVisit": false,
+          "supports": "Calls it one of Toronto's best bakeries, with a cult following for its sourdough loaves."
+        },
+        {
+          "publisher": "NOW Toronto",
+          "domain": "nowtoronto.com",
+          "url": "https://nowtoronto.com/summerguide/must-try-toronto-bakeries-to-hit-up-this-summer/",
+          "title": "Must-try Toronto bakeries to hit up this summer",
+          "kind": "local-press",
+          "published": "2025",
+          "afterVisit": true,
+          "supports": "On its must-try bakery list, with Baldwin St, Queen St E and Front St E shops."
+        },
+        {
+          "publisher": "Foodism",
+          "domain": "foodism.ca",
+          "url": "https://foodism.ca/guides/toronto-best-bakeries/",
+          "title": "Toronto's best bakeries",
+          "kind": "list",
+          "published": "2025-06-11",
+          "afterVisit": true,
+          "supports": "Listed first among Toronto's best bakeries, in Kensington."
+        }
+      ],
+      "closureCheck": "Toronto Life (31 Aug 2026) reports a new location opening and existing shops operating; no closure news found. Official site blocked to fetcher."
+    },
+    {
+      "name": "Emmer",
+      "localName": null,
+      "neighbourhood": "Harbord Village",
+      "subtype": "bakery",
+      "description": "Chef Philip Haddad's Harbord Street bakery, known for double-baked croissants and pastries.",
+      "why": "A fixture of Toronto's best-bakery lists, and its pistachio croissant made the city's must-eat list.",
+      "price": 1,
+      "website": null,
+      "address": "161 Harbord St, Toronto",
+      "evidence": [
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Pistachio croissant with frangipane and Sicilian nuts is a must-try dish."
+        },
+        {
+          "publisher": "NOW Toronto",
+          "domain": "nowtoronto.com",
+          "url": "https://nowtoronto.com/summerguide/must-try-toronto-bakeries-to-hit-up-this-summer/",
+          "title": "Must-try Toronto bakeries to hit up this summer",
+          "kind": "local-press",
+          "published": "2025",
+          "afterVisit": true,
+          "supports": "Listed as a must-try bakery at 161 Harbord St."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/chefs-in-the-burbs-philip-haddad-emmer/",
+          "title": "Where chef Philip Haddad eats tacos, pizza and cheeseburgers",
+          "kind": "local-press",
+          "published": "2025-08-29",
+          "afterVisit": false,
+          "supports": "Describes Emmer as a wildly popular Harbord Village bakery run by Haddad."
+        }
+      ],
+      "closureCheck": "Most recent coverage is Toronto Life (Dec 2025, updated Jan 2026); no closure news found, but official site was blocked to fetcher and no 2026-dated confirmation was obtained."
+    },
+    {
+      "name": "Bar Raval",
+      "localName": null,
+      "neighbourhood": "College Street",
+      "subtype": "Spanish tapas bar",
+      "description": "Curvy mahogany pintxos bar pouring sherry and cocktails from early afternoon to 1am.",
+      "why": "A Bib Gourmand for years running, and its tomato bread is on Toronto Life's must-eat list.",
+      "price": 2,
+      "website": "https://www.thisisbarraval.com",
+      "address": "505 College St, Toronto, ON M6G 1A5",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/bar-raval",
+          "title": "Bar Raval - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; conservas and pintxos, sherries and cocktails, open since 2015."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Its tomato bread is one of the city's must-try dishes."
+        }
+      ],
+      "closureCheck": "Official site lists 1pm-1am daily, walk-in only, no closure notice; Bib Gourmand renewed Sept 2026."
+    },
+    {
+      "name": "Golden Horseshoe Barbecue",
+      "localName": null,
+      "neighbourhood": "Seaton Village",
+      "subtype": "barbecue",
+      "description": "Mother-and-son smokehouse on Dupont: Texas-style brisket by weight, with Thursday pastrami.",
+      "why": "Went from pop-up to Bib Gourmand and a Toronto Life best-new pick within a year.",
+      "price": 2,
+      "website": "https://goldenhorseshoebbq.com/",
+      "address": "657 Dupont St, Toronto, ON M6G 1Z4",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/golden-horseshoe-barbecue",
+          "title": "Golden Horseshoe Barbecue - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "New Bib Gourmand 2026; Texas-style brisket, ribs and sausage, house cornbread and desserts."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/deep-dives/these-are-torontos-best-new-restaurants-of-2026/",
+          "title": "These are Toronto's best new restaurants of 2026",
+          "kind": "critic",
+          "published": "2026-05-25",
+          "afterVisit": true,
+          "supports": "Named among Toronto's best new restaurants of 2026; barbecue sold by weight."
+        }
+      ],
+      "closureCheck": "Official site lists Wed-Sun 11:30am-8pm, no closure notice; new Bib Gourmand Sept 2026."
+    },
+    {
+      "name": "Som Tum Jinda",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "Thai (Isan)",
+      "description": "Basement Isan counter for fiery papaya salads and grilled pork jowl. No alcohol served.",
+      "why": "Michelin-listed and an Infatuation favourite for real-deal heat at low prices.",
+      "price": 1,
+      "website": "https://somtumjinda.ca/",
+      "address": "76 Gerrard St E, Toronto",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/som-tum-jinda-1210119",
+          "title": "Som Tum Jinda - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In the guide at $; Isan somtum with fermented fish paste, popular grilled pork jowl."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Basement counter serving bold Isan dishes; no alcohol."
+        }
+      ],
+      "closureCheck": "Official locations page lists daily hours for 76 Gerrard St E, no closure notice; in Infatuation's 28 Sept 2026 update."
+    },
+    {
+      "name": "Ricky + Olivia",
+      "localName": null,
+      "neighbourhood": "Leslieville",
+      "subtype": "creative bistro",
+      "description": "Playful Queen East bistro with shareable plates, burgers and nostalgic desserts, plus a bottle shop.",
+      "why": "A Bib Gourmand that Foodism also ranked among the city's best this year; fun without being silly.",
+      "price": 2,
+      "website": "https://www.rickyandolivia.com/",
+      "address": "996 Queen St E, Toronto, ON M4M 1K1",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/ricky-olivia",
+          "title": "Ricky + Olivia - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; whimsical menu with nods to childhood favourites."
+        },
+        {
+          "publisher": "CTV News (reporting Foodism)",
+          "domain": "ctvnews.ca",
+          "url": "https://www.ctvnews.ca/toronto/photos/2026/03/26/these-23-restaurants-are-the-best-in-toronto-already-this-year-according-to-a-food-magazine/",
+          "title": "These 23 restaurants are the best in Toronto already this year, according to a food magazine",
+          "kind": "list",
+          "published": "2026-03-25",
+          "afterVisit": true,
+          "supports": "Included in Foodism's 23 best Toronto restaurants of 2026 so far."
+        }
+      ],
+      "closureCheck": "Official site lists Tue-Sat dining room and bottle shop hours, no closure notice; Bib Gourmand renewed Sept 2026."
+    },
+    {
+      "name": "Mhel",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "Korean-Japanese",
+      "description": "Small daily-changing menu blending Korean and Japanese cooking, with charcoal grilling and sake.",
+      "why": "A Bib Gourmand that placed 30th in Canada; works for a group or a solo seat at the counter.",
+      "price": 3,
+      "website": null,
+      "address": "276 Havelock St, Toronto, ON M6H 3B9",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/mhel",
+          "title": "Mhel - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; about a dozen daily dishes mixing Korean and Japanese influences."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 30 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Its dashimaki tamago is one of the city's must-try dishes."
+        }
+      ],
+      "closureCheck": "No official site; Resy page could not be read. Bib Gourmand renewed in Sept 2026 guide and Canada's 100 Best May 2026; no closure news found."
+    },
+    {
+      "name": "Takja BBQ House",
+      "localName": null,
+      "neighbourhood": "Brockton Village",
+      "subtype": "Korean barbecue",
+      "description": "Upscale, smoke-free Korean barbecue where staff grill dry-aged beef at your booth.",
+      "why": "Ranked 46th in Canada, newly in Michelin, and on The Infatuation's list; the Hansang set is the move.",
+      "price": 4,
+      "website": "https://www.takja.ca/",
+      "address": "962 College St, Toronto, ON M6H 1A5",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/takja",
+          "title": "Takja - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Inspectors' favourite; Hansang menu with seafood, banchan and in-house dry-aged meats."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 46 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Upscale Korean BBQ with staff-grilled dry-aged beef and a tasting option."
+        }
+      ],
+      "closureCheck": "Official site lists daily 5-10pm hours with OpenTable booking, no closure notice; added to Michelin Sept 2026."
+    },
+    {
+      "name": "Casa Paco",
+      "localName": null,
+      "neighbourhood": "Little Italy",
+      "subtype": "Spanish",
+      "description": "Moody Spanish dining room for cured meats and grilled plates, with paella only on Sundays.",
+      "why": "Ranked 32nd in Canada and an Infatuation pick; book the Sunday paella well ahead.",
+      "price": null,
+      "website": "https://www.casapaco.ca/",
+      "address": "50c Clinton St, Toronto, ON M6G 2Y3",
+      "evidence": [
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 32 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Moody Spanish restaurant with cured meats, tomato bread and Sunday paella."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Its Sunday-only paella is one of the city's must-try dishes."
+        }
+      ],
+      "closureCheck": "Official site lists Thu-Sat dinner and Paella Sunday with Tock booking, no closure notice; in Infatuation's 28 Sept 2026 update."
+    },
+    {
+      "name": "N.L. Ginzburg",
+      "localName": null,
+      "neighbourhood": "Little Italy",
+      "subtype": "Italian trattoria",
+      "description": "College Street trattoria cooking Italian food through a Jewish lens.",
+      "why": "One of Toronto Life's best new restaurants for 2026, and it went straight onto Canada's 100 Best.",
+      "price": null,
+      "website": "https://www.nlginzburg.com/",
+      "address": "548 College St, Toronto",
+      "evidence": [
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/deep-dives/these-are-torontos-best-new-restaurants-of-2026/",
+          "title": "These are Toronto's best new restaurants of 2026",
+          "kind": "critic",
+          "published": "2026-05-25",
+          "afterVisit": true,
+          "supports": "Italian trattoria with Jewish influences, among the year's best new restaurants."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 35 on Canada's 100 Best 2026."
+        }
+      ],
+      "closureCheck": "Official site lists Mon-Sat 5pm-late with Resy booking, no closure notice."
+    },
+    {
+      "name": "Bar Eugenie",
+      "localName": null,
+      "neighbourhood": "Harbord Village",
+      "subtype": "neighbourhood bistro",
+      "description": "Small-plates neighbourhood room on Harbord: duck confit, harissa potatoes, peanut butter pie.",
+      "why": "Third on Toronto Life's best-new list and on Canada's 100 Best, at mid-range prices.",
+      "price": 2,
+      "website": "https://www.bareugenie.com/",
+      "address": "89 Harbord St, Toronto, ON M5S 1G4",
+      "evidence": [
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/deep-dives/these-are-torontos-best-new-restaurants-of-2026/",
+          "title": "These are Toronto's best new restaurants of 2026",
+          "kind": "critic",
+          "published": "2026-05-25",
+          "afterVisit": true,
+          "supports": "Among the year's best new restaurants; Canadian ingredients with Filipino touches."
+        },
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/bar-eugenie",
+          "title": "Bar Eugenie - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Added in 2026; seasonal, comforting shareable plates focused on ingredients."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 86 on Canada's 100 Best 2026."
+        }
+      ],
+      "closureCheck": "Official site lists Thu-Mon dinner hours with Resy booking, no closure notice; added to Michelin Sept 2026."
+    },
+    {
+      "name": "Dreyfus",
+      "localName": null,
+      "neighbourhood": "Harbord Village",
+      "subtype": "French bistro",
+      "description": "Unsigned Harbord townhouse bistro with a deep wine wall and a chef from Montreal's Joe Beef.",
+      "why": "Ranked 19th in Canada for 2026 and in Michelin; a great date-night pick.",
+      "price": 3,
+      "website": "https://www.dreyfustoronto.com/",
+      "address": "96 Harbord St, Toronto, ON M5S 1G6",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/dreyfus",
+          "title": "Dreyfus - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "French bistro with rare wines; chef Zach Kolomeir, ex-Joe Beef."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 19 on Canada's 100 Best 2026."
+        }
+      ],
+      "closureCheck": "Official site lists Mon-Sat 5:30pm-late with Resy booking, no closure notice."
+    },
+    {
+      "name": "BB's",
+      "localName": null,
+      "neighbourhood": "Parkdale",
+      "subtype": "Filipino diner",
+      "description": "Bright Filipino diner in Parkdale, best at brunch for silog plates and adobo fried chicken.",
+      "why": "A Bib Gourmand again in 2026, and its silog is on Toronto Life's must-eat list.",
+      "price": 2,
+      "website": "https://www.bbs.restaurant/",
+      "address": "5 Brock Ave, Toronto, ON M6K 2K6",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/bb-s",
+          "title": "BB's - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Bib Gourmand 2026; relaxed Filipino diner with adobo fried chicken and calamansi pie."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Silog brunch plate with longanisa and garlic rice is a must-try dish."
+        }
+      ],
+      "closureCheck": "Official site could not be read (rate-limited); Bib Gourmand renewed Sept 2026, with daily hours on the Michelin listing; no closure news found."
+    },
+    {
+      "name": "Sam James Coffee Bar",
+      "localName": null,
+      "neighbourhood": "Harbord Village",
+      "subtype": "café",
+      "description": "Local espresso bar, with the Harbord original plus Parkdale, Ossington and PATH counters.",
+      "why": "A fixture on Toronto best-coffee lists for years and still on Tastet's 2026 list.",
+      "price": null,
+      "website": "https://www.samjamescoffeebar.com/",
+      "address": "297 Harbord St, Toronto",
+      "evidence": [
+        {
+          "publisher": "Tastet",
+          "domain": "tastet.ca",
+          "url": "https://tastet.ca/en/lists/the-best-coffee-shops-in-toronto/",
+          "title": "The Best Coffee Shops in Toronto",
+          "kind": "list",
+          "published": "2026-09-01",
+          "afterVisit": true,
+          "supports": "Harbord location included among Toronto's best coffee shops."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/toronto/restaurants/best-coffee-shops-in-toronto",
+          "title": "The 11 best coffee shops in Toronto",
+          "kind": "guide",
+          "published": "2018-08-30",
+          "afterVisit": true,
+          "supports": "Named one of Toronto's best coffee shops, Harbord Village."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/sam-james-coffee-bar-dirty-soda/",
+          "title": "Sam James Coffee Bar makes dirty soda now",
+          "kind": "local-press",
+          "published": "2026-05-29",
+          "afterVisit": false,
+          "supports": "May 2026 news item on a new menu drink, confirming it is operating."
+        }
+      ],
+      "closureCheck": "Official site lists four Toronto locations with current hours, no closure notice; Toronto Life news May 2026."
+    },
+    {
+      "name": "Forno Cultura",
+      "localName": null,
+      "neighbourhood": "King West",
+      "subtype": "Italian bakery-café",
+      "description": "Italian bakery and café for breads, pastries and espresso, with its flagship on King West.",
+      "why": "On best-bakery lists for years and still on Tastet's 2026 list of the city's top coffee stops.",
+      "price": null,
+      "website": null,
+      "address": "609 King St W, Toronto",
+      "evidence": [
+        {
+          "publisher": "Tastet",
+          "domain": "tastet.ca",
+          "url": "https://tastet.ca/en/lists/the-best-coffee-shops-in-toronto/",
+          "title": "The Best Coffee Shops in Toronto",
+          "kind": "list",
+          "published": "2026-09-01",
+          "afterVisit": true,
+          "supports": "609 King St W location listed among Toronto's best coffee shops."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/torontos-best-bakeries/",
+          "title": "Toronto's best bakeries",
+          "kind": "local-press",
+          "published": "2021-11-09",
+          "afterVisit": true,
+          "supports": "Named one of Toronto's best bakeries, at 609 King St W."
+        },
+        {
+          "publisher": "Foodism",
+          "domain": "foodism.ca",
+          "url": "https://foodism.ca/guides/toronto-best-bakeries/",
+          "title": "Toronto's best bakeries",
+          "kind": "list",
+          "published": "2025-06-11",
+          "afterVisit": true,
+          "supports": "On Foodism's best-bakeries list, with King and Queen Street shops."
+        }
+      ],
+      "closureCheck": "Tastet list updated 1 Sept 2026 includes the King West shop; no closure news found. Official site blocked to fetcher."
+    },
+    {
+      "name": "Harbord Bakery",
+      "localName": null,
+      "neighbourhood": "Harbord Village",
+      "subtype": "bakery",
+      "description": "Old-school Jewish bakery on Harbord, the place for challah and rye.",
+      "why": "Its challah is on Toronto Life's must-eat list, and it turns up on every serious bakery roundup.",
+      "price": 1,
+      "website": "https://www.harbordbakery.ca/",
+      "address": "115 Harbord St, Toronto",
+      "evidence": [
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Its challah is listed among Toronto's must-try dishes."
+        },
+        {
+          "publisher": "Streets of Toronto",
+          "domain": "streetsoftoronto.com",
+          "url": "https://streetsoftoronto.com/best_of_toronto/the-50-best-bakeries-in-toronto/",
+          "title": "The 50 best bakeries in Toronto",
+          "kind": "local-press",
+          "published": "2025-04-08",
+          "afterVisit": true,
+          "supports": "Included in the city magazine's 50 best Toronto bakeries."
+        }
+      ],
+      "closureCheck": "Official site shows address and phone, no closure notice; most recent coverage Toronto Life Dec 2025 (updated Jan 2026). No 2026-dated confirmation of hours obtained."
+    },
+    {
+      "name": "DaNico",
+      "localName": null,
+      "neighbourhood": "Little Italy",
+      "subtype": "Italian tasting menu",
+      "description": "Daniele Corona's long Italian tasting menus with global accents, served in a 1900s bank hall.",
+      "why": "Michelin-starred and ranked first on Foodism's 2026 list; a full-evening splurge.",
+      "price": 4,
+      "website": "https://www.danicotoronto.com/",
+      "address": "440 College St, Toronto, ON M5T 1T3",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/danico",
+          "title": "DaNico - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Star 2026; Italian cooking with global flavours in a former bank building."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Fine-dining Italian with a signature three-hour tasting menu."
+        },
+        {
+          "publisher": "CTV News (reporting Foodism)",
+          "domain": "ctvnews.ca",
+          "url": "https://www.ctvnews.ca/toronto/photos/2026/03/26/these-23-restaurants-are-the-best-in-toronto-already-this-year-according-to-a-food-magazine/",
+          "title": "These 23 restaurants are the best in Toronto already this year, according to a food magazine",
+          "kind": "list",
+          "published": "2026-03-25",
+          "afterVisit": true,
+          "supports": "Included in Foodism's best Toronto restaurants of 2026."
+        }
+      ],
+      "closureCheck": "Official site is a stale pre-opening placeholder; star retained in Sept 2026 Michelin guide and in Infatuation's 28 Sept 2026 update; no closure news found."
+    },
+    {
+      "name": "Kappo Sato",
+      "localName": null,
+      "neighbourhood": "Mount Pleasant",
+      "subtype": "Japanese kappo counter",
+      "description": "Eight-seat counter where chef Takeshi Sato cooks a long, loose kappo dinner in front of you.",
+      "why": "Michelin-starred and on The Infatuation's list; livelier than a typical omakase.",
+      "price": 4,
+      "website": "https://kapposato.com/",
+      "address": "575 Mount Pleasant Rd, Toronto, ON M4S 2M5",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/kappo-sato",
+          "title": "Kappo Sato - MICHELIN Guide",
+          "kind": "award",
+          "published": "2025",
+          "afterVisit": true,
+          "supports": "One Star; freewheeling counter tasting led by Chef Takeshi Sato."
+        },
+        {
+          "publisher": "Tastet",
+          "domain": "tastet.ca",
+          "url": "https://tastet.ca/en/news/michelin-guide-toronto-2026-all-the-award-winners/",
+          "title": "Michelin Guide Toronto 2026: All the Award Winners",
+          "kind": "local-press",
+          "published": "2026-09-23",
+          "afterVisit": false,
+          "supports": "Lists Kappo Sato among Toronto's one-star restaurants in the 2026 guide."
+        },
+        {
+          "publisher": "The Infatuation",
+          "domain": "theinfatuation.com",
+          "url": "https://www.theinfatuation.com/toronto/guides/best-restaurants-toronto",
+          "title": "The 25 Best Restaurants In Toronto",
+          "kind": "guide",
+          "published": "2026-09-28",
+          "afterVisit": true,
+          "supports": "Eight-seat counter serving a long, technique-driven kappo dinner."
+        }
+      ],
+      "closureCheck": "Official site (© 2026) has OpenTable booking, no closure notice; star retained Sept 2026 per Tastet."
+    },
+    {
+      "name": "Sushi Masaki Saito",
+      "localName": null,
+      "neighbourhood": null,
+      "subtype": "sushi omakase",
+      "description": "Masaki Saito's omakase at a 200-year-old hinoki counter, with fish flown in from Japan.",
+      "why": "Michelin-starred and on Canada's 100 Best; the city's top-end sushi splurge.",
+      "price": 4,
+      "website": "https://www.masakisaito.ca/",
+      "address": "88 Avenue Rd, Toronto, ON M5R 2H2",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/sushi-masaki-saito",
+          "title": "Sushi Masaki Saito - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Star 2026; omakase with Japanese seafood and aged-vinegar rice."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 52 on Canada's 100 Best 2026."
+        }
+      ],
+      "closureCheck": "Official site (© 2026) has a booking page, no closure notice; star retained Sept 2026."
+    },
+    {
+      "name": "Sammarco",
+      "localName": null,
+      "neighbourhood": "St. Lawrence",
+      "subtype": "Italian steakhouse",
+      "description": "Gold-and-marble Italian steakhouse near St. Lawrence Market, with big steaks and pricey pastas.",
+      "why": "Ninth on Toronto Life's best-new list and made Canada's 100 Best in its first year.",
+      "price": 4,
+      "website": "https://sammarco.ca/",
+      "address": "4 Front St E, Toronto, ON M5E 1G4",
+      "evidence": [
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/deep-dives/these-are-torontos-best-new-restaurants-of-2026/",
+          "title": "These are Toronto's best new restaurants of 2026",
+          "kind": "critic",
+          "published": "2026-05-25",
+          "afterVisit": true,
+          "supports": "Italian bisteccheria among the year's best new restaurants."
+        },
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 37 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/sammarco",
+          "title": "Sammarco - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Listed upscale Italian steakhouse; grilled calamari, 24-oz steak, lobster."
+        }
+      ],
+      "closureCheck": "Official site lists 4:30-11pm daily with OpenTable booking, no closure notice."
+    },
+    {
+      "name": "Linny's",
+      "localName": null,
+      "neighbourhood": "Ossington",
+      "subtype": "steakhouse-deli",
+      "description": "David Schwartz's steakhouse with deli touches; the pastrami on rye is a legend at lunch.",
+      "why": "Ranked 14th in Canada for 2026, Michelin-listed, and its pastrami is a Toronto Life must-eat.",
+      "price": 4,
+      "website": "https://linnysrestaurant.com/",
+      "address": "176 Ossington Ave, Toronto, ON M6J 2Z7",
+      "evidence": [
+        {
+          "publisher": "CP24",
+          "domain": "cp24.com",
+          "url": "https://www.cp24.com/photos/2026/05/06/where-should-i-eat-these-restaurants-are-considered-the-100-best-in-all-of-canada/",
+          "title": "Where should I eat? These restaurants are considered the 100 best in all of Canada",
+          "kind": "award",
+          "published": "2026-05-06",
+          "afterVisit": true,
+          "supports": "Ranked No. 14 on Canada's 100 Best 2026."
+        },
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/ca/en/ontario/toronto/restaurant/linny-s",
+          "title": "Linny's - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Listed; old-school steakhouse with deli touches and tableside apple cake."
+        },
+        {
+          "publisher": "Toronto Life",
+          "domain": "torontolife.com",
+          "url": "https://torontolife.com/food/the-incredible-edible-bucket-list-365-must-try-toronto-dishes/",
+          "title": "The Incredible Edible Bucket List: 365 must-try Toronto dishes",
+          "kind": "local-press",
+          "published": "2025-12-19",
+          "afterVisit": true,
+          "supports": "Its pastrami on rye is listed among the city's must-try dishes."
+        }
+      ],
+      "closureCheck": "Official site could not be read (rate-limited); in the current Michelin listing with OpenTable reservations and on Canada's 100 Best May 2026; no closure news found."
+    }
+  ],
+  "rejected": [
+    {
+      "name": "Mimi Chinese",
+      "reason": "Paused operations 4 Jan 2026 to plan a rebrand, per Streets of Toronto (7 Jan 2026); current status unclear."
+    },
+    {
+      "name": "Porzia",
+      "reason": "Infatuation and Toronto Life support it, but the official site could not be read (rate-limited), so it is not open-checked."
+    },
+    {
+      "name": "Wanda's Pie in the Sky",
+      "reason": "Supported by NOW Toronto 2025 and Streets of Toronto 2025, but no current hours or 2026 confirmation could be found."
+    },
+    {
+      "name": "Seahorse",
+      "reason": "Toronto Life's No. 1 new restaurant of 2026, but only one independent source opened; not verified twice."
+    }
+  ]
+}

@@ -1,0 +1,1028 @@
+{
+  "city": "toronto",
+  "category": "hotels",
+  "status": "researched",
+  "updated": "2026-10-11",
+  "entries": [
+    {
+      "id": "four-seasons-hotel-toronto",
+      "name": "Four Seasons Hotel Toronto",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "luxury hotel",
+      "description": "The brand's flagship in a Yorkville glass tower, with Café Boulud and a full-scale spa.",
+      "why": "Two Michelin Keys and a Forbes five-star rating, and inspectors single out the service.",
+      "price": 4,
+      "website": "https://www.fourseasons.com/toronto/",
+      "address": "60 Yorkville Avenue, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/article/travel/all-the-key-hotels-canada-michelin-guide",
+          "title": "All the Key Hotels in Canada: The Full 2026 Selection",
+          "kind": "award",
+          "published": "2026-09-18",
+          "afterVisit": true,
+          "supports": "Awarded Two Michelin Keys in the 2026 Canada selection.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "forbes-travel-guide",
+          "url": "https://www.forbestravelguide.com/destinations/toronto-canada",
+          "title": "Toronto Luxury Hotels - Forbes Travel Guide",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Rated a Forbes Five-Star hotel.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "On AFAR's 20 best Toronto hotels; understated luxury with local art.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick, priced $$$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Hotel press release dated 2026-09-18 announces its Two Michelin Keys; Feb 2026 release confirms Forbes renewal. No closure news found."
+    },
+    {
+      "id": "the-hazelton-hotel",
+      "name": "The Hazelton Hotel",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "luxury boutique hotel",
+      "description": "Seventy-seven-room Yorkville boutique with Yabu Pushelberg interiors, a screening room and an indoor pool.",
+      "why": "One of only two Toronto hotels with Two Michelin Keys, and it holds Forbes's top rating as well.",
+      "price": 4,
+      "website": null,
+      "address": "118 Yorkville Avenue, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/the-hazelton-hotel-toronto-6311",
+          "title": "The Hazelton Hotel Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Two Michelin Keys; a contemporary grand hotel with large suites, spa and pool.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "forbes-travel-guide",
+          "url": "https://www.forbestravelguide.com/destinations/toronto-canada",
+          "title": "Toronto Luxury Hotels - Forbes Travel Guide",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Rated a Forbes Five-Star hotel.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick in Yorkville, priced $$$$.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "lonely-planet",
+          "url": "https://www.lonelyplanet.com/canada/toronto/hotels",
+          "title": "Toronto hotels - Lonely Planet",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed among Toronto's top hotels as its most exclusive address.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Named in Michelin's 2026 Key selection (published 2026-09-18) and Curiocity's Feb 2026 Forbes winners report; closure search turned up only renovation news from 2019, nothing current."
+    },
+    {
+      "id": "shangri-la-hotel-toronto",
+      "name": "Shangri-La Hotel, Toronto",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "luxury hotel",
+      "description": "Asian-inflected tower hotel on University Avenue with a 20-metre pool, a spa and Bosk restaurant.",
+      "why": "Holds a Michelin Key and Forbes five stars, and both Time Out and AFAR put it on their shortlists.",
+      "price": 4,
+      "website": null,
+      "address": "188 University Avenue, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/shangrila-hotel-toronto-7646",
+          "title": "Shangri-La Hotel, Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Michelin Key; calm, Asian-designed retreat with a fifth-floor spa and pool.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "forbes-travel-guide",
+          "url": "https://www.forbestravelguide.com/destinations/toronto-canada",
+          "title": "Toronto Luxury Hotels - Forbes Travel Guide",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Rated a Forbes Five-Star hotel.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Praised for attentive service, city views and its gym and spa.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/toronto/hotels/best-hotels-in-toronto",
+          "title": "The 17 best hotels in Toronto",
+          "kind": "guide",
+          "published": "2024-12-05",
+          "afterVisit": true,
+          "supports": "On Time Out's best Toronto hotels list, noted as the city's first Asian luxury brand.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's 2026 Key selection (2026-09-18) and Curiocity's Feb 2026 Forbes winners report. No closure news found."
+    },
+    {
+      "id": "park-hyatt-toronto",
+      "name": "Park Hyatt Toronto",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "luxury hotel",
+      "description": "Reworked landmark at Avenue and Bloor with Stillwater Spa, Joni restaurant and a rooftop bar.",
+      "why": "Its renovation earned a Michelin Key, and Forbes, Fodor's and AFAR all back it up.",
+      "price": 4,
+      "website": null,
+      "address": "4 Avenue Road, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/park-hyatt-toronto-7352",
+          "title": "Park Hyatt Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Michelin Key; spacious rooms, Stillwater spa, Joni restaurant, rooftop terrace bar.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "forbes-travel-guide",
+          "url": "https://www.forbestravelguide.com/destinations/toronto-canada",
+          "title": "Toronto Luxury Hotels - Forbes Travel Guide",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Rated a Forbes Four-Star hotel.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked for its reimagined luxury built around Canadian art and materials.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick, priced $$$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's 2026 Key selection (2026-09-18) and Curiocity's Feb 2026 Forbes list. No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "the-ritz-carlton-toronto",
+      "name": "The Ritz-Carlton, Toronto",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "luxury hotel",
+      "description": "Modern Ritz-Carlton on Wellington Street with marble baths, a spa and TOCA Italian restaurant.",
+      "why": "Holds a Michelin Key and a Forbes four-star rating, and T+L readers rank it among Canada's best.",
+      "price": null,
+      "website": "https://www.ritzcarlton.com/en/hotels/canada/toronto",
+      "address": "181 Wellington Street West, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/the-ritz-carlton-toronto-9004",
+          "title": "The Ritz-Carlton Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Michelin Key; contemporary luxury near the convention centre and stadiums.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "forbes-travel-guide",
+          "url": "https://www.forbestravelguide.com/destinations/toronto-canada",
+          "title": "Toronto Luxury Hotels - Forbes Travel Guide",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Rated a Forbes Four-Star hotel.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "blogto",
+          "url": "https://www.blogto.com/travel/2025/07/best-hotels-toronto-2025/",
+          "title": "Three Toronto hotels were just named among the best in Canada",
+          "kind": "local-press",
+          "published": "2025-07",
+          "afterVisit": false,
+          "supports": "Reports it ranked 8th in Canada in Travel + Leisure's 2025 World's Best Awards.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's 2026 Key selection (2026-09-18); hotel press release dated 2026-07-15 announces a Condé Nast Traveler award. No closure news found."
+    },
+    {
+      "id": "the-st-regis-toronto",
+      "name": "The St. Regis Toronto",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "luxury hotel",
+      "description": "Tall Bay Street tower known for its afternoon tea, a large spa and Louix Louis on the 31st floor.",
+      "why": "Forbes rates it, and Condé Nast and T+L readers both put it in Canada's top five.",
+      "price": null,
+      "website": null,
+      "address": "325 Bay Street, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "forbes-travel-guide",
+          "url": "https://www.forbestravelguide.com/destinations/toronto-canada",
+          "title": "Toronto Luxury Hotels - Forbes Travel Guide",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Holds a Forbes star rating (page shows Four-Star; Curiocity reports Five-Star for 2026).",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/the-st-regis-toronto-12191",
+          "title": "The St. Regis Toronto - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's hotel selection; notes the afternoon tea, spa and Louix Louis.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked for relaxed luxury and a busy bar and restaurant scene.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "curiocity",
+          "url": "https://curiocity.com/toronto-hotels-best-canada/",
+          "title": "Four Toronto hotels were just named among the best in Canada",
+          "kind": "local-press",
+          "published": "2025-10-07",
+          "afterVisit": false,
+          "supports": "Reports it placed 5th in Canada in Condé Nast Traveler's 2025 Readers' Choice Awards.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Curiocity's Feb 2026 Forbes winners report includes it, and it is in Michelin's current Toronto selection. No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "1-hotel-toronto",
+      "name": "1 Hotel Toronto",
+      "localName": null,
+      "neighbourhood": "King West",
+      "subtype": "eco-luxury hotel",
+      "description": "Plant-filled, sustainability-minded hotel with a farm-to-table kitchen and Harriet's Rooftop.",
+      "why": "Holds a Michelin Key, is a Fodor's Choice, and Condé Nast readers put it in Canada's top ten.",
+      "price": 4,
+      "website": null,
+      "address": "550 Wellington Street West, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/1-hotel-toronto-12129",
+          "title": "1 Hotel Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Michelin Key; eco-minded design hotel in King West Village.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as a plant-filled, eco-focused hotel built with local partners.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick, priced $$$$.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "curiocity",
+          "url": "https://curiocity.com/toronto-hotels-best-canada/",
+          "title": "Four Toronto hotels were just named among the best in Canada",
+          "kind": "local-press",
+          "published": "2025-10-07",
+          "afterVisit": false,
+          "supports": "Reports it placed 9th in Canada in Condé Nast Traveler's 2025 Readers' Choice Awards.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's 2026 Key selection (2026-09-18) and Curiocity's Feb 2026 Forbes list (Recommended). No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "ace-hotel-toronto",
+      "name": "Ace Hotel Toronto",
+      "localName": null,
+      "neighbourhood": "Fashion District",
+      "subtype": "design hotel",
+      "description": "Shim-Sutcliffe-designed concrete-and-wood hotel with Alder restaurant and the Evangeline rooftop bar.",
+      "why": "Holds a Michelin Key, and Time Out and AFAR both list it among the city's best hotels.",
+      "price": 3,
+      "website": "https://acehotel.com/toronto/",
+      "address": "51 Camden Street, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/ace-hotel-toronto-12636",
+          "title": "Ace Hotel Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Michelin Key; retro-futurist architecture, warm rooms, Alder and Evangeline.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as Canada's first Ace, with a lively social scene.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/toronto/hotels/best-hotels-in-toronto",
+          "title": "The 17 best hotels in Toronto",
+          "kind": "guide",
+          "published": "2024-12-05",
+          "afterVisit": true,
+          "supports": "Top of Time Out's Toronto hotel list; a design hotel near Queen West and Chinatown.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed among Toronto's best hotels, priced $$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Official site advertises stay offers valid June–July 2026; in Michelin's 2026 Key selection (2026-09-18). No closure news found."
+    },
+    {
+      "id": "bisha-hotel-toronto",
+      "name": "Bisha Hotel Toronto",
+      "localName": null,
+      "neighbourhood": "Entertainment District",
+      "subtype": "boutique hotel",
+      "description": "Rock-and-roll luxury boutique with Kravitz Design rooms, a rooftop pool and KŌST on the 44th floor.",
+      "why": "Holds a Michelin Key, and AFAR and Fodor's both pick it out for its nightlife energy and art.",
+      "price": 4,
+      "website": null,
+      "address": "80 Blue Jays Way, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/bisha-hotel-toronto-11757",
+          "title": "Bisha Hotel Toronto - MICHELIN Guide",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "One Michelin Key; lively hotel with Kravitz Design rooms and four bars and restaurants.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as a casually cool boutique with a big art collection and rooftop pool.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed among Toronto's best hotels, priced $$$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's 2026 Key selection (2026-09-18); closure search returned only booking pages and 2026 awards listings, no closure news."
+    },
+    {
+      "id": "the-drake-hotel",
+      "name": "The Drake Hotel",
+      "localName": null,
+      "neighbourhood": "West Queen West",
+      "subtype": "art boutique hotel",
+      "description": "West Queen West institution with art-filled rooms, a rooftop and the Drake Underground music venue.",
+      "why": "A Fodor's Choice, and Condé Nast readers voted it 3rd-best hotel in Canada in 2025.",
+      "price": null,
+      "website": "https://thedrake.ca/",
+      "address": "1150 Queen Street West, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/the-drake-hotel-4461",
+          "title": "The Drake Hotel - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; notes its art program, bars and Drake Underground venue.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as a long-running westside favourite that has added a newer wing.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick on Queen West.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "curiocity",
+          "url": "https://curiocity.com/toronto-hotels-best-canada/",
+          "title": "Four Toronto hotels were just named among the best in Canada",
+          "kind": "local-press",
+          "published": "2025-10-07",
+          "afterVisit": false,
+          "supports": "Reports it placed 3rd in Canada in Condé Nast Traveler's 2025 Readers' Choice Awards.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Official site blog post dated 2026-08-10 takes bookings for TIFF 2026; closures found were of Drake One Fifty and Commissary (restaurants), not the hotel."
+    },
+    {
+      "id": "the-broadview-hotel",
+      "name": "The Broadview Hotel",
+      "localName": null,
+      "neighbourhood": "Riverside",
+      "subtype": "heritage boutique hotel",
+      "description": "Restored 1891 Romanesque building in the east end with 58 rooms and a glassed-in rooftop bar.",
+      "why": "Time Out gave it five stars, and AFAR and Michelin both list it. It's the pick on the east side.",
+      "price": 3,
+      "website": null,
+      "address": "106 Broadview Avenue, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as a lively independent hotel with a rooftop lounge.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/toronto/hotels/the-broadview-hotel",
+          "title": "The Broadview Hotel review",
+          "kind": "critic",
+          "published": "2024-09-12",
+          "afterVisit": true,
+          "supports": "Five-star review: restored heritage building, record players in rooms, rooftop bar.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed among Toronto's best hotels, priced $$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "WhatNow Toronto (2026-04-09) describes it operating with 58 rooms while its lobby restaurant becomes Archie's. The only suspension found was the March 2020 COVID closure. No 2026 closure news."
+    },
+    {
+      "id": "fairmont-royal-york",
+      "name": "Fairmont Royal York",
+      "localName": null,
+      "neighbourhood": "Financial District",
+      "subtype": "historic grand hotel",
+      "description": "Toronto's 1929 railway grand hotel across from Union Station, refreshed, with a 50-foot pool and afternoon tea.",
+      "why": "Condé Nast readers ranked it Canada's #2 hotel in 2025, and Time Out and AFAR both list it.",
+      "price": 4,
+      "website": null,
+      "address": "100 Front Street West, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/fairmont-royal-york-hotel-12435",
+          "title": "Fairmont Royal York Hotel - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; 1929 landmark updated with a spa, pool and Reign brasserie.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as a historic landmark hotel across from Union Station.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/toronto/hotels/best-hotels-in-toronto",
+          "title": "The 17 best hotels in Toronto",
+          "kind": "guide",
+          "published": "2024-12-05",
+          "afterVisit": true,
+          "supports": "On Time Out's list: renovated historic hotel with rooftop beehives and childcare.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "curiocity",
+          "url": "https://curiocity.com/toronto-hotels-best-canada/",
+          "title": "Four Toronto hotels were just named among the best in Canada",
+          "kind": "local-press",
+          "published": "2025-10-07",
+          "afterVisit": false,
+          "supports": "Reports it placed 2nd in Canada in Condé Nast Traveler's 2025 Readers' Choice Awards.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's current Toronto selection and the Oct 2025 Condé Nast Readers' Choice list. No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "gladstone-house",
+      "name": "Gladstone House",
+      "localName": null,
+      "neighbourhood": "West Queen West",
+      "subtype": "art boutique hotel",
+      "description": "Toronto's oldest operating hotel, a red-brick Victorian whose 55 rooms are each styled by a Canadian artist.",
+      "why": "A Fodor's Choice and a Michelin pick, and still the most art-forward stay on Queen West.",
+      "price": null,
+      "website": "https://www.gladstonehouse.ca/",
+      "address": "1214 Queen Street West, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/gladstone-house-5359",
+          "title": "Gladstone House - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection as an artists' hotel with individually designed rooms.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick on Queen West.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Official site promotes current stays and announces its 2026 Gladstone Award recipient; no closure notice. Closure search found nothing."
+    },
+    {
+      "id": "the-anndore-house",
+      "name": "The Anndore House",
+      "localName": null,
+      "neighbourhood": "Yonge and Bloor",
+      "subtype": "boutique hotel",
+      "description": "Mid-century apartment block turned 115-room hotel with turntables, exposed brick and a barbershop.",
+      "why": "A stylish, more affordable base near Yorkville, picked by AFAR, Fodor's and Michelin.",
+      "price": 3,
+      "website": null,
+      "address": "15 Charles Street East, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/the-anndore-house-123848-17263",
+          "title": "The Anndore House - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; converted high-rise with retro rooms, café and Italian restaurant.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as a former flophouse reborn as a polished, minimalist boutique.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Listed among Toronto's best hotels, priced $$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's current Toronto selection, which shows a booking widget; a 2026 search returned only booking listings (now a JdV by Hyatt property), no closure news."
+    },
+    {
+      "id": "kimpton-saint-george",
+      "name": "Kimpton Saint George",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "boutique hotel",
+      "description": "Kimpton's first Canadian hotel on Bloor West, with Canadian art and the Fortunate Fox gastropub.",
+      "why": "A Fodor's Choice that Time Out also lists, a personable stay between Yorkville and U of T.",
+      "price": 4,
+      "website": null,
+      "address": "280 Bloor Street West, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/kimpton-saint-george-12818",
+          "title": "Kimpton Saint George - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; a large hotel with a boutique feel and personable service.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/toronto/hotels/best-hotels-in-toronto",
+          "title": "The 17 best hotels in Toronto",
+          "kind": "guide",
+          "published": "2024-12-05",
+          "afterVisit": true,
+          "supports": "On Time Out's list as Kimpton's first Canadian hotel, decorated mainly with Canadian art.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick, priced $$$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's current Toronto selection; a 2026 search returned booking listings and 2026 rankings, no closure news."
+    },
+    {
+      "id": "w-toronto",
+      "name": "W Toronto",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "design hotel",
+      "description": "Brutalist tower with colourful interiors, live music in the lobby and TONO by Akira Back on the roof.",
+      "why": "The livelier pick at Yonge and Bloor, backed by AFAR, blogTO and Michelin.",
+      "price": null,
+      "website": null,
+      "address": "90 Bloor Street East, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/w-toronto-12190",
+          "title": "W Toronto - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; striking design, wellness facilities and TONO rooftop dining.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked for its brutalist exterior, colourful rooms and big rooftop terrace.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "blogto",
+          "url": "https://www.blogto.com/toronto/the_best_hotels_in_toronto",
+          "title": "The Best Hotels in Toronto",
+          "kind": "local-press",
+          "published": null,
+          "afterVisit": true,
+          "supports": "On blogTO's best hotels list for its art, live performances and rooftop restaurant.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's current Toronto selection. No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "nobu-hotel-toronto",
+      "name": "Nobu Hotel Toronto",
+      "localName": null,
+      "neighbourhood": "Entertainment District",
+      "subtype": "luxury boutique hotel",
+      "description": "Thirty-odd Japanese-minimalist rooms high in the Nobu towers, with a Sakura Lounge and soaking tubs.",
+      "why": "The newest serious luxury stay downtown, opened in 2025 and already picked by AFAR and Michelin.",
+      "price": null,
+      "website": null,
+      "address": "33 Mercer Street, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/nobu-hotel-toronto-14871",
+          "title": "Nobu Toronto - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; small Japanese-inspired hotel with skyline and lake suites.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked as Canada's first Nobu Hotel, with wellness amenities and the restaurant.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "azure",
+          "url": "https://www.azuremagazine.com/article/nobu-hotel-toronto-studio-munge/",
+          "title": "Nobu Hotel Toronto by Studio Munge",
+          "kind": "critic",
+          "published": "2025-09-04",
+          "afterVisit": false,
+          "supports": "Design feature confirming a June 2025 opening, with 35 rooms on floors 41–45.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Opened June 2025 per Azure; in Michelin's current Toronto selection. No closure news found."
+    },
+    {
+      "id": "le-germain-hotel-maple-leaf-square",
+      "name": "Le Germain Hotel Maple Leaf Square",
+      "localName": null,
+      "neighbourhood": "Entertainment District",
+      "subtype": "boutique hotel",
+      "description": "Calm, Quebec-designed boutique attached to Scotiabank Arena, with loft-style rooms and big windows.",
+      "why": "The easy, polished choice for a game or concert night, listed by Time Out, AFAR and Michelin.",
+      "price": null,
+      "website": null,
+      "address": "75 Bremner Boulevard, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/le-germain-hotel-maple-leaf-square-toronto-6620",
+          "title": "Le Germain Hotel Maple Leaf Square Toronto - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; loft-style rooms with an athletic, steel-and-glass design.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "afar",
+          "url": "https://www.afar.com/magazine/best-hotels-in-toronto",
+          "title": "These Are the 20 Best Luxury and Boutique Hotels in Toronto",
+          "kind": "guide",
+          "published": "2025-07-16",
+          "afterVisit": true,
+          "supports": "Picked for calm, Montreal-inspired design near the sports and arts venues.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "time-out",
+          "url": "https://www.timeout.com/toronto/hotels/best-hotels-in-toronto",
+          "title": "The 17 best hotels in Toronto",
+          "kind": "guide",
+          "published": "2024-12-05",
+          "afterVisit": true,
+          "supports": "On Time Out's list; attached to Scotiabank Arena, with no fixed checkout times.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's current Toronto selection. No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "le-germain-hotel-toronto-mercer",
+      "name": "Le Germain Hotel Toronto Mercer",
+      "localName": null,
+      "neighbourhood": "Entertainment District",
+      "subtype": "boutique hotel",
+      "description": "Warm-wood boutique on Mercer Street with PUNCH Indian restaurant and a library-style lounge.",
+      "why": "A Fodor's Choice in the theatre district that Michelin also picks, a calm base steps from the theatres.",
+      "price": 3,
+      "website": null,
+      "address": "30 Mercer Street, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/le-germain-hotel-toronto-mercer-6309",
+          "title": "Le Germain Hotel Toronto Mercer - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; modernist rooms, PUNCH restaurant and Mercer Lounge.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "fodors",
+          "url": "https://www.fodors.com/world/north-america/canada/ontario/toronto/hotels",
+          "title": "52 Best Hotels in Toronto, Ontario",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Fodor's Choice pick in the Theatre District, priced $$$.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "In Michelin's current Toronto selection. No closure news found. No hotel-specific closure search was run."
+    },
+    {
+      "id": "windsor-arms-hotel",
+      "name": "Windsor Arms Hotel",
+      "localName": null,
+      "neighbourhood": "Yorkville",
+      "subtype": "heritage boutique hotel",
+      "description": "1927 neo-Gothic hideaway with 28 suites, a saltwater pool and a well-known afternoon tea room.",
+      "why": "Old-school butler service on a quiet Yorkville side street, covered by Michelin and Vicarious.",
+      "price": null,
+      "website": "https://windsorarmshotel.com/",
+      "address": "18 St. Thomas Street, Toronto",
+      "image": null,
+      "note": null,
+      "evidence": [
+        {
+          "source": "michelin-guide",
+          "url": "https://guide.michelin.com/ca/en/hotels-stays/toronto/windsor-arms-6432",
+          "title": "Windsor Arms Hotel - MICHELIN Guide",
+          "kind": "guide",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "In Michelin's selection; restored 1927 building, butler service, Tea Room, pool and spa.",
+          "checked": "2026-10-11"
+        },
+        {
+          "source": "vicarious",
+          "url": "https://www.vicariousmag.com/windsor-arms-hotel-toronto-review/",
+          "title": "Windsor Arms Hotel: A Yorkville Classic Reimagined",
+          "kind": "critic",
+          "published": "2025-11-06",
+          "afterVisit": false,
+          "supports": "Profiles the 28-suite hotel, its Tea Room, Gatsby restaurant and saltwater pool.",
+          "checked": "2026-10-11"
+        }
+      ],
+      "lastVerified": "2026-10-11",
+      "closureCheck": "Vicarious (Nov 2025) describes it operating; the official site shows a booking button and no closure notice, but its page was last updated in 2024. No closure news found."
+    }
+  ]
+}

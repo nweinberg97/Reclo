@@ -1,0 +1,4 @@
+Fonts in this folder are subsets of:
+- Inter and Inter Display, by Rasmus Andersson — SIL Open Font License 1.1 (https://rsms.me/inter/, https://openfontlicense.org)
+- Lora, by Cyreal — SIL Open Font License 1.1 (https://github.com/cyrealtype/Lora-Cyrillic, https://openfontlicense.org)
+They are self-hosted so that no visitor request is ever sent to a third-party font service.

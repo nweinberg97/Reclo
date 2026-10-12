@@ -1,0 +1,594 @@
+{
+  "city": "vancouver",
+  "category": "hotels",
+  "researchedOn": "2026-10-11",
+  "entries": [
+    {
+      "name": "Rosewood Hotel Georgia",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "heritage luxury hotel",
+      "description": "A 1927 landmark across from the art gallery, restored with a saltwater pool, spa and Hawksworth downstairs.",
+      "why": "Vancouver's only two-Key hotel, and readers voted it second-best city hotel in Canada this year.",
+      "price": 4,
+      "website": "https://www.rosewoodhotels.com/en/hotel-georgia-vancouver",
+      "address": "801 West Georgia Street, Vancouver, BC V6C 1P7",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/en/hotels-stays/vancouver/rosewood-hotel-georgia-7648",
+          "title": "Rosewood Hotel Georgia",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Two MICHELIN Keys; restored 1927 hotel with historic lobby lounge, indoor saltwater pool and Sense spa."
+        },
+        {
+          "publisher": "Daily Hive",
+          "domain": "dailyhive.com",
+          "url": "https://dailyhive.com/canada/hotels-canada-best-2026",
+          "title": "These stunning luxury hotels were named the best in Canada",
+          "kind": "list",
+          "published": "2026-07-15",
+          "afterVisit": false,
+          "supports": "Ranked second among Canadian hotels in Travel + Leisure's 2026 World's Best Awards reader vote."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Included among Vancouver's best hotels; five-star with spa-style bathrooms and rooftop-terrace suites."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/rosewood-hotel-georgia",
+          "title": "Rosewood Hotel Georgia",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Praises the glamorous restored lobby, Spanish Ballroom and Canadian art collection."
+        }
+      ],
+      "closureCheck": "Official site live with reservation buttons and 2026 spa award; Time Out (May 2026) and Daily Hive (Jul 2026) coverage; no closure news found."
+    },
+    {
+      "name": "Wedgewood Hotel & Spa",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "boutique hotel",
+      "description": "An 83-room, family-run hotel on Robson Square with antiques, balconies, a spa and Bacchus restaurant.",
+      "why": "Holds a Michelin Key and keeps placing high in reader polls, which is rare for a hotel this small.",
+      "price": 3,
+      "website": "https://www.wedgewoodhotel.com/",
+      "address": "845 Hornby Street, Vancouver, BC V6Z 1V1",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/en/hotels-stays/vancouver/wedgewood-hotel-5231",
+          "title": "Wedgewood",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "One MICHELIN Key; privately owned, European-style boutique hotel run by the founder's daughters."
+        },
+        {
+          "publisher": "Daily Hive",
+          "domain": "dailyhive.com",
+          "url": "https://dailyhive.com/canada/hotels-canada-best-2026",
+          "title": "These stunning luxury hotels were named the best in Canada",
+          "kind": "list",
+          "published": "2026-07-15",
+          "afterVisit": false,
+          "supports": "Among Canada's top ten hotels in Travel + Leisure's 2026 World's Best Awards."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Listed as a family-run boutique of 40-plus years with private balconies and soaking tubs."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/canada/vancouver/hotels",
+          "title": "Vancouver hotels",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Recommends it for old-world European luxury and attentive staff."
+        }
+      ],
+      "closureCheck": "Official site taking bookings with fall 2026 and VIFF 2026 offers; says room refurbishment is complete; no closure news found."
+    },
+    {
+      "name": "Loden Hotel",
+      "localName": null,
+      "neighbourhood": "Coal Harbour",
+      "subtype": "boutique hotel",
+      "description": "A 77-room glass tower near Stanley Park with deep soaking tubs, water views and the French bistro Tableau.",
+      "why": "A Michelin Key three years running and a fixture on Time Out and Frommer's lists, on a quiet side street.",
+      "price": 3,
+      "website": "https://www.theloden.com/",
+      "address": "1177 Melville Street, Vancouver, BC V6E 0A3",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/en/hotels-stays/vancouver/loden-hotel-3241",
+          "title": "Loden Hotel",
+          "kind": "award",
+          "published": null,
+          "afterVisit": true,
+          "supports": "One MICHELIN Key; 77-room Coal Harbour hotel with mid-century touches and Tableau restaurant."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Listed among the city's best; floor-to-ceiling windows, free bikes, pet-friendly rooms."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/loden-vancouver",
+          "title": "Loden Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Boutique near Coal Harbour with mountain and water views; calls Tableau an underrated restaurant."
+        }
+      ],
+      "closureCheck": "Official site live with reserve button and cites Michelin Key for 2024, 2025 and 2026; Time Out May 2026 listing; no closure news found."
+    },
+    {
+      "name": "Fairmont Pacific Rim",
+      "localName": null,
+      "neighbourhood": "Coal Harbour",
+      "subtype": "luxury hotel",
+      "description": "A contemporary waterfront tower by the convention centre with a rooftop pool, a large spa and harbour views.",
+      "why": "Forbes Five-Star, Michelin-selected and in Canada's reader top ten. The lobby bar alone is worth the trip.",
+      "price": 4,
+      "website": "https://www.fairmont.com/pacific-rim-vancouver/",
+      "address": "1038 Canada Place, Vancouver, BC V6C 0B9",
+      "evidence": [
+        {
+          "publisher": "Forbes Travel Guide",
+          "domain": "forbestravelguide.com",
+          "url": "https://www.forbestravelguide.com/destinations/vancouver-canada",
+          "title": "Vancouver, Canada",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Listed as a Forbes Five-Star hotel, the only one in Vancouver."
+        },
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/us/en/article/travel/vancouver-complete-michelin-experience",
+          "title": "Vancouver: The Complete MICHELIN Experience",
+          "kind": "guide",
+          "published": "2026-01-08",
+          "afterVisit": true,
+          "supports": "Michelin Recommended hotel with harbour views, rotating art and three Michelin-recommended restaurants."
+        },
+        {
+          "publisher": "Daily Hive",
+          "domain": "dailyhive.com",
+          "url": "https://dailyhive.com/canada/hotels-canada-best-2026",
+          "title": "These stunning luxury hotels were named the best in Canada",
+          "kind": "list",
+          "published": "2026-07-15",
+          "afterVisit": false,
+          "supports": "In the top ten Canadian hotels in Travel + Leisure's 2026 World's Best Awards."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/fairmont-pacific-rim",
+          "title": "Fairmont Pacific Rim",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Notes the rooftop pool deck, lobby raw bar with live music and calm modern rooms."
+        }
+      ],
+      "closureCheck": "Official site taking bookings with offers running through Dec 2026 and into 2027; no closure news found."
+    },
+    {
+      "name": "Fairmont Hotel Vancouver",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "grand heritage hotel",
+      "description": "The copper-roofed 1939 railway hotel on West Georgia, with 556 rooms, afternoon tea and an atrium pool.",
+      "why": "Forbes Four-Star and Michelin-listed. For old-school grand-hotel atmosphere it's still the city's reference.",
+      "price": 3,
+      "website": "https://www.fairmont.com/hotel-vancouver/",
+      "address": "900 West Georgia Street, Vancouver, BC V6C 2W6",
+      "evidence": [
+        {
+          "publisher": "Forbes Travel Guide",
+          "domain": "forbestravelguide.com",
+          "url": "https://www.forbestravelguide.com/destinations/vancouver-canada",
+          "title": "Vancouver, Canada",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Rated Forbes Four-Star."
+        },
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/en/hotels-stays/vancouver/fairmont-hotel-vancouver-14224",
+          "title": "Fairmont Hotel Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Michelin-selected; 1939 hotel with Art Deco details, afternoon tea and a lively bar."
+        },
+        {
+          "publisher": "North Shore News",
+          "domain": "nsnews.com",
+          "url": "https://www.nsnews.com/hospitality-marketing-tourism/vancouver-hotels-top-10-list-canadian-city-stays-2025-10915142",
+          "title": "Vancouver hotels on top 10 list of Canadian city stays",
+          "kind": "local-press",
+          "published": "2025",
+          "afterVisit": false,
+          "supports": "In the top ten Canadian city hotels in Travel + Leisure's 2025 World's Best Awards."
+        }
+      ],
+      "closureCheck": "Official site taking bookings with offers dated through Dec 2026 and into 2027; no closure news found."
+    },
+    {
+      "name": "Opus Vancouver",
+      "localName": null,
+      "neighbourhood": "Yaletown",
+      "subtype": "design boutique hotel",
+      "description": "A colourful 96-room boutique in the middle of Yaletown, with Capo for pizza and a lively lobby bar.",
+      "why": "The hotel that started Vancouver's boutique scene. Michelin, Time Out and Lonely Planet all still rate it.",
+      "price": 3,
+      "website": "https://www.opushotel.com/",
+      "address": "322 Davie Street, Vancouver, BC V6B 5Z6",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/en/hotels-stays/vancouver/opus-hotel-vancouver-190",
+          "title": "Opus Hotel Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Michelin-selected; renovated, colourful Yaletown hotel, possibly the best-located in town."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Listed among Vancouver's best: 96 rooms in Yaletown with heated bathroom floors."
+        },
+        {
+          "publisher": "Lonely Planet",
+          "domain": "lonelyplanet.com",
+          "url": "https://www.lonelyplanet.com/canada/vancouver/hotels",
+          "title": "Vancouver hotels",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Credits the 96-room Opus with starting the city's boutique-hotel scene."
+        }
+      ],
+      "closureCheck": "Official site live with booking form, dated 2026-10-11, citing 2026 awards; no closure news found."
+    },
+    {
+      "name": "L'Hermitage Hotel",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "boutique hotel",
+      "description": "A 60-room downtown boutique with fireplaces, marble baths, a saltwater lap pool and a garden terrace.",
+      "why": "Michelin says it feels like a city residence, and Time Out agrees. Quiet and calm for the centre.",
+      "price": 3,
+      "website": "https://www.lhermitagevancouver.com/",
+      "address": "788 Richards Street, Vancouver, BC V6B 3A4",
+      "evidence": [
+        {
+          "publisher": "Michelin Guide",
+          "domain": "guide.michelin.com",
+          "url": "https://guide.michelin.com/us/en/article/travel/vancouver-complete-michelin-experience",
+          "title": "Vancouver: The Complete MICHELIN Experience",
+          "kind": "guide",
+          "published": "2026-01-08",
+          "afterVisit": true,
+          "supports": "Michelin Recommended; boutique scale and attentive service give it a calm, residential feel."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Luxury boutique pick with heated saltwater lap pool, marble bathrooms and garden terrace."
+        }
+      ],
+      "closureCheck": "Official site live with availability form and reserve buttons; in Time Out's May 2026 list; no closure news found."
+    },
+    {
+      "name": "Paradox Hotel Vancouver",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "luxury hotel",
+      "description": "A sleek tower on the West Georgia shopping strip with big rooms, a natural spa and a pool that turns nightclub.",
+      "why": "The newer, flashier alternative to the heritage grande dames. Forbes Four-Star and on Time Out's 2026 list.",
+      "price": 4,
+      "website": "https://www.paradoxhotels.com/vancouver",
+      "address": "1161 West Georgia Street, Vancouver, BC",
+      "evidence": [
+        {
+          "publisher": "Forbes Travel Guide",
+          "domain": "forbestravelguide.com",
+          "url": "https://www.forbestravelguide.com/destinations/vancouver-canada",
+          "title": "Vancouver, Canada",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Rated Forbes Four-Star."
+        },
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Five-star pick with 147 rooms, a nightclub, a natural spa and Chinese fine dining."
+        },
+        {
+          "publisher": "The AU Review",
+          "domain": "theaureview.com",
+          "url": "https://www.theaureview.com/travel/paradox-hotel-vancouver-review/",
+          "title": "Paradox Hotel Vancouver brings quiet luxury to the city's Golden Mile",
+          "kind": "critic",
+          "published": "2024-09-14",
+          "afterVisit": true,
+          "supports": "4.5/5 after a two-night stay; praises large rooms, polished design and central location."
+        }
+      ],
+      "closureCheck": "Official site live with 2026 offer booking links; in Time Out's May 2026 list; no closure news found."
+    },
+    {
+      "name": "The Burrard",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "retro motor hotel",
+      "description": "A 1956 motor inn turned mid-century boutique, with free bikes and a leafy courtyard a short walk from English Bay.",
+      "why": "Good value with real personality. Time Out and Frommer's both send people here for the retro charm.",
+      "price": 2,
+      "website": "https://www.theburrard.com/",
+      "address": "1100 Burrard Street, Vancouver, BC",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Independent boutique in a 1956 motor hotel with pet-friendly rooms and a courtyard."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/the-burrard",
+          "title": "The Burrard",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Rated $$; renovated mid-century rooms, free bikes, and a garden courtyard where guests can take wine."
+        },
+        {
+          "publisher": "The AU Review",
+          "domain": "theaureview.com",
+          "url": "https://www.theaureview.com/?p=102377",
+          "title": "Hotel Review: The Burrard is a retro-chic revitalised motel in Vancouver's City Centre",
+          "kind": "critic",
+          "published": "2019-07-01",
+          "afterVisit": true,
+          "supports": "Four stars after a stay; comfortable beds, good location, strong retro-chic style."
+        }
+      ],
+      "closureCheck": "Official site live with Book Now links and offers for stays through April 2027; in Time Out's May 2026 list; no closure news found."
+    },
+    {
+      "name": "Skwachàys Lodge",
+      "localName": null,
+      "neighbourhood": "Gastown & Chinatown",
+      "subtype": "Indigenous arts boutique hotel",
+      "description": "An 18-suite Indigenous arts hotel, each room designed by an Indigenous artist, above a street-level gallery.",
+      "why": "Canada's first Indigenous arts hotel. Your stay helps fund housing and studios for Indigenous artists.",
+      "price": null,
+      "website": "https://skwachays.com/",
+      "address": "31 West Pender Street, Vancouver, BC V6B 1R3",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Boutique pick with a street-level Indigenous art gallery that supports artists' housing and studios."
+        },
+        {
+          "publisher": "CBC News",
+          "domain": "cbc.ca",
+          "url": "https://amp.cbc.ca/lite/story/1.2890516",
+          "title": "Vancouver's Skwachàys Lodge billed as first aboriginal arts hotel in Canada",
+          "kind": "local-press",
+          "published": null,
+          "afterVisit": true,
+          "supports": "18 artist-designed suites; run by Vancouver Native Housing Society with subsidized artist housing."
+        }
+      ],
+      "closureCheck": "Official site live with Book Now link and 18 rooms listed; in Time Out's May 2026 list; no closure news found."
+    },
+    {
+      "name": "Pan Pacific Vancouver",
+      "localName": null,
+      "neighbourhood": "Downtown (Canada Place)",
+      "subtype": "waterfront hotel",
+      "description": "A 503-room hotel above Canada Place's cruise terminal, with a heated outdoor pool over the harbour.",
+      "why": "For harbour and mountain views it's hard to beat. Condé Nast readers ranked it among Canada's top hotels.",
+      "price": 3,
+      "website": "https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html",
+      "address": "Suite 300-999 Canada Place, Vancouver, BC V6C 3B5",
+      "evidence": [
+        {
+          "publisher": "Daily Hive",
+          "domain": "dailyhive.com",
+          "url": "https://dailyhive.com/vancouver/bc-hotels-named-best-in-canada",
+          "title": "B.C. hotels named best in Canada",
+          "kind": "list",
+          "published": "2025-10-08",
+          "afterVisit": false,
+          "supports": "Among Canada's top ten hotels in the 2025 Condé Nast Traveller Readers' Choice Awards."
+        },
+        {
+          "publisher": "Hotelier Magazine",
+          "domain": "hoteliermagazine.com",
+          "url": "https://www.hoteliermagazine.com/pan-pacific-vancouver-named-one-of-the-best-hotels-in-canada/",
+          "title": "Pan Pacific Vancouver named one of the best hotels in Canada",
+          "kind": "local-press",
+          "published": "2025-10-31",
+          "afterVisit": false,
+          "supports": "The only Vancouver hotel in the 2025 Condé Nast Readers' Choice best hotels in Canada."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/pan-pacific-vancouver",
+          "title": "Pan Pacific Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Calls its harbour and mountain views some of the best in the city; praises the outdoor pool."
+        }
+      ],
+      "closureCheck": "Official site live with Book Now, check-in times and 2026 award badges; no closure news found."
+    },
+    {
+      "name": "The Sutton Place Hotel Vancouver",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "classic luxury hotel",
+      "description": "A traditional luxury hotel near the Law Courts with chandeliers, the Gerard Lounge and a European-style spa.",
+      "why": "Old-fashioned luxury done properly. It's Forbes-recommended and Time Out still puts it on the 2026 list.",
+      "price": 3,
+      "website": "https://www.suttonplace.com/vancouver/",
+      "address": "845 Burrard Street, Vancouver, BC",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Listed among the best; spa with Ayurvedic treatments, indoor pool and city-view suites."
+        },
+        {
+          "publisher": "Forbes Travel Guide",
+          "domain": "forbestravelguide.com",
+          "url": "https://www.forbestravelguide.com/destinations/vancouver-canada",
+          "title": "Vancouver, Canada",
+          "kind": "award",
+          "published": "2026",
+          "afterVisit": true,
+          "supports": "Forbes Travel Guide Recommended hotel."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/sutton-place-hotel",
+          "title": "Sutton Place Hotel",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Still luxurious with attentive service, the Gerard Lounge and a heated pool and spa."
+        }
+      ],
+      "closureCheck": "Official site live with Book Now links (no dated 2026 offers); in Time Out's May 2026 list; no closure news found."
+    },
+    {
+      "name": "Metropolitan Hotel Vancouver",
+      "localName": null,
+      "neighbourhood": "Downtown",
+      "subtype": "business hotel",
+      "description": "A central Howe Street hotel with renovated rooms, marble bathrooms and the Diva at the Met restaurant.",
+      "why": "A dependable, well-placed choice downtown that both Time Out and Frommer's include in their picks.",
+      "price": 3,
+      "website": null,
+      "address": "645 Howe Street, Vancouver, BC",
+      "evidence": [
+        {
+          "publisher": "Time Out",
+          "domain": "timeout.com",
+          "url": "https://www.timeout.com/vancouver/hotels/best-hotels-vancouver",
+          "title": "The 11 best hotels in Vancouver",
+          "kind": "guide",
+          "published": "2026-05-21",
+          "afterVisit": true,
+          "supports": "Four-star pick with newly renovated rooms, on-site restaurant and sauna."
+        },
+        {
+          "publisher": "Frommer's",
+          "domain": "frommers.com",
+          "url": "https://www.frommers.com/destinations/vancouver/hotels/metropolitan-hotel-vancouver",
+          "title": "Metropolitan Hotel Vancouver",
+          "kind": "guide",
+          "published": null,
+          "afterVisit": true,
+          "supports": "Recommends it for location and well-appointed rooms with marble baths; praises Diva at the Met."
+        }
+      ],
+      "closureCheck": "Official site could not be fetched (rate-limited); listed as operating with newly renovated rooms in Time Out's May 2026 list; no closure news seen."
+    }
+  ],
+  "rejected": [
+    { "name": "Hyatt Vancouver Downtown Alberni (former Shangri-La; Michelin One Key)", "reason": "In transition to Park Hyatt Vancouver during 2026 after a renovation; could not confirm its current name or operating status as of Oct 2026." },
+    { "name": "Sylvia Hotel", "reason": "Only Frommer's names it; Lonely Planet describes it without naming it. Fewer than two independent named sources." },
+    { "name": "Exchange Hotel Vancouver", "reason": "Only the Michelin listing names it (Lonely Planet's description is unnamed), and the official site blocked the fetch." },
+    { "name": "the DOUGLAS, Autograph Collection", "reason": "Only the Michelin listing; no second independent source found." },
+    { "name": "The St. Regis Hotel", "reason": "Forbes Recommended and Frommer's, but the closure check could not be completed (official site rate-limited)." },
+    { "name": "Moda Hotel", "reason": "Frommer's and Lonely Planet (the latter lukewarm), but the closure check could not be completed (official site rate-limited)." },
+    { "name": "Buchan Hotel", "reason": "Frommer's and Lonely Planet, but the official site failed to load, so the closure check was not completed." },
+    { "name": "The Listel Hotel", "reason": "Operator announced a redevelopment of the 1300 Robson Street site with Bosa Properties; future status unclear." },
+    { "name": "Granville Island Hotel", "reason": "Only Frommer's names it; no second independent source opened." },
+    { "name": "Fairmont Waterfront", "reason": "Fodor's and Frommer's mention it, but the closure check could not be completed (official site rate-limited)." },
+    { "name": "Blue Horizon Hotel", "reason": "Frommer's and Lonely Planet, but the closure check could not be completed (official site rate-limited)." },
+    { "name": "JW Marriott Parq Vancouver", "reason": "Only Forbes Recommended; no second independent source." },
+    { "name": "Embarc Vancouver", "reason": "Only Time Out; it's a timeshare-style suites property and no second source was found." }
+  ]
+}

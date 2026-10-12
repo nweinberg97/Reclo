@@ -1,0 +1,363 @@
+[
+  {
+    "id": "michelin-guide",
+    "name": "Michelin Guide",
+    "domains": [
+      "guide.michelin.com"
+    ],
+    "tier": 1,
+    "group": "michelin"
+  },
+  {
+    "id": "forbes-travel-guide",
+    "name": "Forbes Travel Guide",
+    "domains": [
+      "forbestravelguide.com"
+    ],
+    "tier": 1,
+    "group": "forbes-travel-guide"
+  },
+  {
+    "id": "canadas-100-best",
+    "name": "Canada's 100 Best",
+    "domains": [
+      "canadas100best.com"
+    ],
+    "tier": 1,
+    "group": "canadas-100-best"
+  },
+  {
+    "id": "worlds-50-best",
+    "name": "The World's 50 Best Restaurants",
+    "domains": [
+      "the50.com",
+      "theworlds50best.com"
+    ],
+    "tier": 1,
+    "group": "william-reed"
+  },
+  {
+    "id": "vancouver-magazine",
+    "name": "Vancouver Magazine",
+    "domains": [
+      "vanmag.com"
+    ],
+    "tier": 1,
+    "group": "vancouver-magazine"
+  },
+  {
+    "id": "toronto-life",
+    "name": "Toronto Life",
+    "domains": [
+      "torontolife.com"
+    ],
+    "tier": 1,
+    "group": "st-joseph-communications"
+  },
+  {
+    "id": "time-out",
+    "name": "Time Out",
+    "domains": [
+      "timeout.com"
+    ],
+    "tier": 2,
+    "group": "time-out"
+  },
+  {
+    "id": "the-infatuation",
+    "name": "The Infatuation",
+    "domains": [
+      "theinfatuation.com"
+    ],
+    "tier": 2,
+    "group": "the-infatuation"
+  },
+  {
+    "id": "lonely-planet",
+    "name": "Lonely Planet",
+    "domains": [
+      "lonelyplanet.com"
+    ],
+    "tier": 2,
+    "group": "red-ventures"
+  },
+  {
+    "id": "frommers",
+    "name": "Frommer's",
+    "domains": [
+      "frommers.com"
+    ],
+    "tier": 2,
+    "group": "frommers"
+  },
+  {
+    "id": "afar",
+    "name": "AFAR",
+    "domains": [
+      "afar.com"
+    ],
+    "tier": 2,
+    "group": "afar"
+  },
+  {
+    "id": "fodors",
+    "name": "Fodor's",
+    "domains": [
+      "fodors.com"
+    ],
+    "tier": 2,
+    "group": "fodors"
+  },
+  {
+    "id": "scout-magazine",
+    "name": "Scout Magazine",
+    "domains": [
+      "scoutmagazine.ca"
+    ],
+    "tier": 2,
+    "group": "scout-magazine"
+  },
+  {
+    "id": "tastet",
+    "name": "Tastet",
+    "domains": [
+      "tastet.ca"
+    ],
+    "tier": 2,
+    "group": "tastet"
+  },
+  {
+    "id": "foodism",
+    "name": "Foodism Toronto",
+    "domains": [
+      "foodism.ca"
+    ],
+    "tier": 2,
+    "group": "foodism"
+  },
+  {
+    "id": "daily-hive",
+    "name": "Daily Hive",
+    "domains": [
+      "dailyhive.com"
+    ],
+    "tier": 3,
+    "group": "daily-hive"
+  },
+  {
+    "id": "cp24",
+    "name": "CP24",
+    "domains": [
+      "cp24.com"
+    ],
+    "tier": 3,
+    "group": "bell-media"
+  },
+  {
+    "id": "ctv-news",
+    "name": "CTV News",
+    "domains": [
+      "ctvnews.ca"
+    ],
+    "tier": 3,
+    "group": "bell-media"
+  },
+  {
+    "id": "cbc-news",
+    "name": "CBC News",
+    "domains": [
+      "cbc.ca"
+    ],
+    "tier": 3,
+    "group": "cbc"
+  },
+  {
+    "id": "north-shore-news",
+    "name": "North Shore News",
+    "domains": [
+      "nsnews.com"
+    ],
+    "tier": 3,
+    "group": "glacier-media"
+  },
+  {
+    "id": "travelpulse",
+    "name": "TravelPulse",
+    "domains": [
+      "travelpulse.com"
+    ],
+    "tier": 3,
+    "group": "northstar-travel"
+  },
+  {
+    "id": "curiocity",
+    "name": "Curiocity",
+    "domains": [
+      "curiocity.com"
+    ],
+    "tier": 3,
+    "group": "curiocity"
+  },
+  {
+    "id": "west-side-rag",
+    "name": "West Side Rag",
+    "domains": [
+      "westsiderag.com"
+    ],
+    "tier": 3,
+    "group": "west-side-rag"
+  },
+  {
+    "id": "euronews",
+    "name": "Euronews",
+    "domains": [
+      "euronews.com"
+    ],
+    "tier": 3,
+    "group": "euronews"
+  },
+  {
+    "id": "now-toronto",
+    "name": "NOW Toronto",
+    "domains": [
+      "nowtoronto.com"
+    ],
+    "tier": 3,
+    "group": "now-toronto"
+  },
+  {
+    "id": "blogto",
+    "name": "blogTO",
+    "domains": [
+      "blogto.com"
+    ],
+    "tier": 3,
+    "group": "blogto"
+  },
+  {
+    "id": "the-au-review",
+    "name": "The AU Review",
+    "domains": [
+      "theaureview.com"
+    ],
+    "tier": 3,
+    "group": "the-au-review"
+  },
+  {
+    "id": "vancity-lookout",
+    "name": "Vancity Lookout",
+    "domains": [
+      "vancitylookout.com"
+    ],
+    "tier": 3,
+    "group": "vancity-lookout"
+  },
+  {
+    "id": "streets-of-toronto",
+    "name": "Streets of Toronto",
+    "domains": [
+      "streetsoftoronto.com"
+    ],
+    "tier": 3,
+    "group": "streets-of-toronto"
+  },
+  {
+    "id": "azure",
+    "name": "Azure",
+    "domains": [
+      "azuremagazine.com"
+    ],
+    "tier": 3,
+    "group": "azure"
+  },
+  {
+    "id": "vicarious",
+    "name": "Vicarious",
+    "domains": [
+      "vicariousmag.com"
+    ],
+    "tier": 3,
+    "group": "vicarious"
+  },
+  {
+    "id": "hotelier-magazine",
+    "name": "Hotelier Magazine",
+    "domains": [
+      "hoteliermagazine.com"
+    ],
+    "tier": 3,
+    "group": "hotelier-magazine"
+  },
+  {
+    "id": "one-mile-at-a-time",
+    "name": "One Mile at a Time",
+    "domains": [
+      "onemileatatime.com"
+    ],
+    "tier": 3,
+    "group": "one-mile-at-a-time"
+  },
+  {
+    "id": "the-points-guy",
+    "name": "The Points Guy",
+    "domains": [
+      "thepointsguy.com"
+    ],
+    "tier": 3,
+    "group": "red-ventures"
+  },
+  {
+    "id": "news12-brooklyn",
+    "name": "News 12 Brooklyn",
+    "domains": [
+      "news12.com"
+    ],
+    "tier": 3,
+    "group": "news12"
+  },
+  {
+    "id": "destination-vancouver",
+    "name": "Destination Vancouver",
+    "domains": [
+      "destinationvancouver.com"
+    ],
+    "tier": 3,
+    "group": "destination-vancouver"
+  },
+  {
+    "id": "destination-toronto",
+    "name": "Destination Toronto",
+    "domains": [
+      "destinationtoronto.com"
+    ],
+    "tier": 3,
+    "group": "destination-toronto"
+  },
+  {
+    "id": "nyc-tourism",
+    "name": "NYC Tourism + Conventions",
+    "domains": [
+      "nyctourism.com"
+    ],
+    "tier": 3,
+    "group": "nyc-tourism"
+  },
+  {
+    "id": "national-park-service",
+    "name": "National Park Service",
+    "domains": [
+      "nps.gov"
+    ],
+    "tier": 3,
+    "group": "nps"
+  },
+  {
+    "id": "ubc",
+    "name": "University of British Columbia",
+    "domains": [
+      "ubc.ca"
+    ],
+    "tier": 3,
+    "group": "ubc"
+  }
+]
