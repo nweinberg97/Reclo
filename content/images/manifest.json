@@ -72,7 +72,7 @@
     "height": 1068,
     "color": "#d8d8d8",
     "kind": "commons",
-    "credit": "\ub77c\uc131\ubbfc",
+    "credit": "라성민",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
   },
@@ -197,6 +197,17 @@
     "license": null,
     "sourceUrl": "https://www.nineorchard.com/"
   },
+  "new-york/hotels/pendry-manhattan-west": {
+    "file": "new-york/hotels/pendry-manhattan-west-1600.webp",
+    "small": "new-york/hotels/pendry-manhattan-west-720.webp",
+    "width": 1600,
+    "height": 1600,
+    "color": "#b8c8c8",
+    "kind": "commons",
+    "credit": "Kidfly182",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pendry_Manhattan_West_002.jpg"
+  },
   "new-york/hotels/radio-hotel": {
     "file": "new-york/hotels/radio-hotel-1600.webp",
     "small": "new-york/hotels/radio-hotel-720.webp",
@@ -218,6 +229,17 @@
     "credit": "Deans Charbal",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beekman,_575_Park_Avenue,_East_63rd_Street,_Lenox_Hill,_Manhattan_3.jpg"
+  },
+  "new-york/hotels/the-bowery-hotel": {
+    "file": "new-york/hotels/the-bowery-hotel-1600.webp",
+    "small": "new-york/hotels/the-bowery-hotel-720.webp",
+    "width": 1600,
+    "height": 2400,
+    "color": "#a8c8f8",
+    "kind": "commons",
+    "credit": "Ajay Suresh",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Bowery_Hotel_(55380947768).jpg"
   },
   "new-york/hotels/the-carlyle-a-rosewood-hotel": {
     "file": "new-york/hotels/the-carlyle-a-rosewood-hotel-1600.webp",
@@ -252,6 +274,17 @@
     "license": null,
     "sourceUrl": "https://www.thegreenwichhotel.com/"
   },
+  "new-york/hotels/the-hotel-chelsea": {
+    "file": "new-york/hotels/the-hotel-chelsea-1600.webp",
+    "small": "new-york/hotels/the-hotel-chelsea-720.webp",
+    "width": 1500,
+    "height": 1000,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "hotelchelsea.com",
+    "license": null,
+    "sourceUrl": "https://hotelchelsea.com/"
+  },
   "new-york/hotels/the-lowell": {
     "file": "new-york/hotels/the-lowell-1600.webp",
     "small": "new-york/hotels/the-lowell-720.webp",
@@ -284,6 +317,17 @@
     "credit": "Kimberlypeninsula",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:PNY_Exterior_with_Rolls_Royce.jpg"
+  },
+  "new-york/hotels/the-ritz-carlton-new-york-nomad": {
+    "file": "new-york/hotels/the-ritz-carlton-new-york-nomad-1600.webp",
+    "small": "new-york/hotels/the-ritz-carlton-new-york-nomad-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#282828",
+    "kind": "commons",
+    "credit": "Kidfly182",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz_Carlton_Nomad_Hotel.jpg"
   },
   "new-york/hotels/the-twenty-two-new-york": {
     "file": "new-york/hotels/the-twenty-two-new-york-1600.webp",
@@ -318,6 +362,17 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ehemaliges_TWA-Terminal_am_John_F._Kennedy_International_Airport_in_New_York.JPG"
   },
+  "new-york/hotels/waldorf-astoria-new-york": {
+    "file": "new-york/hotels/waldorf-astoria-new-york-1600.webp",
+    "small": "new-york/hotels/waldorf-astoria-new-york-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#d8d8d8",
+    "kind": "commons",
+    "credit": "ajay_suresh",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waldorf_Astoria_New_York_(55272623437).jpg"
+  },
   "new-york/hotels/warren-street-hotel": {
     "file": "new-york/hotels/warren-street-hotel-1600.webp",
     "small": "new-york/hotels/warren-street-hotel-720.webp",
@@ -350,6 +405,17 @@
     "credit": "Jim.henderson",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atomix_30th_St_2024_jeh.jpg"
+  },
+  "new-york/restaurants/banh-anh-em": {
+    "file": "new-york/restaurants/banh-anh-em-1600.webp",
+    "small": "new-york/restaurants/banh-anh-em-720.webp",
+    "width": 1600,
+    "height": 2000,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "banhanhem.com",
+    "license": null,
+    "sourceUrl": "https://www.banhanhem.com/"
   },
   "new-york/restaurants/barney-greengrass": {
     "file": "new-york/restaurants/barney-greengrass-1600.webp",
@@ -483,6 +549,28 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Veau_d%27Or_NYC.jpg"
   },
+  "new-york/restaurants/lucali": {
+    "file": "new-york/restaurants/lucali-1600.webp",
+    "small": "new-york/restaurants/lucali-720.webp",
+    "width": 1200,
+    "height": 1368,
+    "color": "#382808",
+    "kind": "website",
+    "credit": "lucali.com",
+    "license": null,
+    "sourceUrl": "https://www.lucali.com/"
+  },
+  "new-york/restaurants/sailor": {
+    "file": "new-york/restaurants/sailor-1600.webp",
+    "small": "new-york/restaurants/sailor-720.webp",
+    "width": 1600,
+    "height": 2451,
+    "color": "#6898d8",
+    "kind": "commons",
+    "credit": "User:Jim.henderson at English Wikipedia.",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soldiers_%26_Sailors_Monument_from_promenade_jeh.jpg"
+  },
   "new-york/restaurants/semma": {
     "file": "new-york/restaurants/semma-1600.webp",
     "small": "new-york/restaurants/semma-720.webp",
@@ -515,6 +603,17 @@
     "credit": "Transpoman",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tatiana_by_Kwame_Onwuachi.jpg"
+  },
+  "new-york/restaurants/thai-diner": {
+    "file": "new-york/restaurants/thai-diner-1600.webp",
+    "small": "new-york/restaurants/thai-diner-720.webp",
+    "width": 1600,
+    "height": 1348,
+    "color": "#d8d8d8",
+    "kind": "commons",
+    "credit": "BanjoZebra",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_Diner_disco_fries.jpg"
   },
   "new-york/restaurants/the-four-horsemen": {
     "file": "new-york/restaurants/the-four-horsemen-1600.webp",
@@ -842,7 +941,7 @@
     "height": 830,
     "color": "#c8d8e8",
     "kind": "commons",
-    "credit": "Pawe\u0142 Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
+    "credit": "Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cloisters_Hudson_River_crop.jpg"
   },
@@ -1018,7 +1117,7 @@
     "height": 2397,
     "color": "#081818",
     "kind": "commons",
-    "credit": "Arild V\u00e5gen",
+    "credit": "Arild Vågen",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz-Carlton_Toronto_August_2017_01.jpg"
   },
@@ -1055,6 +1154,17 @@
     "license": null,
     "sourceUrl": "https://www.akintoronto.com/"
   },
+  "toronto/restaurants/alo": {
+    "file": "toronto/restaurants/alo-1600.webp",
+    "small": "toronto/restaurants/alo-720.webp",
+    "width": 1600,
+    "height": 2400,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "alorestaurant.com",
+    "license": null,
+    "sourceUrl": "https://alorestaurant.com/"
+  },
   "toronto/restaurants/bar-eugenie": {
     "file": "toronto/restaurants/bar-eugenie-1600.webp",
     "small": "toronto/restaurants/bar-eugenie-720.webp",
@@ -1077,6 +1187,17 @@
     "license": null,
     "sourceUrl": "https://www.thisisbarraval.com"
   },
+  "toronto/restaurants/bbs": {
+    "file": "toronto/restaurants/bbs-1600.webp",
+    "small": "toronto/restaurants/bbs-720.webp",
+    "width": 1024,
+    "height": 768,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Piedmontstyle (talk) (Uploads)",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BB_King_onstage_(Toronto,_2007).jpg"
+  },
   "toronto/restaurants/blackbird-baking-co": {
     "file": "toronto/restaurants/blackbird-baking-co-1600.webp",
     "small": "toronto/restaurants/blackbird-baking-co-720.webp",
@@ -1098,6 +1219,17 @@
     "credit": "casapaco.ca",
     "license": null,
     "sourceUrl": "https://www.casapaco.ca/"
+  },
+  "toronto/restaurants/danico": {
+    "file": "toronto/restaurants/danico-1600.webp",
+    "small": "toronto/restaurants/danico-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "danicotoronto.com",
+    "license": null,
+    "sourceUrl": "https://www.danicotoronto.com/"
   },
   "toronto/restaurants/dreyfus": {
     "file": "toronto/restaurants/dreyfus-1600.webp",
@@ -1142,6 +1274,28 @@
     "credit": "myfavethai.com",
     "license": null,
     "sourceUrl": "https://www.myfavethai.com/"
+  },
+  "toronto/restaurants/forno-cultura": {
+    "file": "toronto/restaurants/forno-cultura-1600.webp",
+    "small": "toronto/restaurants/forno-cultura-720.webp",
+    "width": 1050,
+    "height": 700,
+    "color": "#583828",
+    "kind": "website",
+    "credit": "fornocultura.com",
+    "license": null,
+    "sourceUrl": "https://www.fornocultura.com/"
+  },
+  "toronto/restaurants/golden-horseshoe-barbecue": {
+    "file": "toronto/restaurants/golden-horseshoe-barbecue-1600.webp",
+    "small": "toronto/restaurants/golden-horseshoe-barbecue-720.webp",
+    "width": 1280,
+    "height": 911,
+    "color": "#582808",
+    "kind": "website",
+    "credit": "goldenhorseshoebbq.com",
+    "license": null,
+    "sourceUrl": "https://goldenhorseshoebbq.com/"
   },
   "toronto/restaurants/harbord-bakery": {
     "file": "toronto/restaurants/harbord-bakery-1600.webp",
@@ -1506,6 +1660,17 @@
     "license": "CC BY 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_Rathaus_und_Nathan_Phillips_Square.jpg"
   },
+  "toronto/things-to-do/toronto-island-park": {
+    "file": "toronto/things-to-do/toronto-island-park-1600.webp",
+    "small": "toronto/things-to-do/toronto-island-park-720.webp",
+    "width": 1600,
+    "height": 1600,
+    "color": "#082848",
+    "kind": "commons",
+    "credit": "JK Liu",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toronto_Islands_2025-05-08.jpg"
+  },
   "toronto/things-to-do/trillium-park-and-william-g-davis-trail": {
     "file": "toronto/things-to-do/trillium-park-and-william-g-davis-trail-1600.webp",
     "small": "toronto/things-to-do/trillium-park-and-william-g-davis-trail-720.webp",
@@ -1549,6 +1714,17 @@
     "credit": "Klazu",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairmont_Pacific_Rim_2015.jpg"
+  },
+  "vancouver/hotels/loden-hotel": {
+    "file": "vancouver/hotels/loden-hotel-1600.webp",
+    "small": "vancouver/hotels/loden-hotel-720.webp",
+    "width": 1366,
+    "height": 850,
+    "color": "#e8e8d8",
+    "kind": "website",
+    "credit": "theloden.com",
+    "license": null,
+    "sourceUrl": "https://www.theloden.com/"
   },
   "vancouver/hotels/metropolitan-hotel-vancouver": {
     "file": "vancouver/hotels/metropolitan-hotel-vancouver-1600.webp",
@@ -1638,6 +1814,17 @@
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sutton_Place_Hotel,_Vancouver_(2012)_-_1.JPG"
   },
+  "vancouver/hotels/wedgewood-hotel-and-spa": {
+    "file": "vancouver/hotels/wedgewood-hotel-and-spa-1600.webp",
+    "small": "vancouver/hotels/wedgewood-hotel-and-spa-720.webp",
+    "width": 1600,
+    "height": 1066,
+    "color": "#180808",
+    "kind": "website",
+    "credit": "wedgewoodhotel.com",
+    "license": null,
+    "sourceUrl": "https://www.wedgewoodhotel.com/"
+  },
   "vancouver/restaurants/anh-and-chi": {
     "file": "vancouver/restaurants/anh-and-chi-1600.webp",
     "small": "vancouver/restaurants/anh-and-chi-720.webp",
@@ -1648,6 +1835,17 @@
     "credit": "anhandchi.com",
     "license": null,
     "sourceUrl": "https://anhandchi.com"
+  },
+  "vancouver/restaurants/annalena": {
+    "file": "vancouver/restaurants/annalena-1600.webp",
+    "small": "vancouver/restaurants/annalena-720.webp",
+    "width": 1600,
+    "height": 2405,
+    "color": "#484848",
+    "kind": "commons",
+    "credit": "Foto-AG Gymnasium Melle",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baerbock,_Annalena-9957.jpg"
   },
   "vancouver/restaurants/beaucoup-bakery": {
     "file": "vancouver/restaurants/beaucoup-bakery-1600.webp",
@@ -1715,6 +1913,17 @@
     "license": null,
     "sourceUrl": "https://fatmaonoodles.com"
   },
+  "vancouver/restaurants/garys": {
+    "file": "vancouver/restaurants/garys-1600.webp",
+    "small": "vancouver/restaurants/garys-720.webp",
+    "width": 519,
+    "height": 693,
+    "color": "#a89868",
+    "kind": "commons",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GarySmithVancouver.png"
+  },
   "vancouver/restaurants/good-thief": {
     "file": "vancouver/restaurants/good-thief-1600.webp",
     "small": "vancouver/restaurants/good-thief-720.webp",
@@ -1769,6 +1978,39 @@
     "credit": "masayoshi.ca",
     "license": null,
     "sourceUrl": "https://www.masayoshi.ca/"
+  },
+  "vancouver/restaurants/nero-tondo": {
+    "file": "vancouver/restaurants/nero-tondo-1600.webp",
+    "small": "vancouver/restaurants/nero-tondo-720.webp",
+    "width": 844,
+    "height": 986,
+    "color": "#180808",
+    "kind": "website",
+    "credit": "nerotondo.com",
+    "license": null,
+    "sourceUrl": "https://nerotondo.com/"
+  },
+  "vancouver/restaurants/nightingale": {
+    "file": "vancouver/restaurants/nightingale-1600.webp",
+    "small": "vancouver/restaurants/nightingale-720.webp",
+    "width": 1600,
+    "height": 960,
+    "color": "#784828",
+    "kind": "website",
+    "credit": "hawknightingale.com",
+    "license": null,
+    "sourceUrl": "https://www.hawknightingale.com/"
+  },
+  "vancouver/restaurants/phnom-penh": {
+    "file": "vancouver/restaurants/phnom-penh-1600.webp",
+    "small": "vancouver/restaurants/phnom-penh-720.webp",
+    "width": 1600,
+    "height": 1195,
+    "color": "#6898c8",
+    "kind": "commons",
+    "credit": "Marcin Konsek",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Preah_Tineang_Phhochani_(14).jpg"
   },
   "vancouver/restaurants/published-on-main": {
     "file": "vancouver/restaurants/published-on-main-1600.webp",
@@ -1891,6 +2133,17 @@
     "license": "CC BY 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vancouver_Chinatown_Millennium_Gate_2025.jpg"
   },
+  "vancouver/things-to-do/commercial-drive": {
+    "file": "vancouver/things-to-do/commercial-drive-1600.webp",
+    "small": "vancouver/things-to-do/commercial-drive-720.webp",
+    "width": 1600,
+    "height": 1200,
+    "color": "#080808",
+    "kind": "commons",
+    "credit": "Canmenwalker",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commercial_Dr_aerial_view_2026.jpg"
+  },
   "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden": {
     "file": "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden-1600.webp",
     "small": "vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden-720.webp",
@@ -2000,6 +2253,17 @@
     "credit": "Rr parker",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:UBC_MOA_with_reflecting_pool_01.JPG"
+  },
+  "vancouver/things-to-do/museum-of-vancouver": {
+    "file": "vancouver/things-to-do/museum-of-vancouver-1600.webp",
+    "small": "vancouver/things-to-do/museum-of-vancouver-720.webp",
+    "width": 1122,
+    "height": 840,
+    "color": "#3878b8",
+    "kind": "commons",
+    "credit": "Bobanny",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Van_museum_space_centre.jpg"
   },
   "vancouver/things-to-do/queen-elizabeth-park": {
     "file": "vancouver/things-to-do/queen-elizabeth-park-1600.webp",
