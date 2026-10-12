@@ -72,7 +72,7 @@
     "height": 1068,
     "color": "#d8d8d8",
     "kind": "commons",
-    "credit": "\ub77c\uc131\ubbfc",
+    "credit": "라성민",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
   },
@@ -329,6 +329,28 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz_Carlton_Nomad_Hotel.jpg"
   },
+  "new-york/hotels/the-rockaway-hotel": {
+    "file": "new-york/hotels/the-rockaway-hotel-1600.webp",
+    "small": "new-york/hotels/the-rockaway-hotel-720.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#f8f8f8",
+    "kind": "website",
+    "credit": "therockawayhotel.com",
+    "license": null,
+    "sourceUrl": "https://www.therockawayhotel.com/"
+  },
+  "new-york/hotels/the-surrey-a-corinthia-hotel": {
+    "file": "new-york/hotels/the-surrey-a-corinthia-hotel-1600.webp",
+    "small": "new-york/hotels/the-surrey-a-corinthia-hotel-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#889898",
+    "kind": "website",
+    "credit": "thesurrey.com",
+    "license": null,
+    "sourceUrl": "https://www.thesurrey.com/"
+  },
   "new-york/hotels/the-twenty-two-new-york": {
     "file": "new-york/hotels/the-twenty-two-new-york-1600.webp",
     "small": "new-york/hotels/the-twenty-two-new-york-720.webp",
@@ -559,6 +581,28 @@
     "credit": "lucali.com",
     "license": null,
     "sourceUrl": "https://www.lucali.com/"
+  },
+  "new-york/restaurants/radio-bakery": {
+    "file": "new-york/restaurants/radio-bakery-1600.webp",
+    "small": "new-york/restaurants/radio-bakery-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#282818",
+    "kind": "website",
+    "credit": "radiobakery.nyc",
+    "license": null,
+    "sourceUrl": "https://www.radiobakery.nyc/"
+  },
+  "new-york/restaurants/sailor": {
+    "file": "new-york/restaurants/sailor-1600.webp",
+    "small": "new-york/restaurants/sailor-720.webp",
+    "width": 1200,
+    "height": 803,
+    "color": "#381808",
+    "kind": "website",
+    "credit": "sailor.nyc",
+    "license": null,
+    "sourceUrl": "https://www.sailor.nyc/"
   },
   "new-york/restaurants/semma": {
     "file": "new-york/restaurants/semma-1600.webp",
@@ -802,6 +846,17 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Island_at_Pier_55.jpg"
   },
+  "new-york/things-to-do/moma-ps1": {
+    "file": "new-york/things-to-do/moma-ps1-1600.webp",
+    "small": "new-york/things-to-do/moma-ps1-720.webp",
+    "width": 1200,
+    "height": 773,
+    "color": "#a88878",
+    "kind": "website",
+    "credit": "moma.org",
+    "license": null,
+    "sourceUrl": "https://www.moma.org/visit"
+  },
   "new-york/things-to-do/museum-of-modern-art-moma": {
     "file": "new-york/things-to-do/museum-of-modern-art-moma-1600.webp",
     "small": "new-york/things-to-do/museum-of-modern-art-moma-720.webp",
@@ -930,7 +985,7 @@
     "height": 830,
     "color": "#c8d8e8",
     "kind": "commons",
-    "credit": "Pawe\u0142 Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
+    "credit": "Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cloisters_Hudson_River_crop.jpg"
   },
@@ -1077,6 +1132,17 @@
     "license": "CC BY 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shangri-La_Toronto_2023.jpg"
   },
+  "toronto/hotels/the-anndore-house": {
+    "file": "toronto/hotels/the-anndore-house-1600.webp",
+    "small": "toronto/hotels/the-anndore-house-720.webp",
+    "width": 1600,
+    "height": 900,
+    "color": "#384878",
+    "kind": "website",
+    "credit": "hyatt.com",
+    "license": null,
+    "sourceUrl": "https://www.hyatt.com/jdv-by-hyatt/en-US/yyzjd-the-anndore-house"
+  },
   "toronto/hotels/the-broadview-hotel": {
     "file": "toronto/hotels/the-broadview-hotel-1600.webp",
     "small": "toronto/hotels/the-broadview-hotel-720.webp",
@@ -1099,6 +1165,17 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Drake_Hotel_Toronto,_September_19_2026_(02).jpg"
   },
+  "toronto/hotels/the-hazelton-hotel": {
+    "file": "toronto/hotels/the-hazelton-hotel-1600.webp",
+    "small": "toronto/hotels/the-hazelton-hotel-720.webp",
+    "width": 1600,
+    "height": 1065,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "thehazeltonhotel.com",
+    "license": null,
+    "sourceUrl": "https://www.thehazeltonhotel.com/"
+  },
   "toronto/hotels/the-ritz-carlton-toronto": {
     "file": "toronto/hotels/the-ritz-carlton-toronto-1600.webp",
     "small": "toronto/hotels/the-ritz-carlton-toronto-720.webp",
@@ -1106,7 +1183,7 @@
     "height": 2397,
     "color": "#081818",
     "kind": "commons",
-    "credit": "Arild V\u00e5gen",
+    "credit": "Arild Vågen",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz-Carlton_Toronto_August_2017_01.jpg"
   },
@@ -1285,6 +1362,17 @@
     "credit": "harbordbakery.ca",
     "license": null,
     "sourceUrl": "https://www.harbordbakery.ca/"
+  },
+  "toronto/restaurants/linnys": {
+    "file": "toronto/restaurants/linnys-1600.webp",
+    "small": "toronto/restaurants/linnys-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#080808",
+    "kind": "website",
+    "credit": "linnysrestaurant.com",
+    "license": null,
+    "sourceUrl": "https://linnysrestaurant.com/"
   },
   "toronto/restaurants/n-l-ginzburg": {
     "file": "toronto/restaurants/n-l-ginzburg-1600.webp",
@@ -1693,6 +1781,17 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fairmont_Pacific_Rim_2015.jpg"
   },
+  "vancouver/hotels/lhermitage-hotel": {
+    "file": "vancouver/hotels/lhermitage-hotel-1600.webp",
+    "small": "vancouver/hotels/lhermitage-hotel-720.webp",
+    "width": 1280,
+    "height": 1920,
+    "color": "#281818",
+    "kind": "website",
+    "credit": "lhermitagevancouver.com",
+    "license": null,
+    "sourceUrl": "https://www.lhermitagevancouver.com/"
+  },
   "vancouver/hotels/loden-hotel": {
     "file": "vancouver/hotels/loden-hotel-1600.webp",
     "small": "vancouver/hotels/loden-hotel-720.webp",
@@ -1890,6 +1989,17 @@
     "credit": "goodthief.ca",
     "license": null,
     "sourceUrl": "https://www.goodthief.ca/"
+  },
+  "vancouver/restaurants/kavita": {
+    "file": "vancouver/restaurants/kavita-1600.webp",
+    "small": "vancouver/restaurants/kavita-720.webp",
+    "width": 1600,
+    "height": 1067,
+    "color": "#d8c8b8",
+    "kind": "website",
+    "credit": "restaurantkavita.com",
+    "license": null,
+    "sourceUrl": "https://restaurantkavita.com"
   },
   "vancouver/restaurants/kissa-tanto": {
     "file": "vancouver/restaurants/kissa-tanto-1600.webp",

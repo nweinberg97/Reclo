@@ -1,73 +1,36 @@
 # Photo review
 
-Last run 2026-10-12. 213 photos (136 commons, 77 website).
+Last run 2026-10-12. 218 photos (131 commons, 87 website).
 
 Check each match shows the right place. To fix one, add it to content/image-overrides.json:
 `{ "new-york/hotels/the-mark": { "use": "File:Better photo.jpg" } }` or `{ "block": true }`.
 
-- ✓ new-york/hotels/pendry-manhattan-west ← Commons search File:Pendry Manhattan West 002.jpg · Kidfly182, CC BY 4.0
-- ✓ new-york/hotels/waldorf-astoria-new-york ← Commons File:Waldorf_Astoria_New_York_(55272623437).jpg via Wikipedia https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York · ajay_suresh, CC BY 4.0
-- ✓ new-york/hotels/the-ritz-carlton-new-york-nomad ← Commons search File:Ritz Carlton Nomad Hotel.jpg · Kidfly182, CC BY-SA 4.0
-- ✓ new-york/hotels/the-bowery-hotel ← Commons File:The_Bowery_Hotel_(55380947768).jpg via Wikipedia https://en.wikipedia.org/wiki/The_Bowery_Hotel · Ajay Suresh, CC BY 4.0
-- skipped new-york/hotels/the-hotel-chelsea: looks like a logo, not a photo
-- ✓ new-york/hotels/the-hotel-chelsea ← website https://hotelchelsea.com/uploads/application/files/static-gallery/26/HC_B.jpg
 - skipped new-york/hotels/the-ludlow-hotel: looks like a logo, not a photo
 - skipped new-york/hotels/the-ludlow-hotel: looks like a logo, not a photo
 - · new-york/hotels/the-ludlow-hotel: no photo found, illustration will be used
-- · new-york/hotels/the-rockaway-hotel: no photo found, illustration will be used
-- · new-york/hotels/the-surrey-a-corinthia-hotel: no photo found, illustration will be used
-- skipped new-york/restaurants/sailor: looks like a logo, not a photo
-- skipped new-york/restaurants/sailor: looks like a logo, not a photo
-- skipped new-york/restaurants/sailor: image too small (1200×292)
-- skipped new-york/restaurants/sailor: looks like a logo, not a photo
-- skipped new-york/restaurants/sailor: looks like a logo, not a photo
-- ✓ new-york/restaurants/sailor ← Commons search File:Soldiers & Sailors Monument from promenade jeh.jpg · User:Jim.henderson at English Wikipedia., Public domain
-- skipped new-york/restaurants/thai-diner: looks like a logo, not a photo
-- ✓ new-york/restaurants/thai-diner ← Commons search File:Thai Diner disco fries.jpg · BanjoZebra, CC BY 4.0
-- failed new-york/restaurants/banh-anh-em: fetch failed
-- ✓ new-york/restaurants/banh-anh-em ← website https://ea05d1d525389dee40c8.cdn6.editmysite.com/uploads/b/ea05d1d525389dee40c86e016a0189cee34d857c5c1416d2f30381972579ea44/Banh%20Anh%20Em-7_1787527251.jpeg?width=1600&optimize=medium&height=480&fit=cover&dpr=1
-- skipped new-york/restaurants/lucali: looks like a logo, not a photo
-- ✓ new-york/restaurants/lucali ← website https://images.getbento.com/accounts/5e9ec84212b5dd9564bd6ed40118bde6/media/images/82122E5C0EAA2-C3C1-4F81-83C5-ABE01EB6256E_1_105_c.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5
+- ✓ new-york/hotels/the-rockaway-hotel ← researched image https://symphony.cdn.tambourine.com/_fusion/rockaway-boutique-hotel/media/therockawayhotelspa-01-homepage-10-gallery-12-65f1e8f9ac03a.jpg
+- ✓ new-york/hotels/the-surrey-a-corinthia-hotel ← researched image https://www.corinthia.com/globalassets/hotel-new-york/images/discover-new-york/corinthia-new-york-building.jpg
+- ✓ new-york/restaurants/sailor ← researched image https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/7772image3.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5
 - · new-york/restaurants/mamas-too: no photo found, illustration will be used
-- skipped new-york/restaurants/radio-bakery: image too small (373×192)
-- skipped new-york/restaurants/radio-bakery: image too small (373×192)
-- skipped new-york/restaurants/radio-bakery: image too small (373×192)
-- skipped new-york/restaurants/radio-bakery: image too small (373×192)
-- · new-york/restaurants/radio-bakery: no photo found, illustration will be used
+- ✓ new-york/restaurants/radio-bakery ← researched image https://images.squarespace-cdn.com/content/v1/66995af72e8f160bd3a26b19/7fac6f68-3e65-4b2a-88f5-0924c318cfc1/RadioBakery_Underhill-109438.JPG
 - skipped new-york/restaurants/venieros-pasticceria-and-caffe: image too small (280×343)
 - · new-york/restaurants/venieros-pasticceria-and-caffe: no photo found, illustration will be used
-- · new-york/things-to-do/moma-ps1: no photo found, illustration will be used
-- · toronto/hotels/the-hazelton-hotel: no photo found, illustration will be used
+- ✓ new-york/things-to-do/moma-ps1 ← researched image https://d1tcycker2ppj.cloudfront.net/output=f:jpg,q:60/resize=width:1200,fit:max/wHnvY0L6T7K5GESrKs0C
+- ✓ toronto/hotels/the-hazelton-hotel ← researched image https://www.thehazeltonhotel.com/wp-content/uploads/2023/10/Hazelton-Hotel-Facade-1-Custom-1-scaled.jpg
 - · toronto/hotels/bisha-hotel-toronto: no photo found, illustration will be used
-- · toronto/hotels/the-anndore-house: no photo found, illustration will be used
+- ✓ toronto/hotels/the-anndore-house ← researched image https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/05/03/1333/YYZJD-P0007-Exterior.jpg/YYZJD-P0007-Exterior.16x9.jpg?imwidth=2560
 - · toronto/hotels/w-toronto: no photo found, illustration will be used
-- skipped toronto/restaurants/alo: image too small (100×100)
-- skipped toronto/restaurants/alo: image too small (406×566)
-- skipped toronto/restaurants/alo: looks like a logo, not a photo
-- ✓ toronto/restaurants/alo ← website https://alorestaurant.com/wp-content/uploads/2026/03/DSC7967-scaled.jpg
 - · toronto/restaurants/restaurant-20-victoria: no photo found, illustration will be used
-- skipped toronto/restaurants/golden-horseshoe-barbecue: looks like a logo, not a photo
-- ✓ toronto/restaurants/golden-horseshoe-barbecue ← website https://torontolife.mblycdn.com/tl/resized/2025/09/w1280/toronto-restaurants-golden-horseshoe-barbecue-seaton-village-platter-with-sides.jpg
-- skipped toronto/restaurants/mhel: image too small (455×549)
 - · toronto/restaurants/mhel: no photo found, illustration will be used
 - skipped toronto/restaurants/takja-bbq-house: looks like a logo, not a photo
 - skipped toronto/restaurants/takja-bbq-house: looks like a logo, not a photo
 - skipped toronto/restaurants/takja-bbq-house: looks like a logo, not a photo
+- skipped toronto/restaurants/takja-bbq-house: looks like a logo, not a photo
 - · toronto/restaurants/takja-bbq-house: no photo found, illustration will be used
-- ✓ toronto/restaurants/bbs ← Commons search File:BB King onstage (Toronto, 2007).jpg · Piedmontstyle (talk) (Uploads), CC BY 3.0
-- ✓ toronto/restaurants/forno-cultura ← website https://www.fornocultura.com/wp-content/uploads/2026/07/heritage-slider-01.jpg
-- skipped toronto/restaurants/danico: looks like a logo, not a photo
-- ✓ toronto/restaurants/danico ← website https://www.danicotoronto.com/content/slides/dsc-8770-hdr1.jpg
+- · toronto/restaurants/bbs: no photo found, illustration will be used
 - · toronto/restaurants/kappo-sato: no photo found, illustration will be used
-- · toronto/restaurants/linnys: no photo found, illustration will be used
-- ✓ toronto/things-to-do/toronto-island-park ← Commons File:Toronto_Islands_2025-05-08.jpg via Wikipedia https://en.wikipedia.org/wiki/Toronto_Islands · JK Liu, CC BY-SA 4.0
-- skipped vancouver/hotels/wedgewood-hotel-and-spa: looks like a logo, not a photo
-- ✓ vancouver/hotels/wedgewood-hotel-and-spa ← website https://wedgewoodhotel.com/wp-content/uploads/2023/05/Wedgewood-Hotel-Lobby-Photoshoot-2000x0-c-default.jpg
-- ✓ vancouver/hotels/loden-hotel ← website https://static.wixstatic.com/media/fc95b3_84b44a95d720431f9eb90b7911b23ed4f000.jpg/v1/fill/w_1366,h_850,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/fc95b3_84b44a95d720431f9eb90b7911b23ed4f000.jpg
-- skipped vancouver/hotels/lhermitage-hotel: looks like a logo, not a photo
-- skipped vancouver/hotels/lhermitage-hotel: looks like a logo, not a photo
-- skipped vancouver/hotels/lhermitage-hotel: image too small (217×208)
-- · vancouver/hotels/lhermitage-hotel: no photo found, illustration will be used
+- ✓ toronto/restaurants/linnys ← researched image https://linnysrestaurant.com/wp-content/uploads/2024/09/DSC_0276-scaled.jpg
+- ✓ vancouver/hotels/lhermitage-hotel ← researched image https://image-tc.galaxy.tf/wijpeg-8zkhiythgc75ga9ebzdpkas60/lhermitage-hotel-lobby.jpg
 - skipped vancouver/restaurants/annalena: almost entirely black or white
 - skipped vancouver/restaurants/annalena: almost entirely black or white
 - skipped vancouver/restaurants/annalena: almost entirely black or white
@@ -75,7 +38,7 @@ Check each match shows the right place. To fix one, add it to content/image-over
 - skipped vancouver/restaurants/annalena: looks like a logo, not a photo
 - skipped vancouver/restaurants/annalena: image too small (1452×114)
 - skipped vancouver/restaurants/annalena: image too small (1452×114)
-- ✓ vancouver/restaurants/annalena ← Commons search File:Baerbock, Annalena-9957.jpg · Foto-AG Gymnasium Melle, CC BY 4.0
+- · vancouver/restaurants/annalena: no photo found, illustration will be used
 - skipped vancouver/restaurants/kavita: looks like a logo, not a photo
 - skipped vancouver/restaurants/kavita: looks like a logo, not a photo
 - skipped vancouver/restaurants/kavita: image too small (600×200)
@@ -84,8 +47,8 @@ Check each match shows the right place. To fix one, add it to content/image-over
 - skipped vancouver/restaurants/kavita: image too small (440×114)
 - skipped vancouver/restaurants/kavita: image too small (317×100)
 - skipped vancouver/restaurants/kavita: image too small (317×100)
-- · vancouver/restaurants/kavita: no photo found, illustration will be used
-- skipped vancouver/restaurants/zarak: looks like a logo, not a photo
+- ✓ vancouver/restaurants/kavita ← website https://images.squarespace-cdn.com/content/v1/6809507da5f3624675af9f79/75b3e084-1d42-4281-8aff-0a28edf6b41e/Kaivita_tatti_idli_sambar.JPG?format=2500w
+- skipped vancouver/restaurants/zarak: almost entirely black or white
 - skipped vancouver/restaurants/zarak: almost entirely black or white
 - skipped vancouver/restaurants/zarak: almost entirely black or white
 - skipped vancouver/restaurants/zarak: almost entirely black or white
@@ -93,10 +56,8 @@ Check each match shows the right place. To fix one, add it to content/image-over
 - · vancouver/restaurants/zarak: no photo found, illustration will be used
 - skipped vancouver/restaurants/osteria-savio-volpe: image too small (329×43)
 - · vancouver/restaurants/osteria-savio-volpe: no photo found, illustration will be used
-- skipped vancouver/restaurants/nightingale: looks like a logo, not a photo
-- ✓ vancouver/restaurants/nightingale ← website https://hawknightingale.com/wp-content/themes/nightingale/images/hero3.jpg
 - · vancouver/restaurants/dynasty-seafood-restaurant: no photo found, illustration will be used
-- ✓ vancouver/restaurants/phnom-penh ← Commons search File:2016 Phnom Penh, Pałac Królewski, Preah Tineang Phhochani (14).jpg · Marcin Konsek, CC BY-SA 4.0
+- · vancouver/restaurants/phnom-penh: no photo found, illustration will be used
 - skipped vancouver/restaurants/their-there: looks like a logo, not a photo
 - skipped vancouver/restaurants/their-there: looks like a logo, not a photo
 - skipped vancouver/restaurants/their-there: looks like a logo, not a photo
@@ -109,13 +70,10 @@ Check each match shows the right place. To fix one, add it to content/image-over
 - skipped vancouver/restaurants/their-there: image too small (1420×130)
 - · vancouver/restaurants/their-there: no photo found, illustration will be used
 - · vancouver/restaurants/timbertrain-coffee-roasters: no photo found, illustration will be used
-- skipped vancouver/restaurants/nero-tondo: looks like a logo, not a photo
-- ✓ vancouver/restaurants/nero-tondo ← website https://nerotondo.com/wp-content/uploads/2025/01/pics-edit-1-1.png
+- skipped vancouver/restaurants/garys: looks like a logo, not a photo
 - skipped vancouver/restaurants/garys: looks like a logo, not a photo
 - skipped vancouver/restaurants/garys: image too small (1000×247)
 - skipped vancouver/restaurants/garys: looks like a logo, not a photo
 - skipped vancouver/restaurants/garys: looks like a logo, not a photo
-- ✓ vancouver/restaurants/garys ← Commons search File:GarySmithVancouver.png · Unknown authorUnknown author, Public domain
+- · vancouver/restaurants/garys: no photo found, illustration will be used
 - · vancouver/restaurants/magari-by-oca: no photo found, illustration will be used
-- ✓ vancouver/things-to-do/commercial-drive ← Commons File:Commercial_Dr_aerial_view_2026.jpg via Wikipedia https://en.wikipedia.org/wiki/Commercial_Drive_(Vancouver) · Canmenwalker, CC BY 4.0
-- ✓ vancouver/things-to-do/museum-of-vancouver ← Commons Van museum space centre.jpg via Q1478298 (Museum of Vancouver) · Bobanny, Public domain
