@@ -101,6 +101,10 @@ function Header(): Html {
             {raw(SEARCH_ICON)}
           </button>
         </form>
+        <a class="icon-btn saved-link" href={href('saved/')} aria-label="Saved places" data-saved-link="">
+          {raw(HEART_SVG)}
+          <span class="saved-count" data-saved-count="" hidden=""></span>
+        </a>
         <button type="button" class="icon-btn theme-toggle" data-theme-toggle="" aria-label="Switch theme">
           {raw(THEME_ICON)}
         </button>
@@ -117,6 +121,9 @@ function Footer(): Html {
         <ul>
           <li>
             <a href={href('how-reclo-ranks/')}>{COPY.howWeRank}</a>
+          </li>
+          <li>
+            <a href={href('curators/')}>Become a curator</a>
           </li>
           <li>
             <a href={href('privacy/')}>{COPY.privacy}</a>
@@ -155,6 +162,9 @@ function SearchDialog(): Html {
           aria-autocomplete="list"
           data-search-input=""
         />
+        <button type="button" class="icon-btn mic-btn" data-voice="" aria-label="Search by voice" hidden="">
+          {raw(MIC_ICON)}
+        </button>
         <button type="button" class="text-btn" data-search-close="">
           Close
         </button>
@@ -164,6 +174,9 @@ function SearchDialog(): Html {
     </dialog>
   );
 }
+
+const HEART_SVG = `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2.1 0 3.6 1.1 5 2.9 1.4-1.8 2.9-2.9 5-2.9 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>`;
+export const MIC_ICON = `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="9" y="3" width="6" height="11" rx="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21M8.5 21h7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
 
 export const SEARCH_ICON = `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
 const THEME_ICON = `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg>`;

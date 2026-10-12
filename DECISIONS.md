@@ -69,3 +69,14 @@ One line of reasoning per call. Newest at the bottom of each section.
 - **Palette turned up.** Clean white canvas so photos glow; Reclo pink `#E8175D` for actions; highlighter yellow for ranks; saturated city colours on chips, tabs and pride labels. Fonts and the bookmark icon are unchanged.
 - **Tabs wrap into a 2×2 grid on phones with short labels** ("Eat & drink"), so no label is ever cut off; the full name stays available to screen readers.
 - **A booking-style action bar on pick pages (phones):** rank, name, Share, Website or Book.
+
+## v1.2 (owner feedback)
+
+- **Honest about how lists are made.** The site now says the research is done with AI, following a public brief, and that nothing is hand-picked by a person yet. Earlier copy implied a person had read every source.
+- **Search shows everything.** Typing in the search dialog shows the top matches with photos and a "See all" link; the full results page shows every matching place in every city as photo cards.
+- **Voice search** uses the browser's own speech recognition, shown only where supported. The privacy page explains that some browsers send the audio to their maker's servers; Reclo only ever receives the text.
+- **Save and compare, with no account.** Hearts on every place; saved places live in the browser (localStorage) and never leave the device. The Saved page shows them as cards or in a side-by-side table (rank, city, type, neighbourhood, price, why, sources, website).
+- **Stories only.** The square "post card" confused people and is gone; "Share to your story" sends the 9:16 image straight into the phone's share sheet (Instagram, Messages), with the place's photo in it.
+- **Arrow buttons on every row,** hidden when a row fits; swipe still works on phones.
+- **Become a curator page,** aimed at creators but open to anyone, with clear rules (been recently, disclose comps, never paid placement). Applications go to `RECLO_CURATOR_URL` (a GitHub form until a form or address is chosen). Curator reviews aren't live yet and the page says so.
+- **More photos:** Wikipedia's chosen free image, deeper website scans past logos, a real browser for sites that load photos with JavaScript, and a strict Commons title search. Every new photo is reviewed on a contact sheet; per-place controls in `content/image-overrides.json` skip a bad source without blocking the place.

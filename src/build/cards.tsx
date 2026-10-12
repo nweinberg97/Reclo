@@ -114,7 +114,7 @@ export function pickCards(opts: {
   sourceNames: Map<string, string>;
   fontsBase: string;
   photo?: CardPhoto | null;
-  paths: { og: string; story: string; post: string; badge: string };
+  paths: { og: string; story: string; badge: string };
 }): CardJob[] {
   const { city, category, p, sourceNames, fontsBase } = opts;
   const e = p.entry;
@@ -183,38 +183,6 @@ export function pickCards(opts: {
     fontsBase,
   );
 
-  const post = page(
-    1080,
-    1080,
-    <div style="display:flex;flex-direction:column;height:1080px">
-      <CoverBlock city={city} w={1080} h={300} glyph={category} uid={`${uid}po`} glyphSize={230} photo={opts.photo}>
-        <div style="position:absolute;left:84px;bottom:56px" class="disp">
-          <div style="font-weight:900;font-size:96px;letter-spacing:-.05em;line-height:1">
-            {city.name}
-            {city.localName ? <span style="font-size:44px;font-weight:600;letter-spacing:0;margin-left:22px">{city.localName}</span> : null}
-          </div>
-        </div>
-      </CoverBlock>
-      <div style="flex:1;padding:56px 84px 70px;display:flex;flex-direction:column">
-        <div style="display:flex;align-items:flex-end;gap:28px">
-          <span class="rank" style="font-size:210px">#{p.rank}</span>
-          <span style="font-size:38px;font-weight:600;color:#4A5672;padding-bottom:30px;line-height:1.2">{pride}</span>
-        </div>
-        <div class="disp clamp2" style={`font-weight:900;font-size:${nameSize(86, 18)}px;line-height:1;letter-spacing:-.04em;margin-top:26px`}>
-          {e.name}
-        </div>
-        <div class="voice clamp2" style="font-size:40px;line-height:1.3;margin-top:24px">
-          {e.why}
-        </div>
-        <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:center">
-          <div style="font-size:26px;color:#4A5672">{host}</div>
-          <Mark size={48} />
-        </div>
-      </div>
-    </div>,
-    fontsBase,
-  );
-
   const badge = page(
     1080,
     1080,
@@ -239,7 +207,6 @@ export function pickCards(opts: {
   return [
     { out: opts.paths.og, width: 1200, height: 630, html: og },
     { out: opts.paths.story, width: 1080, height: 1920, html: story },
-    { out: opts.paths.post, width: 1080, height: 1080, html: post },
     { out: opts.paths.badge, width: 1080, height: 1080, html: badge },
   ];
 }

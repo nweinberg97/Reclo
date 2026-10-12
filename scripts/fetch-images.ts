@@ -20,7 +20,7 @@ import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 
 import { join } from 'node:path';
 import sharp from 'sharp';
 import type { City, ListFile } from '../src/schema/types.ts';
-import { namesMatch } from '../src/lib/place-match.ts';
+import { namesMatch, norm } from '../src/lib/place-match.ts';
 
 const root = join(import.meta.dirname, '..');
 const outDir = join(root, 'content/images');
@@ -50,6 +50,12 @@ interface Override {
   use?: string;
   /** Never show a photo for this key. */
   block?: boolean;
+  /** Skip the Wikidata match (it found the wrong place). */
+  noWikidata?: boolean;
+  /** Skip all freely licensed sources (they found a poor photo). */
+  noCommons?: boolean;
+  /** Skip the place's own website (its images aren't usable). */
+  noWebsite?: boolean;
 }
 
 const manifestPath = join(outDir, 'manifest.json');
@@ -209,6 +215,57 @@ async function websiteCandidates(site: string): Promise<{ urls: string[]; credit
   }
 }
 
+/** Searches Commons files; accepts only a file whose title contains every word of the place's name. */
+async function commonsSearch(name: string, cityName?: string): Promise<string | null> {
+  const words = norm(name).split(' ').filter((w) => w.length > 1);
+  if (!words.length) return null;
+  const q = `${name} ${cityName ?? ''}`.trim();
+  const data = await getJson<{ query?: { search: { title: string }[] } }>(
+    `https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srlimit=10&srsearch=${encodeURIComponent(q)}&format=json`,
+  ).catch(() => null);
+  for (const r of data?.query?.search ?? []) {
+    if (!/\.(jpe?g|png|webp)$/i.test(r.title)) continue;
+    const t = norm(r.title.replace(/^File:/, '').replace(/[_.-]/g, ' '));
+    if (words.every((w) => t.includes(w))) return r.title;
+  }
+  return null;
+}
+
+let browser: import('playwright').Browser | null = null;
+/** Large images on a page after it has run its scripts, biggest first. */
+async function renderedImages(site: string): Promise<string[]> {
+  try {
+    if (!browser) {
+      const { chromium } = await import('playwright');
+      browser = await chromium.launch();
+    }
+    const page = await browser.newPage({ viewport: { width: 1366, height: 900 }, userAgent: `Mozilla/5.0 (compatible; ${UA})` });
+    try {
+      await page.goto(site, { waitUntil: 'networkidle', timeout: 30_000 }).catch(() => undefined);
+      await page.mouse.wheel(0, 2400);
+      await page.waitForTimeout(1500);
+      const urls = await page.evaluate(() => {
+        const out: { u: string; a: number }[] = [];
+        document.querySelectorAll('img').forEach((img) => {
+          const u = img.currentSrc || img.src;
+          if (u && img.naturalWidth >= 600 && img.naturalHeight >= 360) out.push({ u, a: img.naturalWidth * img.naturalHeight });
+        });
+        document.querySelectorAll<HTMLElement>('section, div, header, figure, a').forEach((el) => {
+          const m = getComputedStyle(el).backgroundImage.match(/url\(["']?([^"')]+)["']?\)/);
+          const r = el.getBoundingClientRect();
+          if (m?.[1] && r.width >= 600 && r.height >= 300) out.push({ u: m[1], a: r.width * r.height });
+        });
+        return out.sort((x, y) => y.a - x.a).map((x) => x.u);
+      });
+      return [...new Set(urls)].filter((u) => /^https?:/.test(u) && !/logo|icon|sprite|\.svg/i.test(u)).slice(0, 8);
+    } finally {
+      await page.close();
+    }
+  } catch {
+    return [];
+  }
+}
+
 /** A free image chosen by Wikipedia editors for an article (page_image_free), as a Commons file title. */
 async function wikipediaImage(articleUrl: string): Promise<string | null> {
   const title = decodeURIComponent(new URL(articleUrl).pathname.replace(/^\/wiki\//, ''));
@@ -253,6 +310,10 @@ async function save(key: string, url: string, meta: Omit<ImageRecord, 'file' | '
     const ratio = m.width / m.height;
     if (ratio > 3 || ratio < 0.5) return null;
     const stats = await sharp(buf).stats();
+    if (stats.channels.slice(0, 3).every((c) => c.mean < 28) || stats.channels.slice(0, 3).every((c) => c.mean > 235)) {
+      review.push(`- skipped ${key}: almost entirely black or white`);
+      return null;
+    }
     if (meta.kind === 'website' && (await looksLikeLogo(buf))) {
       review.push(`- skipped ${key}: looks like a logo, not a photo`);
       return null;
@@ -298,7 +359,7 @@ async function resolve(key: string, opts: { name: string; cityName?: string; cit
     file = e ? claim<string>(e, 'P18') : null;
     matched = opts.qid;
   }
-  if (!file && opts.city && !ov?.use) {
+  if (!file && opts.city && !ov?.use && !ov?.noWikidata && !ov?.noCommons) {
     const found = await findPlace(opts.name, opts.city, opts.maxKm, opts.cityName);
     if (found) {
       file = found.file;
@@ -306,7 +367,7 @@ async function resolve(key: string, opts: { name: string; cityName?: string; cit
     }
   }
   const link = links[key];
-  if (!file && link?.wikipedia && !ov?.use) {
+  if (!file && link?.wikipedia && !ov?.use && !ov?.noCommons) {
     file = await wikipediaImage(link.wikipedia).catch(() => null);
     if (file) matched = `Wikipedia ${link.wikipedia}`;
   }
@@ -331,7 +392,9 @@ async function resolve(key: string, opts: { name: string; cityName?: string; cit
       return;
     }
   }
-  const site = website ? await websiteCandidates(website) : null;
+  const site = website && !ov?.noWebsite ? await websiteCandidates(website) : null;
+  // Sites that only load their photos with JavaScript: render the page in a real browser.
+  if (site && site.urls.length < 3 && website) site.urls.push(...(await renderedImages(website)));
   if (site) {
     for (const url of site.urls) {
       const rec = await save(key, url, { kind: 'website', credit: site.credit, license: null, sourceUrl: site.sourceUrl });
@@ -339,6 +402,21 @@ async function resolve(key: string, opts: { name: string; cityName?: string; cit
         manifest[key] = rec;
         review.push(`- ✓ ${key} ← website ${url}`);
         return;
+      }
+    }
+  }
+  // 3. Wikimedia Commons search by name and city: only files whose title names the place.
+  if (!ov?.noCommons) {
+    const hit = await commonsSearch(opts.name, opts.cityName);
+    if (hit) {
+      const info = await commonsInfo(hit);
+      if (info) {
+        const rec = await save(key, info.url, { kind: 'commons', credit: info.credit, license: info.license, sourceUrl: info.sourceUrl });
+        if (rec) {
+          manifest[key] = rec;
+          review.push(`- ✓ ${key} ← Commons search ${hit} · ${info.credit}, ${info.license}`);
+          return;
+        }
       }
     }
   }
@@ -377,6 +455,7 @@ for (const cityId of readdirSync(listsDir)) {
   }
 }
 
+await (browser as import('playwright').Browser | null)?.close();
 mkdirSync(outDir, { recursive: true });
 const sorted = Object.fromEntries(Object.entries(manifest).sort(([a], [b]) => a.localeCompare(b)));
 writeFileSync(manifestPath, `${JSON.stringify(sorted, null, 2)}\n`);

@@ -37,6 +37,8 @@ jobs:
         with:
           node-version: 22
       - run: npm install --no-audit --no-fund
+      - name: Install Chromium (to read sites that load photos with JavaScript)
+        run: npx playwright install --with-deps chromium
       - name: Find and save photos
         run: npx tsx scripts/fetch-images.ts ${{ inputs.force && '--force' || '' }}
       - name: Commit new photos

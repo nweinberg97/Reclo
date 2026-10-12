@@ -6,7 +6,7 @@ import { listKey } from '../../lib/content.ts';
 import { photoKey } from '../../lib/photos.ts';
 import type { RankedEntry } from '../../ranking/rank.ts';
 import { Layout, SEARCH_ICON } from '../components/Layout.tsx';
-import { CHECK_ICON, CityCard, CityHero, Credit, EmptyPage, Pic, PlaceCard, Rail, RankTag, Stamp, Tabs, imgSrc } from '../components/ui.tsx';
+import { CHECK_ICON, CityCard, CityHero, Credit, EmptyPage, Pic, PlaceCard, Rail, RankTag, SaveButton, Stamp, Tabs, imgSrc } from '../components/ui.tsx';
 import { CATEGORY_COPY, COPY } from '../copy.ts';
 import { SITE, absolute, href } from '../config.ts';
 import { routes } from '../routes.ts';
@@ -488,7 +488,10 @@ export function PickPage(props: { content: Content; list: RankedList; p: RankedE
           <div class="pick-layout">
             <div class="pick-main">
               <header class="pick-title">
-                <p class="pick-pride">{pride}</p>
+                <div class="pick-title-row">
+                  <p class="pick-pride">{pride}</p>
+                  <SaveButton path={path} name={e.name} big />
+                </div>
                 <h1 id="pick-name">
                   {e.name}
                   {e.localName ? (
@@ -539,7 +542,7 @@ export function PickPage(props: { content: Content; list: RankedList; p: RankedE
                         </a>
                         <span class="receipt-meta">
                           {ev.published ? `Published ${dateLabel(ev.published)}` : 'Undated page'}
-                          {` · read by us ${dateLabel(ev.checked)}`}
+                          {` · checked ${dateLabel(ev.checked)}`}
                         </span>
                       </li>
                     );
@@ -589,16 +592,29 @@ export function PickPage(props: { content: Content; list: RankedList; p: RankedE
               <section class="share" aria-labelledby="share-h">
                 <h2 id="share-h">{COPY.shareHeading}</h2>
                 <div class="share-row">
-                  <button type="button" class="btn btn-ink" data-share="" data-share-url={absolute(path)} data-share-title={`${e.name} · Reclo`} data-share-text={`${pride}, with the receipts:`}>
-                    {COPY.shareLink}
-                  </button>
-                  <a class="btn btn-quiet" href={href(routes.card(city.id, list.category, e.id, 'story'))} download={`reclo-${city.id}-${e.id}-story.png`}>
+                  <a
+                    class="btn btn-pop"
+                    href={href(routes.card(city.id, list.category, e.id, 'story'))}
+                    download={`reclo-${city.id}-${e.id}-story.png`}
+                    data-share-story={href(routes.card(city.id, list.category, e.id, 'story'))}
+                    data-share-url={absolute(path)}
+                    data-share-title={`${e.name} · Reclo`}
+                  >
                     {COPY.storyCard}
                   </a>
-                  <a class="btn btn-quiet" href={href(routes.card(city.id, list.category, e.id, 'post'))} download={`reclo-${city.id}-${e.id}-post.png`}>
-                    {COPY.postCard}
-                  </a>
+                  <button type="button" class="btn btn-quiet" data-share="" data-share-url={absolute(path)} data-share-title={`${e.name} · Reclo`} data-share-text={`${pride}, with the receipts:`}>
+                    {COPY.shareLink}
+                  </button>
                 </div>
+                <img
+                  class="story-preview"
+                  src={href(routes.card(city.id, list.category, e.id, 'story'))}
+                  alt={`Story image for ${e.name}: the photo, ${pride}, and why it's here.`}
+                  width="1080"
+                  height="1920"
+                  loading="lazy"
+                  decoding="async"
+                />
                 <details class="made-list">
                   <summary>{COPY.madeTheList}</summary>
                   <p>{COPY.madeTheListBody}</p>
@@ -648,6 +664,7 @@ export function PickPage(props: { content: Content; list: RankedList; p: RankedE
           <span class="action-bar-rank">#{p.rank}</span>
           <span class="action-bar-name">{e.name}</span>
         </span>
+        <SaveButton path={path} name={e.name} />
         <button type="button" class="btn btn-quiet btn-small" data-share="" data-share-url={absolute(path)} data-share-title={`${e.name} · Reclo`} data-share-text={`${pride}, with the receipts:`}>
           Share
         </button>

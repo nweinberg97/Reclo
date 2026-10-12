@@ -41,12 +41,11 @@ test('land, open a city, browse a list, open a pick and share it', async ({ page
   expect(ogRes.status()).toBe(200);
   expect(ogRes.headers()['content-type']).toBe('image/png');
 
-  // Share cards exist for stories and posts.
-  for (const name of ['Story card', 'Post card']) {
-    const href = await page.getByRole('link', { name }).getAttribute('href');
-    const res = await page.request.get(href!);
-    expect(res.status(), name).toBe(200);
-  }
+  // The story image exists and is a real image.
+  const storyHref = await page.getByRole('link', { name: 'Share to your story' }).getAttribute('href');
+  const story = await page.request.get(storyHref!);
+  expect(story.status()).toBe(200);
+  expect(story.headers()['content-type']).toBe('image/png');
 
   // Share: without the Web Share API, the link is copied and confirmed.
   await page.evaluate(() => Object.defineProperty(navigator, 'share', { value: undefined, configurable: true }));
@@ -128,4 +127,56 @@ test('images have text alternatives and controls have names', async ({ page }) =
     const svgArt = await page.locator('.pic svg.art').evaluateAll((s) => s.every((el) => el.getAttribute('role') === 'img' && el.getAttribute('aria-label')));
     expect(svgArt).toBe(true);
   }
+});
+
+test('save places, then compare them side by side', async ({ page }) => {
+  await page.goto('./new-york/restaurants/');
+  const cards = page.locator('.place-grid .place-card');
+  const names = [];
+  for (const i of [0, 1]) {
+    names.push((await cards.nth(i).locator('.place-card-name').innerText()).trim());
+    await cards.nth(i).getByRole('button', { name: /^Save / }).click();
+  }
+  await expect(cards.nth(0).getByRole('button', { name: /^Save / })).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.locator('[data-saved-count]')).toHaveText('2');
+
+  await page.getByRole('link', { name: /Saved places/ }).click();
+  await expect(page.getByRole('heading', { level: 1, name: 'Saved' })).toBeVisible();
+  await expect(page.locator('.place-grid .place-card')).toHaveCount(2);
+  await page.getByRole('button', { name: 'Compare' }).click();
+  const table = page.getByRole('region', { name: 'Compare saved places' });
+  for (const n of names) await expect(table).toContainText(n);
+  await expect(table).toContainText('Why it’s here');
+
+  // Saved survives a reload, and can be removed.
+  await page.reload();
+  await expect(page.locator('.place-grid .place-card')).toHaveCount(2);
+  await page.getByRole('button', { name: 'Clear all' }).click();
+  await expect(page.getByRole('heading', { name: 'Nothing saved yet' })).toBeVisible();
+});
+
+test('searching a kind of place shows every match as photo cards', async ({ page }) => {
+  await page.goto('./search/?q=pizza');
+  await expect(page.locator('[data-search-heading]')).toContainText('places for “pizza”');
+  const n = await page.locator('.search-results-page .place-card').count();
+  expect(n).toBeGreaterThanOrEqual(3);
+  await page.goto('./search/?q=museum');
+  expect(await page.locator('.search-results-page .place-card').count()).toBeGreaterThan(10);
+});
+
+test('rows have working arrow buttons', async ({ page, isMobile }) => {
+  test.skip(isMobile, 'arrows are for pointer users; phones swipe');
+  await page.goto('./');
+  const rail = page.locator('.rail').filter({ hasText: 'Where to eat' });
+  const next = rail.getByRole('button', { name: /^Next in/ });
+  const prev = rail.getByRole('button', { name: /^Previous in/ });
+  await expect(prev).toBeDisabled();
+  await next.click();
+  await expect(prev).toBeEnabled();
+});
+
+test('curators can find out how to apply', async ({ page }) => {
+  await page.goto('./curators/');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('Put your name on it');
+  await expect(page.getByRole('link', { name: 'Apply to be a curator' }).first()).toHaveAttribute('href', /^(https:|mailto:)/);
 });

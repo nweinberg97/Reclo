@@ -116,14 +116,27 @@ export function CityName(props: { city: City; tag?: 'h1' | 'h2' | 'span' }): Htm
   );
 }
 
+/** Heart button: saves a place on this device only. Works with the client script. */
+export function SaveButton(props: { path: string; name: string; big?: boolean }): Html {
+  return (
+    <button type="button" class={`save-btn${props.big ? ' save-btn-big' : ''}`} data-save={props.path} aria-pressed="false" aria-label={`Save ${props.name}`}>
+      {raw(HEART_ICON)}
+      {props.big ? <span class="save-btn-label">Save</span> : null}
+    </button>
+  );
+}
+
+export const HEART_ICON = `<svg class="icon heart" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2.1 0 3.6 1.1 5 2.9 1.4-1.8 2.9-2.9 5-2.9 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>`;
+
 /** A place, as a photo-led card: used in rails and in list grids. */
 export function PlaceCard(props: { city: City; category: CategoryId; p: RankedEntry; photo: Photo | undefined; showCity?: boolean; eager?: boolean }): Html {
   const { p, city, category } = props;
   const e = p.entry;
   const meta = [props.showCity ? city.name : e.neighbourhood, e.subtype].filter(Boolean).join(' · ');
+  const path = routes.pick(city.id, category, e.id);
   return (
     <li class="place-card">
-      <a class="place-card-link" href={href(routes.pick(city.id, category, e.id))} title={props.photo ? `Photo: ${props.photo.credit}` : undefined}>
+      <a class="place-card-link" href={href(path)} title={props.photo ? `Photo: ${props.photo.credit}` : undefined}>
         <Pic
           photo={props.photo}
           city={city}
@@ -154,6 +167,7 @@ export function PlaceCard(props: { city: City; category: CategoryId; p: RankedEn
           </span>
         </span>
       </a>
+      <SaveButton path={path} name={e.name} />
     </li>
   );
 }
@@ -195,13 +209,21 @@ export function Rail(props: { id: string; title: string; titleHref?: string; mor
           <h2 id={props.id}>{props.titleHref ? <a href={props.titleHref}>{props.title}</a> : props.title}</h2>
           {props.sub ? <p class="rail-sub">{props.sub}</p> : null}
         </div>
-        {props.more ? (
-          <a class="rail-more" href={props.more.href}>
-            {props.more.label}
-          </a>
-        ) : null}
+        <div class="rail-controls">
+          {props.more ? (
+            <a class="rail-more" href={props.more.href}>
+              {props.more.label}
+            </a>
+          ) : null}
+          <button type="button" class="rail-arrow" data-rail-prev="" aria-label={`Previous in ${props.title}`} disabled="">
+            {raw(ARROW_LEFT)}
+          </button>
+          <button type="button" class="rail-arrow" data-rail-next="" aria-label={`Next in ${props.title}`}>
+            {raw(ARROW_RIGHT)}
+          </button>
+        </div>
       </div>
-      <ul class="rail-track" role="list">
+      <ul class="rail-track" role="list" data-rail="">
         {props.children}
       </ul>
     </section>
@@ -257,6 +279,9 @@ export function CityHero(props: { city: City; photo: Photo | undefined; compact?
     </header>
   );
 }
+
+const ARROW_LEFT = `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+const ARROW_RIGHT = `<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
 export const CHECK_ICON = `<svg class="icon icon-check" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m5 12.5 4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 

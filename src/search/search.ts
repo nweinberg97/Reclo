@@ -30,6 +30,31 @@ export interface SearchDoc {
   a?: string;
   /** 1 when the city or list has no verified picks yet; it sinks below real results. */
   z?: 1;
+  /** Small photo path relative to the site root, if there is one. */
+  i?: string;
+  /** Details for picks, used by search results, Saved and Compare. */
+  d?: PickDetails;
+}
+
+export interface PickDetails {
+  /** City name. */
+  c: string;
+  /** Category label. */
+  k: string;
+  /** "#3 place to eat in Toronto". */
+  p: string;
+  /** Neighbourhood. */
+  h: string | null;
+  /** Style, e.g. "pizza". */
+  t: string;
+  /** Price label, e.g. "$$" or "Free". */
+  $: string | null;
+  /** Why it's here. */
+  w: string;
+  /** Number of independent sources. */
+  n: number;
+  /** Official website. */
+  web: string | null;
 }
 
 export interface SearchHit {
@@ -149,6 +174,8 @@ export function makeDoc(input: {
   r?: number;
   a?: string;
   empty?: boolean;
+  img?: string;
+  details?: PickDetails;
 }): SearchDoc {
   const doc: SearchDoc = {
     t: input.t,
@@ -161,5 +188,7 @@ export function makeDoc(input: {
   if (input.r) doc.r = input.r;
   if (input.a) doc.a = input.a;
   if (input.empty) doc.z = 1;
+  if (input.img) doc.i = input.img;
+  if (input.details) doc.d = input.details;
   return doc;
 }

@@ -72,7 +72,7 @@
     "height": 1068,
     "color": "#d8d8d8",
     "kind": "commons",
-    "credit": "라성민",
+    "credit": "\ub77c\uc131\ubbfc",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
   },
@@ -251,17 +251,6 @@
     "credit": "thegreenwichhotel.com",
     "license": null,
     "sourceUrl": "https://www.thegreenwichhotel.com/"
-  },
-  "new-york/hotels/the-hotel-chelsea": {
-    "file": "new-york/hotels/the-hotel-chelsea-1600.webp",
-    "small": "new-york/hotels/the-hotel-chelsea-720.webp",
-    "width": 1600,
-    "height": 792,
-    "color": "#080808",
-    "kind": "commons",
-    "credit": "The Hotel Chelsea",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hotel_Chelsea_wordmark.svg"
   },
   "new-york/hotels/the-lowell": {
     "file": "new-york/hotels/the-lowell-1600.webp",
@@ -494,17 +483,6 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Veau_d%27Or_NYC.jpg"
   },
-  "new-york/restaurants/lucali": {
-    "file": "new-york/restaurants/lucali-1600.webp",
-    "small": "new-york/restaurants/lucali-720.webp",
-    "width": 1011,
-    "height": 641,
-    "color": "#080808",
-    "kind": "commons",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucali_logo.png"
-  },
   "new-york/restaurants/semma": {
     "file": "new-york/restaurants/semma-1600.webp",
     "small": "new-york/restaurants/semma-720.webp",
@@ -736,17 +714,6 @@
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Little_Island_at_Pier_55.jpg"
   },
-  "new-york/things-to-do/moma-ps1": {
-    "file": "new-york/things-to-do/moma-ps1-1600.webp",
-    "small": "new-york/things-to-do/moma-ps1-720.webp",
-    "width": 1600,
-    "height": 890,
-    "color": "#080808",
-    "kind": "commons",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:MoMA_PS1_logo.svg"
-  },
   "new-york/things-to-do/museum-of-modern-art-moma": {
     "file": "new-york/things-to-do/museum-of-modern-art-moma-1600.webp",
     "small": "new-york/things-to-do/museum-of-modern-art-moma-720.webp",
@@ -875,7 +842,7 @@
     "height": 830,
     "color": "#c8d8e8",
     "kind": "commons",
-    "credit": "Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
+    "credit": "Pawe\u0142 Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cloisters_Hudson_River_crop.jpg"
   },
@@ -1051,7 +1018,7 @@
     "height": 2397,
     "color": "#081818",
     "kind": "commons",
-    "credit": "Arild Vågen",
+    "credit": "Arild V\u00e5gen",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz-Carlton_Toronto_August_2017_01.jpg"
   },
@@ -1087,17 +1054,6 @@
     "credit": "akintoronto.com",
     "license": null,
     "sourceUrl": "https://www.akintoronto.com/"
-  },
-  "toronto/restaurants/alo": {
-    "file": "toronto/restaurants/alo-1600.webp",
-    "small": "toronto/restaurants/alo-720.webp",
-    "width": 1600,
-    "height": 1299,
-    "color": "#080808",
-    "kind": "commons",
-    "credit": "Alo Food Group",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alo_(restaurant)_logo.svg"
   },
   "toronto/restaurants/bar-eugenie": {
     "file": "toronto/restaurants/bar-eugenie-1600.webp",

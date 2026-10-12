@@ -67,7 +67,7 @@ export const COPY = {
   searchPlaceholder: 'Try “pizza” or “Toronto”',
   shelfTitle: 'Pick a city',
   promises: [
-    { title: 'Every pick shows its receipts', body: 'Two or more independent sources, linked, with the date we checked.' },
+    { title: 'Every pick shows its receipts', body: 'Two or more independent sources, linked, with the date they were checked.' },
     { title: 'Nothing here is for sale', body: 'No ads, no sponsored spots, no paid placement. Ever.' },
     { title: 'Nothing about you is collected', body: 'No accounts, no cookies, no tracking. Just the good stuff.' },
   ],
@@ -76,21 +76,20 @@ export const COPY = {
   researchingBody:
     'Every pick is checked against independent sources before it goes in, and we’d rather show nothing than guess. This one is on its way.',
   shortList: (n: number) =>
-    `${n} verified so far. We only publish what we can back up, so this list grows as we check more places.`,
+    `${n} verified so far. We only publish what the sources back up, so this list grows as more places are verified.`,
   eventsEmptyTitle: 'This week’s page is still blank',
   eventsEmptyBody:
     'We’re choosing calendars we trust for this city. Until then, you’ll find nothing here rather than something made up.',
   eventsNoneThisWeek: 'Nothing on the calendars we follow for the next seven days. Check back tomorrow.',
   whyHeading: 'Why it’s here',
   receiptsHeading: 'The receipts',
-  receiptsIntro: 'Independent sources that recommend it. We read every one; the words below are ours.',
+  receiptsIntro: 'Independent sources that recommend it. Each was opened and read during research; the summaries are written for Reclo, not copied.',
   practicalHeading: 'Good to know',
   checked: 'Checked',
-  shareHeading: 'Send it to someone',
+  shareHeading: 'Share it',
   shareLink: 'Share link',
   copied: 'Link copied',
-  storyCard: 'Story card',
-  postCard: 'Post card',
+  storyCard: 'Share to your story',
   madeTheList: 'Made the list?',
   madeTheListBody:
     'If this is your place, congratulations. Here’s a card to share. You didn’t pay for it and nobody else can either.',

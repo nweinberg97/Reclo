@@ -12,6 +12,8 @@ export const SITE = {
   base: `${new URL(siteUrl).pathname.replace(/\/+$/, '')}/`,
   /** Where "Tell us" goes. A simple public form; no account needed to read, a GitHub account to post. */
   feedbackUrl: process.env.RECLO_FEEDBACK_URL ?? 'https://github.com/nweinberg97/Reclo/issues/new',
+  /** Where curator applications go. Set RECLO_CURATOR_URL to a form or a mailto: address. */
+  curatorUrl: process.env.RECLO_CURATOR_URL ?? 'https://github.com/nweinberg97/Reclo/issues/new?title=Curator%20application&labels=curator',
   repoUrl: 'https://github.com/nweinberg97/Reclo',
   locale: 'en',
 };

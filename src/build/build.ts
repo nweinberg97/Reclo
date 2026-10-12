@@ -20,7 +20,7 @@ import { SITE, absolute } from '../site/config.ts';
 import { CATEGORY_COPY } from '../site/copy.ts';
 import { routes } from '../site/routes.ts';
 import { CityPage, EventsPage, HomePage, ListPage, PickPage, totalPicks } from '../site/pages/pages.tsx';
-import { NotFoundPage, PrivacyPage, RanksPage, SearchPage } from '../site/pages/static.tsx';
+import { CuratorsPage, NotFoundPage, PrivacyPage, RanksPage, SavedPage, SearchPage } from '../site/pages/static.tsx';
 import { type CardJob, type CardPhoto, appIcon, cityOg, homeOg, listOg, pickCards, textOg } from './cards.tsx';
 import { photoKey } from '../lib/photos.ts';
 import { renderCards } from './render-cards.ts';
@@ -99,6 +99,10 @@ sitemap.push(routes.home());
 write(routes.search(), SearchPage());
 write(routes.ranks(), RanksPage({ content }));
 write(routes.privacy(), PrivacyPage());
+write(routes.saved(), SavedPage());
+write(routes.curators(), CuratorsPage({ content }));
+sitemap.push(routes.curators());
+cards.push(textOg('Become a curator', 'Know a city by heart? Put your name on the places you’d send your friends.', fontsBase, routes.ogPage(routes.curators())));
 write('404.html', NotFoundPage());
 sitemap.push(routes.ranks(), routes.privacy());
 cards.push(homeOg(content.cities, fontsBase, routes.ogHome()));
@@ -119,6 +123,7 @@ for (const city of content.cities) {
       names: [city.name, city.localName, city.id.replace(/-/g, ' ')],
       keywords: [city.country],
       a: city.accent,
+      img: content.photos.get(photoKey.city(city.id)) ? `img/${content.photos.get(photoKey.city(city.id))!.small}` : undefined,
       empty: total === 0,
     }),
   );
@@ -159,7 +164,6 @@ for (const city of content.cities) {
           paths: {
             og: routes.ogPage(path),
             story: routes.card(city.id, cat, e.id, 'story'),
-            post: routes.card(city.id, cat, e.id, 'post'),
             badge: routes.card(city.id, cat, e.id, 'badge'),
           },
         }),
@@ -174,6 +178,18 @@ for (const city of content.cities) {
           keywords: [e.neighbourhood, e.subtype, city.name, city.localName, copy.singular, cat === 'hotels' ? 'hotel stay' : cat === 'restaurants' ? 'restaurant food eat' : 'things to do see'],
           r: p.rank,
           a: city.accent,
+          img: content.photos.get(photoKey.pick(city.id, cat, e.id)) ? `img/${content.photos.get(photoKey.pick(city.id, cat, e.id))!.small}` : undefined,
+          details: {
+            c: city.name,
+            k: copy.label,
+            p: `#${p.rank} ${copy.singular} in ${city.name}`,
+            h: e.neighbourhood,
+            t: e.subtype,
+            $: e.price === null ? null : (['Free', '$', '$$', '$$$', '$$$$'] as const)[e.price],
+            w: e.why,
+            n: new Set(e.evidence.map((x) => content.sources.get(x.source)?.group ?? x.source)).size,
+            web: e.website,
+          },
         }),
       );
     });

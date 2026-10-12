@@ -1,20 +1,32 @@
 {
   "new-york/hotels/the-bowery-hotel": {
-    "block": true
+    "noWikidata": true
   },
   "new-york/hotels/the-ritz-carlton-new-york-nomad": {
-    "block": true
+    "noWikidata": true
   },
   "toronto/things-to-do/toronto-island-park": {
-    "block": true
+    "noWikidata": true
   },
   "vancouver/things-to-do/commercial-drive": {
-    "block": true
+    "noWikidata": true
   },
   "new-york/hotels/waldorf-astoria-new-york": {
-    "block": true
+    "noWikidata": true
   },
   "vancouver/things-to-do/museum-of-vancouver": {
-    "block": true
+    "noWebsite": true
+  },
+  "new-york/hotels/the-hotel-chelsea": {
+    "noCommons": true
+  },
+  "new-york/restaurants/lucali": {
+    "noCommons": true
+  },
+  "new-york/things-to-do/moma-ps1": {
+    "noCommons": true
+  },
+  "toronto/restaurants/alo": {
+    "noCommons": true
   }
 }
