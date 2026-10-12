@@ -1,0 +1,254 @@
+# Photo review
+
+Last run 2026-10-12. 146 photos (101 commons, 45 website).
+
+Check each match shows the right place. To fix one, add it to content/image-overrides.json:
+`{ "new-york/hotels/the-mark": { "use": "File:Better photo.jpg" } }` or `{ "block": true }`.
+
+- ✓ cities/vancouver ← Commons Skyline of Vancouver, Canada.jpg via Q24639 · Quintin Soloviev, CC BY 4.0
+- ✓ cities/toronto ← Commons Sunset Toronto Skyline Panorama Crop from Snake Island.jpg via Q172 · Jchmrt, CC BY-SA 4.0
+- ✓ cities/new-york ← Commons NYC Downtown Manhattan Skyline seen from Paulus Hook 2019-12-20 IMG 7347 FRD (cropped).jpg via Q60 · Fred Hsu on en.wikipedia, CC BY-SA 4.0
+- ✓ cities/london ← Commons London Skyline (125508655).jpeg via Q84 · Ilya Grigorik, CC BY-SA 3.0
+- ✓ cities/paris ← Commons La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg via Q90 · Yann Caradec from Paris, France, CC BY-SA 2.0
+- ✓ cities/tokyo ← Commons Skyscrapers of Shinjuku 2009 January (revised).jpg via Q1490 · Morio, CC BY-SA 3.0
+- ✓ cities/barcelona ← Commons Aerial view of La Sagrada Familia, Barcelona, Spain (51227006134).jpg via Q1492 · dronepicr, CC BY 2.0
+- ✓ cities/lisbon ← Commons Lisboa837.png via Q597 · Lacobrigo, CC BY-SA 4.0
+- ✓ cities/mexico-city ← Commons Sobrevuelos CDMX HJ2A5091 (40386338731).jpg via Q1489 · Gobierno CDMX, CC0
+- ✓ cities/seoul ← Commons 덕수궁의 가을.jpg via Q8684 · 라성민, CC BY-SA 3.0
+- ✓ new-york/hotels/aman-new-york ← website https://www.aman.com/sites/default/files/2022-08/Correct_Aman%20New%20York_Landscape.jpg
+- ✓ new-york/hotels/the-whitby-hotel ← website https://www.firmdalehotels.com/media/erhfmjgh/the-whitby-hotel-restaurant-bar-1.jpg
+- ✓ new-york/hotels/crosby-street-hotel ← website https://www.firmdalehotels.com/media/u4xkpbrc/240910_f_cs_o_251_webresa.jpg
+- ✓ new-york/hotels/casa-cipriani-new-york ← website https://irp.cdn-website.com/d6a17d3f/dms3rep/multi/opt/CC+brand+meta+share+image-1920w.jpg
+- ✓ new-york/hotels/warren-street-hotel ← website https://www.firmdalehotels.com/media/leroxswl/240205_f_wsh_lobby_0027plusr_webres.jpg
+- · new-york/hotels/hotel-barriere-fouquets-new-york: no photo found, illustration will be used
+- skipped new-york/hotels/nine-orchard: image too small (200×200)
+- · new-york/hotels/nine-orchard: no photo found, illustration will be used
+- · new-york/hotels/pendry-manhattan-west: no photo found, illustration will be used
+- ✓ new-york/hotels/the-fifth-avenue-hotel ← Commons Fifth Avenue Hotel, Manhattan, New York, US.jpg via Q125523177 (The Fifth Avenue Hotel) · Clyde Charles Brown, CC BY-SA 4.0
+- ✓ new-york/hotels/the-carlyle-a-rosewood-hotel ← Commons Carlyle Hotel Madison 76 jeh.JPG via Q3378613 (Carlyle Hotel) · Jim.henderson, CC0
+- ✓ new-york/hotels/the-mark ← Commons The Mark (49535376872).jpg via Q7750335 (The Mark) · Mig Gilbert from Brighton, CC BY-SA 2.0
+- ✓ new-york/hotels/waldorf-astoria-new-york ← Commons Waldorf-Astoria 1904-1908.jpg via Q1123997 (Waldorf-Astoria Hotel (New York, N.Y.)) · Joseph Pennell, Public domain
+- · new-york/hotels/the-lowell: no photo found, illustration will be used
+- ✓ new-york/hotels/the-ritz-carlton-new-york-nomad ← Commons Ritz-Carlton New York, Central Park, Manhattan, New York, US.jpg via Q111446029 (The Ritz-Carlton New York, Central Park) · Clyde Charles Brown, CC BY-SA 4.0
+- ✓ new-york/hotels/the-peninsula-new-york ← Commons PNY Exterior with Rolls Royce.jpg via Q2413390 (The Peninsula New York) · Kimberlypeninsula, CC BY-SA 4.0
+- ✓ new-york/hotels/mandarin-oriental-new-york ← Commons Time Warner Center May 2010.JPG via Q6747858 (Mandarin Oriental, New York) · OptimumPx, Public domain
+- ✓ new-york/hotels/the-greenwich-hotel ← website https://www.thegreenwichhotel.com/wp-content/uploads/Arrival-First-Impressions_v3a_1.jpg
+- ✓ new-york/hotels/the-bowery-hotel ← Commons BoweryHouseStairs.jpg via Q7719548 (The Bowery House) · The Bowery House, CC BY-SA 3.0
+- ✓ new-york/hotels/the-beekman-a-thompson-hotel ← Commons The Beekman, 575 Park Avenue, East 63rd Street, Lenox Hill, Manhattan 3.jpg via Q121097904 (The Beekman) · Deans Charbal, CC BY-SA 4.0
+- · new-york/hotels/the-hotel-chelsea: no photo found, illustration will be used
+- · new-york/hotels/the-twenty-two-new-york: no photo found, illustration will be used
+- · new-york/hotels/the-ludlow-hotel: no photo found, illustration will be used
+- ✓ new-york/hotels/1-hotel-brooklyn-bridge ← website https://cdn.bfldr.com/TU9NUD0C/at/n43nkf8xbmn62nb939r7cgqz/1_Hotel_Brooklyn_Bridge_Skyline_King_HI.jpg
+- ✓ new-york/hotels/wythe-hotel ← Commons Wythe Hotel.jpg via Q111395094 (Wythe Hotel) · Mikeyfrecks, CC BY-SA 3.0
+- ✓ new-york/hotels/ace-hotel-brooklyn ← website https://acehotel.com/brooklyn/wp-content/uploads/sites/7/2021/09/ace-hotel-brooklyn-header.jpg
+- · new-york/hotels/the-rockaway-hotel: no photo found, illustration will be used
+- ✓ new-york/hotels/twa-hotel ← Commons Ehemaliges TWA-Terminal am John F. Kennedy International Airport in New York.JPG via Q47321188 (TWA Hotel) · Roland Arhelger, CC BY-SA 4.0
+- · new-york/hotels/radio-hotel: no photo found, illustration will be used
+- · new-york/hotels/the-surrey-a-corinthia-hotel: no photo found, illustration will be used
+- ✓ new-york/restaurants/le-bernardin ← Commons Interior of Le Bernardin.jpg via Q6506539 (Le Bernardin) · Arnold Gatilao, CC BY 2.0
+- ✓ new-york/restaurants/atomix ← Commons Atomix 30th St 2024 jeh.jpg via Q121461419 (Atomix) · Jim.henderson, CC BY-SA 3.0
+- ✓ new-york/restaurants/semma ← website http://static1.squarespace.com/static/615bedc264a4c3392b97d4d8/t/6161467b62867044ae6593d9/1633764987988/TRANSPARENT+White+semma+logo+%28small%29.png?format=1500w
+- ✓ new-york/restaurants/tatiana-by-kwame-onwuachi ← website https://images.getbento.com/accounts/d3c5b78fc5241c068da0bd3c6be5d228/media/images/78835Tatiana_BKO_Metro_5x_100.png?w=1200&fit=fill&auto=compress,format&cs=origin&h=600&bg=EDEDF1&pad=100
+- skipped new-york/restaurants/jean-georges: image too small (330×480)
+- · new-york/restaurants/jean-georges: no photo found, illustration will be used
+- ✓ new-york/restaurants/the-four-horsemen ← website https://www.fourhorsemenbk.com/uploads/b/f7580bd0-251b-11eb-b542-49a16b072e04/favicon_NzM0Nz.png
+- · new-york/restaurants/le-veau-dor: no photo found, illustration will be used
+- ✓ new-york/restaurants/via-carota ← Commons Via Carota 2023 jeh.jpg via Q112480750 (Via Carota) · Jim.henderson, CC BY-SA 4.0
+- ✓ new-york/restaurants/sailor ← website https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/91156logo-blue_sailor.png?w=1200&fit=fill&auto=compress,format&cs=origin&h=600&bg=fff&pad=100
+- · new-york/restaurants/thai-diner: no photo found, illustration will be used
+- · new-york/restaurants/cervos: no photo found, illustration will be used
+- · new-york/restaurants/cho-dang-gol: no photo found, illustration will be used
+- · new-york/restaurants/banh-anh-em: no photo found, illustration will be used
+- ✓ new-york/restaurants/carnitas-ramirez ← website http://static1.squarespace.com/static/6671ec90c301ad0e1d58efce/t/671966923e0ce210d6d87f65/1729717907010/carmela-ramirez-PNG+white.png?format=1500w
+- · new-york/restaurants/la-pirana-lechonera: no photo found, illustration will be used
+- ✓ new-york/restaurants/tanoreen ← website https://images.getbento.com/accounts/6085c8bf168148a925d825ed4469ce8a/media/images/92057logo.png?w=1200&fit=fill&auto=compress,format&cs=origin&h=600&bg=EDEDF1&pad=100
+- · new-york/restaurants/zaab-zaab: no photo found, illustration will be used
+- ✓ new-york/restaurants/katzs-delicatessen ← Commons Lozupone katz2.png via Q2611788 (Katz's Delicatessen) · Alex Lozupone, CC BY-SA 4.0
+- ✓ new-york/restaurants/barney-greengrass ← Commons Barney Greengrass.jpg via Q4861728 (Barney Greengrass) · kris.layon, CC BY 2.0
+- ✓ new-york/restaurants/una-pizza-napoletana ← website https://unapizza.com/wp-content/uploads/2023/11/UNA_2022-02-02_mark-weinberg_0892-scaled.jpg
+- ✓ new-york/restaurants/lucali ← website https://images.getbento.com/accounts/5e9ec84212b5dd9564bd6ed40118bde6/media/images/69947LUCALI_logo_black.png?w=1200&fit=fill&auto=compress,format&cs=origin&h=600&bg=EDEDF1&pad=100
+- · new-york/restaurants/l-and-b-spumoni-gardens: no photo found, illustration will be used
+- · new-york/restaurants/joe-and-pats: no photo found, illustration will be used
+- · new-york/restaurants/mamas-too: no photo found, illustration will be used
+- skipped new-york/restaurants/radio-bakery: image too small (373×192)
+- · new-york/restaurants/radio-bakery: no photo found, illustration will be used
+- · new-york/restaurants/dollys: no photo found, illustration will be used
+- · new-york/restaurants/venieros-pasticceria-and-caffe: no photo found, illustration will be used
+- ✓ new-york/things-to-do/central-park ← Commons Southwest corner of Central Park, looking east, NYC.jpg via Q160409 (Central Park) · Ed Yourdon from New York City, USA, CC BY-SA 2.0
+- ✓ new-york/things-to-do/the-metropolitan-museum-of-art ← Commons Metropolitan Museum of Art (The Met) - Central Park, NYC.jpg via Q160236 (Metropolitan Museum of Art) · Hugo Schneider, CC BY-SA 2.0
+- ✓ new-york/things-to-do/the-high-line ← Commons Highline 02.jpg via Q843869 (High Line) · Wil Fyfordy, CC BY-SA 4.0
+- ✓ new-york/things-to-do/brooklyn-bridge ← Commons NYCBrooklynBridge.jpg via Q125006 (Brooklyn Bridge) · Taken by Jeffrey Bary, uploaded by CPacker, CC BY 2.0
+- ✓ new-york/things-to-do/museum-of-modern-art-moma ← Commons MoMa NY USA 1.jpg via Q188740 (Museum of Modern Art) · hibino, CC BY 2.0
+- ✓ new-york/things-to-do/prospect-park ← Commons Prospect Park lake.jpeg via Q1049632 (Prospect Park) · Unknown, CC BY-SA 3.0
+- ✓ new-york/things-to-do/american-museum-of-natural-history ← Commons American Museum of Natural History 02.jpg via Q217717 (American Museum of Natural History) · Gigi alt, CC BY-SA 3.0
+- ✓ new-york/things-to-do/tenement-museum ← Commons The Tenement Museum (51624759160).jpg via Q901533 (Tenement Museum) · ajay_suresh, CC BY 2.0
+- · new-york/things-to-do/9-11-memorial-and-museum: no photo found, illustration will be used
+- ✓ new-york/things-to-do/staten-island-ferry ← Commons Spirit of America - Staten Island Ferry.jpg via Q1048582 (Staten Island Ferry) · InSapphoWeTrust, CC BY-SA 2.0
+- ✓ new-york/things-to-do/smorgasburg ← Commons Cooking Channel at Smorgasburg 34 (7509703888).jpg via Q60743030 (Smorgasburg) · Alexander Rea, CC BY-SA 2.0
+- ✓ new-york/things-to-do/brooklyn-bridge-park ← Commons Brooklyn Bridge Park and Manhattan.jpg via Q929440 (Brooklyn Bridge Park) · Wusel007, CC BY-SA 3.0
+- ✓ new-york/things-to-do/brooklyn-museum ← Commons Brooklyn Museum June 2008 sunset jeh.JPG via Q632682 (Brooklyn Museum) · Jim.henderson, Public domain
+- ✓ new-york/things-to-do/coney-island ← Commons Coney Island Parachute Jump.JPG via Q628201 (Coney Island) · OptimumPx, Public domain
+- ✓ new-york/things-to-do/new-york-botanical-garden ← Commons NY Botanical Garden.jpg via Q636275 (New York Botanical Garden) · Anthony22 at English Wikipedia, CC BY-SA 3.0
+- ✓ new-york/things-to-do/washington-square-park ← Commons Washington Square Arch-Isabella.jpg via Q909592 (Washington Square Park) · Isabella Ruffalo-Burgat, CC BY-SA 4.0
+- · new-york/things-to-do/intrepid-museum: no photo found, illustration will be used
+- ✓ new-york/things-to-do/governors-island ← Commons USGS Governors Island.png via Q1190547 (Governors Island) · U.S. Geological Survey, conversion to PNG by uploader (Herr Satz)., Public domain
+- ✓ new-york/things-to-do/solomon-r-guggenheim-museum ← Commons NYC - Guggenheim Museum.jpg via Q201469 (Solomon R. Guggenheim Museum) · Jean-Christophe BENOIST, CC BY 3.0
+- ✓ new-york/things-to-do/the-met-cloisters ← Commons The Cloisters Hudson River crop.jpg via Q1138030 (The Cloisters) · Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2, CC BY-SA 3.0
+- ✓ new-york/things-to-do/the-frick-collection ← Commons Frick collection jan06.jpg via Q682827 (The Frick Collection) · Aude, CC BY-SA 2.5
+- ✓ new-york/things-to-do/noguchi-museum ← Commons Wikist aces 0087.jpg via Q836080 (Noguchi Museum) · This photo was taken by participant/team Wikist_aces as part of the Commons:Wiki, CC BY-SA 3.0
+- · new-york/things-to-do/moma-ps1: no photo found, illustration will be used
+- ✓ new-york/things-to-do/grand-central-terminal ← Commons Image-Grand central Station Outside Night 2.jpg via Q11290 (Grand Central Terminal) · Fcb981 ; Eric Baetscher (attribution required), CC BY-SA 3.0
+- ✓ new-york/things-to-do/green-wood-cemetery ← Commons Green-Wood Cemetery by David Shankbone.jpg via Q239043 (Green-Wood Cemetery) · The original uploader was David Shankbone at English Wikipedia., CC BY 2.5
+- · new-york/things-to-do/little-island: no photo found, illustration will be used
+- ✓ new-york/things-to-do/ellis-island-national-museum-of-immigration ← Commons Ellis island immigration museum entrance.JPG via Q102312434 (Ellis Island National Museum of Immigration) · chensiyuan, CC BY-SA 4.0
+- ✓ new-york/things-to-do/bronx-zoo ← Commons Stavenn Bronx Zoo 00.jpg via Q739792 (Bronx Zoo) · Stavenn, CC BY-SA 3.0
+- ✓ new-york/things-to-do/museum-of-the-moving-image ← Commons MoMI2.jpg via Q465765 (Museum of the Moving Image) · NickCPrior, CC BY-SA 3.0
+- ✓ toronto/hotels/four-seasons-hotel-toronto ← Commons Four Seasons under construction February 2012.jpg via Q593320 (Four Seasons Hotel and Residences Toronto) · Daryl Bruvelaitis, CC BY 2.0
+- · toronto/hotels/the-hazelton-hotel: no photo found, illustration will be used
+- · toronto/hotels/shangri-la-hotel-toronto: no photo found, illustration will be used
+- ✓ toronto/hotels/park-hyatt-toronto ← Commons Park Plaza Hotel.JPG via Q7137802 (Park Hyatt Toronto) · SimonP, CC BY-SA 3.0
+- · toronto/hotels/the-ritz-carlton-toronto: no photo found, illustration will be used
+- · toronto/hotels/the-st-regis-toronto: no photo found, illustration will be used
+- · toronto/hotels/1-hotel-toronto: no photo found, illustration will be used
+- · toronto/hotels/ace-hotel-toronto: no photo found, illustration will be used
+- · toronto/hotels/bisha-hotel-toronto: no photo found, illustration will be used
+- ✓ toronto/hotels/the-drake-hotel ← Commons The Drake Hotel Toronto, September 19 2026 (02).jpg via Q111392355 (The Drake Hotel) · Dillan Payne, CC BY-SA 4.0
+- ✓ toronto/hotels/the-broadview-hotel ← Commons New Broadview Hotel.jpg via Q14875339 (New Broadview House Hotel) · SimonP, CC BY-SA 3.0
+- ✓ toronto/hotels/fairmont-royal-york ← Commons Fairmont Royal York from CIBC Square Park, May 13 2026 (01).jpg via Q1393350 (Fairmont Royal York) · Dillan Payne, CC BY-SA 4.0
+- ✓ toronto/hotels/gladstone-house ← Commons The Gladstone Hotel in 2007 -a.jpg via Q5566335 (Gladstone Hotel) · csaila from Seattle, USA, CC BY-SA 2.0
+- · toronto/hotels/the-anndore-house: no photo found, illustration will be used
+- ✓ toronto/hotels/kimpton-saint-george ← Commons Kimpton Saint George Hotel, Toronto.jpg via Q111392329 (Kimpton Saint George Hotel) · Nick Number, CC BY 4.0
+- · toronto/hotels/w-toronto: no photo found, illustration will be used
+- · toronto/hotels/nobu-hotel-toronto: no photo found, illustration will be used
+- · toronto/hotels/le-germain-hotel-maple-leaf-square: no photo found, illustration will be used
+- · toronto/hotels/le-germain-hotel-toronto-mercer: no photo found, illustration will be used
+- ✓ toronto/hotels/windsor-arms-hotel ← Commons Windsor Arms Hotel.JPG via Q8024567 (Windsor Arms Hotel) · SimonP, CC BY-SA 3.0
+- · toronto/restaurants/alo: no photo found, illustration will be used
+- ✓ toronto/restaurants/edulis ← website http://static1.squarespace.com/static/5d657654a26a8c0001441d50/t/5d65b7e8abd7d20001f505eb/1566947305761/MG_03891_opt.jpeg?format=1500w
+- ✓ toronto/restaurants/quetzal ← website https://cdn.prod.website-files.com/633c98e70191478142f72955/635d300be5fc3d893cb44011_Quetzal%20Home%20Image.png
+- ✓ toronto/restaurants/akin ← website http://static1.squarespace.com/static/66d0cf06515e620ff7ad59d4/t/6ab4026c0fbdbd03efd2e14f/1790181996350/aKin_Michelin2026_LogoLockup_V1.png?format=1500w
+- · toronto/restaurants/restaurant-20-victoria: no photo found, illustration will be used
+- ✓ toronto/restaurants/sunnys-chinese ← website https://sunnyschinese.com/cdn/shop/files/SUNNYS-Tag-Red.png?height=628&pad_color=fff&v=1663283627&width=1200
+- · toronto/restaurants/the-lunch-lady: no photo found, illustration will be used
+- · toronto/restaurants/favorites-thai: no photo found, illustration will be used
+- · toronto/restaurants/blackbird-baking-co: no photo found, illustration will be used
+- · toronto/restaurants/emmer: no photo found, illustration will be used
+- · toronto/restaurants/bar-raval: no photo found, illustration will be used
+- ✓ toronto/restaurants/golden-horseshoe-barbecue ← website https://pub-daf63e70afa7431282a5f4d72ed677d2.r2.dev/restaurants/cf14c309-ed1e-414c-9195-865983ad2708/ed9132ff-4ad1-4454-a625-1058c69f09bd.webp
+- ✓ toronto/restaurants/som-tum-jinda ← website https://framerusercontent.com/images/9CGj9CSi7ZXtuufgnLbGcreAS4.png
+- ✓ toronto/restaurants/ricky-olivia ← website http://static1.squarespace.com/static/5b8bf4204cde7abe6c3da5ea/t/624661fa52bbb6497b83dbb0/1648779770795/big-mac-steak-tartare-%28our-signature-dish%29.jpg?format=1500w
+- · toronto/restaurants/mhel: no photo found, illustration will be used
+- · toronto/restaurants/takja-bbq-house: no photo found, illustration will be used
+- skipped toronto/restaurants/casa-paco: image too small (344×127)
+- · toronto/restaurants/casa-paco: no photo found, illustration will be used
+- ✓ toronto/restaurants/n-l-ginzburg ← website https://nlginzburg.com/assets/images/social.jpg
+- ✓ toronto/restaurants/bar-eugenie ← website http://static1.squarespace.com/static/682252a432025a2f3de20771/t/68a2384f97207a086bd5d0ac/1755461711617/Bar-Eugenie-Vector-15.ai+%281%29.png?format=1500w
+- ✓ toronto/restaurants/dreyfus ← website https://dreyfustoronto.com/assets/images/social.jpg
+- · toronto/restaurants/bbs: no photo found, illustration will be used
+- ✓ toronto/restaurants/sam-james-coffee-bar ← website http://samjamescoffeebar.com/cdn/shop/files/SJCB_f6730bb2-9748-42a5-91df-0b5f65e80821.jpg?v=1614108541
+- · toronto/restaurants/forno-cultura: no photo found, illustration will be used
+- · toronto/restaurants/harbord-bakery: no photo found, illustration will be used
+- · toronto/restaurants/danico: no photo found, illustration will be used
+- · toronto/restaurants/kappo-sato: no photo found, illustration will be used
+- · toronto/restaurants/sushi-masaki-saito: no photo found, illustration will be used
+- ✓ toronto/restaurants/sammarco ← website https://sammarco.ca/wp-content/themes/sammarco/assets/meta/share.png
+- · toronto/restaurants/linnys: no photo found, illustration will be used
+- ✓ toronto/things-to-do/cn-tower ← website https://www.cntower.ca/modules/custom/de_common/img/cntower-skyline.jpg
+- ✓ toronto/things-to-do/royal-ontario-museum ← Commons Royal Ontario Museum-Michael Lee-Chin Crystal.jpg via Q649250 (Royal Ontario Museum) · Staka, CC BY-SA 4.0
+- ✓ toronto/things-to-do/art-gallery-of-ontario ← Commons Art Gallery of Ontario entrance.jpg via Q670250 (Art Gallery of Ontario) · Owen Byrne from Ottawa, Canada, CC BY 2.0
+- ✓ toronto/things-to-do/st-lawrence-market ← Commons St Lawrence Market from west.jpg via Q2320221 (St. Lawrence Market South) · SimonP at English Wikipedia, CC BY-SA 3.0
+- ✓ toronto/things-to-do/kensington-market ← Commons Kensington market.jpg via Q3195260 (Kensington Market) · Unknown, CC BY-SA 3.0
+- ✓ toronto/things-to-do/distillery-historic-district ← website https://www.thedistillerydistrict.com/wp-content/uploads/2020/05/1200.jpg
+- ✓ toronto/things-to-do/toronto-island-park ← Commons Toronto Island Park Disc Golf Course.jpg via Q83177481 (Toronto Island Park Disc Golf Course) · Peter Broster, CC BY-SA 4.0
+- ✓ toronto/things-to-do/high-park ← Commons Day243highparkp.jpg via Q1617812 (High Park) · Chensiyuan at English Wikipedia, CC BY-SA 3.0
+- ✓ toronto/things-to-do/hockey-hall-of-fame ← Commons Hockey Hall of Fame, Toronto.jpg via Q1136687 (Hockey Hall of Fame) · Ian Muttoo, CC BY-SA 2.0
+- ✓ toronto/things-to-do/aga-khan-museum ← Commons Aga Khan Museum in Toronto- Exterior.jpg via Q4690937 (The Aga Khan Museum) · JohnOyston, CC BY-SA 4.0
+- ✓ toronto/things-to-do/casa-loma ← Commons Casa Loma 2016 (65 of 122) (27655967032).jpg via Q1046446 (Casa Loma) · Xander Ashburn, CC BY 2.0
+- ✓ toronto/things-to-do/bata-shoe-museum ← Commons Bata Shoe Museum.jpg via Q810693 (Bata Shoe Museum) · Gisling, CC BY-SA 3.0
+- ✓ toronto/things-to-do/gardiner-museum ← Commons GardinerMuseum.jpg via Q2043270 (Gardiner Museum) · Aviad2001, CC BY 2.5
+- ✓ toronto/things-to-do/evergreen-brick-works ← website https://www.evergreen.ca/wp-content/uploads/2026/10/EBW-Fall-Thumb.jpg
+- ✓ toronto/things-to-do/fort-york-national-historic-site ← website https://www.toronto.ca/wp-content/uploads/2020/12/93a9-Social_FY.jpg
+- · toronto/things-to-do/the-village-at-black-creek: no photo found, illustration will be used
+- ✓ toronto/things-to-do/spadina-museum ← Commons Spadina House 2004.jpg via Q3289971 (Spadina House) · rhdouglas from Kitchener, Canada, CC BY 2.0
+- ✓ toronto/things-to-do/trinity-bellwoods-park ← Commons Trinity Bellwoods Gates on Queen Street, July 7 2025.jpg via Q3363926 (Trinity Bellwoods Park) · Dillan Payne, CC BY-SA 4.0
+- skipped toronto/things-to-do/museum-of-contemporary-art-toronto: image too small (360×270)
+- ✓ toronto/things-to-do/museum-of-contemporary-art-toronto ← website https://moca.ca/wp-content/uploads/2026/02/Sara-Cwynar-Baby-Blue-Benzo-scaled.jpg
+- ✓ toronto/things-to-do/elgin-and-winter-garden-theatre-centre ← Commons Elgin and Winter Garden Theatres 2024.jpg via Q5360073 (Elgin Theatre) · Canmenwalker, CC BY 4.0
+- ✓ toronto/things-to-do/scarborough-bluffs ← Commons Scarborough Bluffs, May 4 2026 (07).jpg via Q543254 (Scarborough Bluffs) · Dillan Payne, CC BY-SA 4.0
+- · toronto/things-to-do/chinatown: no photo found, illustration will be used
+- ✓ toronto/things-to-do/the-beaches ← Commons The Beaches aerial view 2023.jpg via Q7715974 (The Beaches) · Canmenwalker, CC BY 4.0
+- · toronto/things-to-do/trillium-park-and-william-g-davis-trail: no photo found, illustration will be used
+- ✓ toronto/things-to-do/toronto-city-hall-and-nathan-phillips-square ← Commons Toronto - ON - Rathaus und Nathan Phillips Square.jpg via Q43045128 (Toronto City Hall and Nathan Phillips Square) · Taxiarchos228, CC BY 3.0
+- ✓ toronto/things-to-do/textile-museum-of-canada ← Commons TextileMuseumOfCanada2.jpg via Q7708469 (Textile Museum of Canada) · Raysonho @ Open Grid Scheduler / Grid Engine, CC0
+- ✓ vancouver/hotels/rosewood-hotel-georgia ← Commons Rosewood Hotel Georgia 2018.jpg via Q14874623 (Hotel Georgia) · Wpcpey, CC BY-SA 4.0
+- ✓ vancouver/hotels/wedgewood-hotel-and-spa ← website https://wedgewoodhotel.com/wp-content/uploads/2022/11/Open-Graph-Image-2.png
+- · vancouver/hotels/loden-hotel: no photo found, illustration will be used
+- ✓ vancouver/hotels/fairmont-pacific-rim ← Commons Fairmont Pacific Rim 2015.jpg via Q2411231 (Fairmont Pacific Rim) · Klazu, CC BY-SA 4.0
+- · vancouver/hotels/fairmont-hotel-vancouver: no photo found, illustration will be used
+- ✓ vancouver/hotels/opus-vancouver ← website https://opushotel.com/media_files/images/Superior_King_2.max-1900x1900.jpg
+- · vancouver/hotels/lhermitage-hotel: no photo found, illustration will be used
+- ✓ vancouver/hotels/paradox-hotel-vancouver ← Commons Trump Tower Vancouver, August 2016.jpg via Q2155353 (Paradox Vancouver) · SounderBruce, CC BY-SA 3.0
+- · vancouver/hotels/the-burrard: no photo found, illustration will be used
+- ✓ vancouver/hotels/skwachays-lodge ← website http://static1.squarespace.com/static/662aebb21a258f414152d33a/t/663526410e07bc1185a69cd0/1714759233539/Logo+-+colour%404x.png?format=1500w
+- · vancouver/hotels/pan-pacific-vancouver: no photo found, illustration will be used
+- ✓ vancouver/hotels/the-sutton-place-hotel-vancouver ← Commons Sutton Place Hotel, Vancouver (2012) - 1.JPG via Q14874771 (The Sutton Place) · Another Believer, CC BY-SA 3.0
+- ✓ vancouver/hotels/metropolitan-hotel-vancouver ← Commons Metropolitan Vancouver Hotel.jpg via Q14874690 (Metropolitan Vancouver Hotel) · Mx. Granger, CC0
+- ✓ vancouver/restaurants/annalena ← website http://static1.squarespace.com/static/5480d9cbe4b0e3ea019971a8/t/54a8ffdfe4b0243cdd54e363/1420361778402/annalenawhite.jpg?format=1500w
+- ✓ vancouver/restaurants/kissa-tanto ← Commons Kissa Tanto exterior wide.jpg via Q96386070 (Kissa Tanto) · Premeditated Chaos, CC BY-SA 4.0
+- · vancouver/restaurants/sumibiyaki-arashi: no photo found, illustration will be used
+- · vancouver/restaurants/st-lawrence: no photo found, illustration will be used
+- · vancouver/restaurants/published-on-main: no photo found, illustration will be used
+- ✓ vancouver/restaurants/boulevard-kitchen-and-oyster-bar ← website https://boulevardvancouver.ca/wp-content/uploads/2024/12/Best-seafood-restaurant-in-vancouver-BC-Boulevard-Kitchen-and-Oyster-Bar-e1733947768621.jpg
+- skipped vancouver/restaurants/labattoir: image too small (648×248)
+- · vancouver/restaurants/labattoir: no photo found, illustration will be used
+- ✓ vancouver/restaurants/kavita ← website http://static1.squarespace.com/static/6809507da5f3624675af9f79/t/68d52261d0747638b4b18d7f/1758798433238/Kavita-Logo_White_lg.png?format=1500w
+- skipped vancouver/restaurants/elem: image too small (1500×257)
+- · vancouver/restaurants/elem: no photo found, illustration will be used
+- ✓ vancouver/restaurants/zarak ← website http://static1.squarespace.com/static/61393359acc59146c0e60516/t/613a3fe7e376985e9a5587dd/1631207399836/Zarak-by-AK-kite-lockup_zrk-black.png?format=1500w
+- skipped vancouver/restaurants/delara: image too small (260×59)
+- · vancouver/restaurants/delara: no photo found, illustration will be used
+- skipped vancouver/restaurants/osteria-savio-volpe: image too small (329×43)
+- · vancouver/restaurants/osteria-savio-volpe: no photo found, illustration will be used
+- · vancouver/restaurants/nightingale: no photo found, illustration will be used
+- · vancouver/restaurants/dynasty-seafood-restaurant: no photo found, illustration will be used
+- ✓ vancouver/restaurants/vijs ← website http://static1.squarespace.com/static/664bced31838885ded9799eb/t/6661a9e55a8d874c7647ca3c/1717676517435/unnamed.png?format=1500w
+- · vancouver/restaurants/sushi-hil: no photo found, illustration will be used
+- ✓ vancouver/restaurants/anh-and-chi ← website http://anhandchi.com/cdn/shop/files/Anh_and_Chi_Family_Style_Dinner_Photographed_by_Leila_Kwok_1200x1200.jpg?v=1772611785
+- · vancouver/restaurants/phnom-penh: no photo found, illustration will be used
+- ✓ vancouver/restaurants/lunch-lady ← Commons Lunch Lady (1).jpg via Q130198760 (Lunch Lady) · Lunarvoyages, CC BY-SA 4.0
+- ✓ vancouver/restaurants/fat-mao-noodles ← website http://static1.squarespace.com/static/558e339ce4b01fb0b848533a/t/5fc8a203b74dd54858dd744c/1606984200994/FAT+MAO.jpg?format=1500w
+- · vancouver/restaurants/chefs-choice-chinese-cuisine: no photo found, illustration will be used
+- skipped vancouver/restaurants/beaucoup-bakery: image too small (1036×254)
+- · vancouver/restaurants/beaucoup-bakery: no photo found, illustration will be used
+- · vancouver/restaurants/their-there: no photo found, illustration will be used
+- · vancouver/restaurants/timbertrain-coffee-roasters: no photo found, illustration will be used
+- · vancouver/restaurants/revolver: no photo found, illustration will be used
+- · vancouver/restaurants/good-thief: no photo found, illustration will be used
+- · vancouver/restaurants/nero-tondo: no photo found, illustration will be used
+- · vancouver/restaurants/garys: no photo found, illustration will be used
+- · vancouver/restaurants/magari-by-oca: no photo found, illustration will be used
+- · vancouver/restaurants/masayoshi: no photo found, illustration will be used
+- ✓ vancouver/things-to-do/stanley-park ← Commons Stanley Park SqueakyMarmot December 17, 2006.jpg via Q1126258 (Stanley Park) · squeakymarmot, CC BY 2.0
+- · vancouver/things-to-do/vancouver-seawall: no photo found, illustration will be used
+- ✓ vancouver/things-to-do/granville-island-public-market ← Commons Granville Island Public Market 1.jpg via Q114841864 (Granville Island Public Market) · Ymblanter, CC BY-SA 4.0
+- ✓ vancouver/things-to-do/museum-of-anthropology-at-ubc ← Commons UBC MOA with reflecting pool 01.JPG via Q1954743 (Museum of Anthropology at UBC) · Rr parker, CC BY-SA 3.0
+- ✓ vancouver/things-to-do/capilano-suspension-bridge-park ← website https://www.capbridge.com/wp-content/uploads/2024/05/OutdoorAdventures-card-e1663478782963-2.jpg
+- ✓ vancouver/things-to-do/grouse-mountain ← Commons Grouse mountain (ski runs close up).JPG via Q841926 (Grouse Mountain) · Orlandkurtenbach, Public domain
+- ✓ vancouver/things-to-do/vandusen-botanical-garden ← Commons VanDusen Botanical Garden 1.jpg via Q1119013 (VanDusen Botanical Garden) · Stan Shebs, CC BY-SA 3.0
+- ✓ vancouver/things-to-do/dr-sun-yat-sen-classical-chinese-garden ← Commons SunYatSenGarden.jpg via Q741730 (Dr. Sun Yat-Sen Classical Chinese Garden) · No machine-readable author provided. Bobanny assumed (based on copyright claims), Public domain
+- ✓ vancouver/things-to-do/queen-elizabeth-park ← Commons Queen Elizabeth Park.jpg via Q1479020 (Queen Elizabeth Park) · Craig Nagy from Vancouver, Canada, CC BY-SA 2.0
+- ✓ vancouver/things-to-do/bloedel-conservatory ← Commons The Bloedel Conservatory.jpg via Q4927320 (Bloedel Conservatory) · Sporkist/Taz (http://taz.sporkism.org), CC BY 2.0
+- ✓ vancouver/things-to-do/vancouver-art-gallery ← Commons Vancouver Art Gallery Robson Square from third floor.jpg via Q371960 (Vancouver Art Gallery) · Unknown, Public domain
+- · vancouver/things-to-do/bill-reid-gallery-of-northwest-coast-art: no photo found, illustration will be used
+- ✓ vancouver/things-to-do/science-world ← Commons Science World at TELUS World of Science.jpg via Q1391769 (Science World) · Differense, CC BY-SA 3.0
+- ✓ vancouver/things-to-do/vancouver-aquarium ← Commons Fish aquarium Van.JPG via Q185228 (Vancouver Aquarium) · Emancipator at en.wikipedia, CC BY-SA 3.0
+- ✓ vancouver/things-to-do/gastown ← Commons Wintry Gastown.jpg via Q1495636 (Gastown) · Jennie Robinson, CC BY 2.0
+- · vancouver/things-to-do/chinatown: no photo found, illustration will be used
+- ✓ vancouver/things-to-do/kitsilano-beach ← Commons Kitsilano Beach Park Vancouver (42912894340).jpg via Q6418340 (Kitsilano Beach) · dronepicr, CC BY 2.0
+- · vancouver/things-to-do/english-bay-beach: no photo found, illustration will be used
+- ✓ vancouver/things-to-do/jericho-beach ← Commons Jericho Beach.JPG via Q3506816 (Jericho Beach) · Flying Penguin at English Wikipedia, CC BY-SA 3.0
+- ✓ vancouver/things-to-do/commercial-drive ← Commons YVRcommercialdrstn.JPG via Q1391726 (Commercial–Broadway station) · Deadkid dk at English Wikipedia, CC BY-SA 3.0
+- · vancouver/things-to-do/main-street-mount-pleasant: no photo found, illustration will be used
+- ✓ vancouver/things-to-do/museum-of-vancouver ← website http://static1.squarespace.com/static/58d29e6ccd0f6829bdf2f58f/t/60185cd33506ff1fdab6a2e8/1612209384703/Slide+Show.png?format=1500w
+- ✓ vancouver/things-to-do/canada-place ← Commons Canada Place Landing.jpg via Q1032014 (Canada Place) · Nicolas Untz, CC BY-SA 2.0
+- ✓ vancouver/things-to-do/lynn-canyon-park ← Commons Lynn canyon park lynn creek.jpg via Q14874673 (Lynn Canyon Park) · The original uploader was Mattingly23 at English Wikipedia., CC BY 2.0
