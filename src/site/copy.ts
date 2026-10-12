@@ -58,7 +58,7 @@ export const COPY = {
   intro:
     'A free notebook of where to eat, stay and go in ten cities. Every pick shows the independent evidence behind it, and nobody can pay to be here.',
   searchLabel: 'Search cities, places and lists',
-  searchPlaceholder: 'Try “ramen” or “Toronto”',
+  searchPlaceholder: 'Try “pizza” or “Toronto”',
   shelfTitle: 'Pick a notebook',
   promises: [
     { title: 'Every pick shows its receipts', body: 'Two or more independent sources, linked, with the date we checked.' },
@@ -91,7 +91,7 @@ export const COPY = {
   badgeCard: 'Download your card',
   tellUs: 'Spot something wrong or missing? Tell us',
   noResults: (q: string) => `Nothing in the notebook for “${q}” yet.`,
-  noResultsHint: 'Try a city, a neighbourhood or a kind of place, like “ramen” or “museum”.',
+  noResultsHint: 'Try a city, a neighbourhood or a kind of place, like “pizza” or “museum”.',
   footerPromise: 'No ads. No paid placement. No tracking.',
   howWeRank: 'How Reclo ranks',
   privacy: 'Privacy',

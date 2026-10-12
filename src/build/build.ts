@@ -109,6 +109,7 @@ for (const city of content.cities) {
       names: [city.name, city.localName, city.id.replace(/-/g, ' ')],
       keywords: [city.country],
       a: city.accent,
+      empty: total === 0,
     }),
   );
 
@@ -127,6 +128,7 @@ for (const city of content.cities) {
         names: [city.name, city.localName],
         keywords: [copy.keywords, copy.label],
         a: city.accent,
+        empty: list.picks.length === 0,
       }),
     );
 
@@ -179,6 +181,7 @@ for (const city of content.cities) {
       names: [city.name, city.localName],
       keywords: [CATEGORY_COPY.events.keywords],
       a: city.accent,
+      empty: events.length === 0,
     }),
   );
 }

@@ -28,6 +28,8 @@ export interface SearchDoc {
   r?: number;
   /** City accent colour, for the result marker. */
   a?: string;
+  /** 1 when the city or list has no verified picks yet; it sinks below real results. */
+  z?: 1;
 }
 
 export interface SearchHit {
@@ -129,6 +131,7 @@ export function search(index: SearchDoc[], query: string, limit = 12): SearchHit
     }
     if (!ok || hard === 0) continue;
     score += TYPE_BOOST[doc.t];
+    if (doc.z) score -= 3.5;
     if (doc.r) score += (26 - Math.min(doc.r, 25)) / 50;
     hits.push({ doc, score });
   }
@@ -145,6 +148,7 @@ export function makeDoc(input: {
   keywords: (string | null | undefined)[];
   r?: number;
   a?: string;
+  empty?: boolean;
 }): SearchDoc {
   const doc: SearchDoc = {
     t: input.t,
@@ -156,5 +160,6 @@ export function makeDoc(input: {
   };
   if (input.r) doc.r = input.r;
   if (input.a) doc.a = input.a;
+  if (input.empty) doc.z = 1;
   return doc;
 }

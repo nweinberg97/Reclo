@@ -84,7 +84,7 @@ Warm, plain, specific. Talk like a well-travelled friend, never like an ad. No e
 | Unfinished list | This page is still being researched. We'd rather leave it blank than guess. |
 | Short list | 13 verified so far. We only publish what we can back up, so this list grows as we check more places. |
 | Events, no source | This week's page is still blank. We're choosing calendars we trust for this city. Until then, you'll find nothing here rather than something made up. |
-| No results | Nothing in the notebook for "x" yet. Try a city, a neighbourhood or a kind of place, like "ramen" or "museum". |
+| No results | Nothing in the notebook for "x" yet. Try a city, a neighbourhood or a kind of place, like "pizza" or "museum". |
 | Made the list | If this is your place, congratulations. Here's a card to share. You didn't pay for it and nobody else can either. |
 | Footer | No ads. No paid placement. No tracking. |
 | Errors | Spot something wrong or missing? Tell us |

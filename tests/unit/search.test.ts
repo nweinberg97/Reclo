@@ -50,6 +50,14 @@ test('cities outrank places when both match', () => {
   assert.equal(top('lisbon')[0], 'lisbon/');
 });
 
+test('lists still being researched sink below real picks', () => {
+  const idx = [
+    makeDoc({ t: 'list', u: 'paris/restaurants/', n: 'Restaurants & cafés in Paris', s: '', names: ['Paris'], keywords: ['cafés'], empty: true }),
+    makeDoc({ t: 'pick', u: 'vancouver/restaurants/revolver/', n: 'Revolver', s: '', names: ['Revolver'], keywords: ['café'], r: 24 }),
+  ];
+  assert.equal(search(idx, 'cafe')[0]!.doc.u, 'vancouver/restaurants/revolver/');
+});
+
 test('nothing matches nonsense, and empty queries return nothing', () => {
   assert.deepEqual(top('zzzzqx'), []);
   assert.deepEqual(top('   '), []);
