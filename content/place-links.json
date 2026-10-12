@@ -1,121 +1,597 @@
 {
-  "vancouver/hotels/wedgewood-hotel-and-spa": {"website": "https://www.wedgewoodhotel.com/", "wikipedia": null, "instagram": "https://www.instagram.com/wedgewoodhotel/"},
-  "vancouver/hotels/loden-hotel": {"website": "https://www.theloden.com/", "wikipedia": null, "instagram": "https://www.instagram.com/lodenhotel/"},
-  "vancouver/hotels/lhermitage-hotel": {"website": "https://www.lhermitagevancouver.com/", "wikipedia": null, "instagram": "https://www.instagram.com/lhermitagehotelvancouver/"},
-  "vancouver/hotels/the-burrard": {"website": "https://www.theburrard.com/", "wikipedia": null, "instagram": "https://www.instagram.com/theburrard/"},
-  "vancouver/hotels/skwachays-lodge": {"website": "https://skwachays.com/", "wikipedia": "https://en.wikipedia.org/wiki/Skwach%C3%A0ys_Lodge", "instagram": null},
-  "vancouver/hotels/pan-pacific-vancouver": {"website": "https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html", "wikipedia": "https://en.wikipedia.org/wiki/Pan_Pacific_Vancouver_Hotel", "instagram": "https://www.instagram.com/panpacificvancouver/"},
-  "vancouver/restaurants/annalena": {"website": "https://annalena.ca", "wikipedia": "https://en.wikipedia.org/wiki/AnnaLena_(restaurant)", "instagram": "https://www.instagram.com/annalenayvr/"},
-  "vancouver/restaurants/sumibiyaki-arashi": {"website": "https://sumibiyakiarashi.com/", "wikipedia": "https://en.wikipedia.org/wiki/Sumibiyaki_Arashi", "instagram": "https://www.instagram.com/sumibiyaki_arashi/"},
-  "vancouver/restaurants/st-lawrence": {"website": "https://www.stlawrencerestaurant.com/", "wikipedia": "https://en.wikipedia.org/wiki/St._Lawrence_(restaurant)", "instagram": "https://www.instagram.com/stlawrencerestaurant/"},
-  "vancouver/restaurants/published-on-main": {"website": "https://www.publishedonmain.com/", "wikipedia": "https://en.wikipedia.org/wiki/Published_on_Main", "instagram": null},
-  "vancouver/restaurants/labattoir": {"website": "https://labattoir.ca", "wikipedia": null, "instagram": "https://www.instagram.com/labattoir_van/"},
-  "vancouver/restaurants/kavita": {"website": "https://restaurantkavita.com", "wikipedia": null, "instagram": "https://www.instagram.com/restaurant.kavita/"},
-  "vancouver/restaurants/elem": {"website": "https://elemvancouver.com", "wikipedia": null, "instagram": "https://www.instagram.com/elemvancouver/"},
-  "vancouver/restaurants/zarak": {"website": "https://zarakvancouver.com", "wikipedia": null, "instagram": "https://www.instagram.com/zarakvancouver/"},
-  "vancouver/restaurants/delara": {"website": "https://delararestaurant.ca", "wikipedia": null, "instagram": "https://www.instagram.com/delararestaurant/"},
-  "vancouver/restaurants/osteria-savio-volpe": {"website": "https://saviovolpe.com", "wikipedia": null, "instagram": null},
-  "vancouver/restaurants/nightingale": {"website": "https://www.hawknightingale.com/", "wikipedia": null, "instagram": "https://www.instagram.com/nightingalerest/"},
-  "vancouver/restaurants/dynasty-seafood-restaurant": {"website": "https://dynasty-restaurant.ca/", "wikipedia": null, "instagram": null},
-  "vancouver/restaurants/vijs": {"website": "https://vijs.ca", "wikipedia": "https://en.wikipedia.org/wiki/Vij%27s", "instagram": "https://www.instagram.com/vijsrestaurant/"},
-  "vancouver/restaurants/sushi-hil": {"website": "https://sushihil.com", "wikipedia": "https://en.wikipedia.org/wiki/Sushi_Hil", "instagram": null},
-  "vancouver/restaurants/phnom-penh": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Phnom_Penh_(restaurant)", "instagram": null},
-  "vancouver/restaurants/fat-mao-noodles": {"website": "https://fatmaonoodles.com", "wikipedia": null, "instagram": null},
-  "vancouver/restaurants/chefs-choice-chinese-cuisine": {"website": "https://chefschoice955.ca/", "wikipedia": null, "instagram": null},
-  "vancouver/restaurants/beaucoup-bakery": {"website": "https://beaucoupbakery.com", "wikipedia": null, "instagram": null},
-  "vancouver/restaurants/their-there": {"website": "https://www.theirthere.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/theirthereyvr/"},
-  "vancouver/restaurants/timbertrain-coffee-roasters": {"website": "https://www.timbertrain.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/timbertrain/"},
-  "vancouver/restaurants/revolver": {"website": "https://revolvercoffee.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/revolvercoffee/"},
-  "vancouver/restaurants/good-thief": {"website": "https://www.goodthief.ca/", "wikipedia": "https://en.wikipedia.org/wiki/Good_Thief_(restaurant)", "instagram": "https://www.instagram.com/goodthief.ca/"},
-  "vancouver/restaurants/nero-tondo": {"website": "https://nerotondo.com/", "wikipedia": null, "instagram": "https://www.instagram.com/nerotondoyvr/"},
-  "vancouver/restaurants/garys": {"website": "https://www.garysrestaurant.ca/", "wikipedia": null, "instagram": null},
-  "vancouver/restaurants/magari-by-oca": {"website": "https://magari-o.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/magari_by_oca/"},
-  "vancouver/restaurants/masayoshi": {"website": "https://www.masayoshi.ca/", "wikipedia": "https://en.wikipedia.org/wiki/Masayoshi_(restaurant)", "instagram": "https://www.instagram.com/masayoshisushi/"},
-  "vancouver/things-to-do/vancouver-seawall": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Seawall_(Vancouver)", "instagram": null},
-  "vancouver/things-to-do/bill-reid-gallery-of-northwest-coast-art": {"website": "https://www.billreidgallery.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/billreidgallery/"},
-  "vancouver/things-to-do/chinatown": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Chinatown,_Vancouver", "instagram": null},
-  "vancouver/things-to-do/english-bay-beach": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/English_Bay,_Vancouver", "instagram": null},
-  "vancouver/things-to-do/commercial-drive": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Commercial_Drive_(Vancouver)", "instagram": null},
-  "vancouver/things-to-do/main-street-mount-pleasant": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Main_Street_(Vancouver)", "instagram": null},
-  "vancouver/things-to-do/museum-of-vancouver": {"website": "https://museumofvancouver.ca", "wikipedia": "https://en.wikipedia.org/wiki/Museum_of_Vancouver", "instagram": "https://www.instagram.com/museumofvan/"},
-  "new-york/hotels/hotel-barriere-fouquets-new-york": {"website": "https://www.hotelsbarriere.com/en/new-york/le-fouquets.html", "wikipedia": null, "instagram": null},
-  "new-york/hotels/nine-orchard": {"website": "https://www.nineorchard.com/", "wikipedia": null, "instagram": "https://www.instagram.com/nineorchard/"},
-  "new-york/hotels/pendry-manhattan-west": {"website": "https://www.pendry.com/manhattan-west/", "wikipedia": null, "instagram": "https://www.instagram.com/pendrymanhattanwest/"},
-  "new-york/hotels/waldorf-astoria-new-york": {"website": "https://www.hilton.com/en/hotels/nycwawa-waldorf-astoria-new-york/", "wikipedia": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York", "instagram": "https://www.instagram.com/waldorfnyc/"},
-  "new-york/hotels/the-lowell": {"website": "https://www.lowellhotel.com/", "wikipedia": "https://en.wikipedia.org/wiki/Lowell_Hotel", "instagram": "https://www.instagram.com/thelowellhotel/"},
-  "new-york/hotels/the-ritz-carlton-new-york-nomad": {"website": "https://www.ritzcarlton.com/en/hotels/nycro-the-ritz-carlton-new-york-nomad/overview/", "wikipedia": null, "instagram": "https://www.instagram.com/ritzcarltonnewyorknomad/"},
-  "new-york/hotels/the-bowery-hotel": {"website": "https://www.theboweryhotel.com/", "wikipedia": "https://en.wikipedia.org/wiki/The_Bowery_Hotel", "instagram": "https://www.instagram.com/boweryhotel/"},
-  "new-york/hotels/the-hotel-chelsea": {"website": "https://hotelchelsea.com/", "wikipedia": "https://en.wikipedia.org/wiki/Hotel_Chelsea", "instagram": "https://www.instagram.com/hotelchelsea/"},
-  "new-york/hotels/the-twenty-two-new-york": {"website": "https://www.thetwentytwo.com/", "wikipedia": null, "instagram": "https://www.instagram.com/thetwentytwo/"},
-  "new-york/hotels/the-ludlow-hotel": {"website": "https://www.ludlowhotel.com/", "wikipedia": null, "instagram": "https://www.instagram.com/ludlowhotelnyc/"},
-  "new-york/hotels/the-rockaway-hotel": {"website": "https://www.therockawayhotel.com/", "wikipedia": null, "instagram": "https://www.instagram.com/therockawayhotel/"},
-  "new-york/hotels/radio-hotel": {"website": "https://www.theradiohotel.com/", "wikipedia": null, "instagram": "https://www.instagram.com/radiohotelnyc/"},
-  "new-york/hotels/the-surrey-a-corinthia-hotel": {"website": "https://www.thesurrey.com/", "wikipedia": null, "instagram": null},
-  "new-york/restaurants/semma": {"website": "https://www.semma.nyc/", "wikipedia": "https://en.wikipedia.org/wiki/Semma_(restaurant)", "instagram": "https://www.instagram.com/semmanyc/"},
-  "new-york/restaurants/tatiana-by-kwame-onwuachi": {"website": "https://www.tatiananyc.com/", "wikipedia": "https://en.wikipedia.org/wiki/Tatiana_by_Kwame_Onwuachi", "instagram": "https://www.instagram.com/tatianabychefkwame/"},
-  "new-york/restaurants/jean-georges": {"website": "https://www.jean-georgesrestaurant.com/", "wikipedia": "https://en.wikipedia.org/wiki/Jean-Georges", "instagram": "https://www.instagram.com/jean_georgesnyc/"},
-  "new-york/restaurants/the-four-horsemen": {"website": "https://www.fourhorsemenbk.com/", "wikipedia": "https://en.wikipedia.org/wiki/The_Four_Horsemen_(restaurant)", "instagram": "https://www.instagram.com/fourhorsemenbk/"},
-  "new-york/restaurants/le-veau-dor": {"website": "https://www.lvdnyc.com/", "wikipedia": "https://en.wikipedia.org/wiki/Le_Veau_d%27Or", "instagram": "https://www.instagram.com/leveaudor/"},
-  "new-york/restaurants/sailor": {"website": "https://www.sailor.nyc/", "wikipedia": "https://en.wikipedia.org/wiki/Sailor_(restaurant)", "instagram": "https://www.instagram.com/sailor_nyc/"},
-  "new-york/restaurants/thai-diner": {"website": "https://www.thaidiner.com/", "wikipedia": null, "instagram": "https://www.instagram.com/thaidiner/"},
-  "new-york/restaurants/cervos": {"website": "https://www.cervosnyc.com/", "wikipedia": null, "instagram": "https://www.instagram.com/cervosnyc/"},
-  "new-york/restaurants/cho-dang-gol": {"website": "https://chodanggolnyc.com/", "wikipedia": null, "instagram": null},
-  "new-york/restaurants/banh-anh-em": {"website": "https://www.banhanhem.com/", "wikipedia": null, "instagram": "https://www.instagram.com/banh.anhem/"},
-  "new-york/restaurants/carnitas-ramirez": {"website": "https://www.carnitasramirez.com/", "wikipedia": null, "instagram": "https://www.instagram.com/carnitasramireznyc/"},
-  "new-york/restaurants/la-pirana-lechonera": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/La_Pira%C3%B1a_Lechonera", "instagram": null},
-  "new-york/restaurants/tanoreen": {"website": "https://www.tanoreen.com/", "wikipedia": null, "instagram": "https://www.instagram.com/tanoreen/"},
-  "new-york/restaurants/zaab-zaab": {"website": "https://zaabzaabnyc.com/", "wikipedia": "https://en.wikipedia.org/wiki/Zaab_Zaab", "instagram": "https://www.instagram.com/zaabzaabnyc/"},
-  "new-york/restaurants/lucali": {"website": "https://www.lucali.com/", "wikipedia": "https://en.wikipedia.org/wiki/Lucali", "instagram": null},
-  "new-york/restaurants/l-and-b-spumoni-gardens": {"website": "https://www.spumonigardens.com/", "wikipedia": "https://en.wikipedia.org/wiki/L%26B_Spumoni_Gardens", "instagram": "https://www.instagram.com/lbspumonigardens/"},
-  "new-york/restaurants/joe-and-pats": {"website": "https://www.joeandpatsny.com/", "wikipedia": null, "instagram": "https://www.instagram.com/joeandpats/"},
-  "new-york/restaurants/mamas-too": {"website": "https://www.mamastoo.com/", "wikipedia": null, "instagram": "https://www.instagram.com/mamas_too/"},
-  "new-york/restaurants/radio-bakery": {"website": "https://www.radiobakery.nyc/", "wikipedia": null, "instagram": "https://www.instagram.com/radiobakerynyc/"},
-  "new-york/restaurants/dollys": {"website": "https://www.dollysnyc.com/", "wikipedia": null, "instagram": "https://www.instagram.com/dollyscoffeeshop/"},
-  "new-york/restaurants/venieros-pasticceria-and-caffe": {"website": "https://venierospastry.com/", "wikipedia": "https://en.wikipedia.org/wiki/Veniero%27s", "instagram": null},
-  "new-york/things-to-do/9-11-memorial-and-museum": {"website": "https://www.911memorial.org/", "wikipedia": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum", "instagram": "https://www.instagram.com/911memorial/"},
-  "new-york/things-to-do/intrepid-museum": {"website": "https://www.intrepidmuseum.org/", "wikipedia": "https://en.wikipedia.org/wiki/Intrepid_Museum", "instagram": "https://www.instagram.com/intrepidmuseum/"},
-  "new-york/things-to-do/moma-ps1": {"website": "https://www.momaps1.org/", "wikipedia": "https://en.wikipedia.org/wiki/MoMA_PS1", "instagram": "https://www.instagram.com/momaps1/"},
-  "new-york/things-to-do/little-island": {"website": "https://littleisland.org/", "wikipedia": "https://en.wikipedia.org/wiki/Little_Island_(New_York_City)", "instagram": "https://www.instagram.com/littleislandnyc/"},
-  "toronto/hotels/the-hazelton-hotel": {"website": "https://www.thehazeltonhotel.com/", "wikipedia": null, "instagram": "https://www.instagram.com/hazeltonto/"},
-  "toronto/hotels/shangri-la-hotel-toronto": {"website": "https://www.shangri-la.com/toronto/", "wikipedia": "https://en.wikipedia.org/wiki/Shangri-La_Toronto", "instagram": null},
-  "toronto/hotels/the-ritz-carlton-toronto": {"website": "https://www.ritzcarlton.com/en/hotels/yyzrz-the-ritz-carlton-toronto/overview/", "wikipedia": "https://en.wikipedia.org/wiki/Ritz-Carlton_Toronto", "instagram": "https://www.instagram.com/ritzcarltontoronto/"},
-  "toronto/hotels/the-st-regis-toronto": {"website": "https://www.marriott.com/en-us/hotels/yyzxr-the-st-regis-toronto/overview/", "wikipedia": "https://en.wikipedia.org/wiki/The_St._Regis_Toronto", "instagram": "https://www.instagram.com/stregistoronto/"},
-  "toronto/hotels/1-hotel-toronto": {"website": "https://www.1hotels.com/toronto", "wikipedia": null, "instagram": "https://www.instagram.com/1hotel.toronto/"},
-  "toronto/hotels/ace-hotel-toronto": {"website": "https://acehotel.com/toronto/", "wikipedia": null, "instagram": "https://www.instagram.com/acehoteltoronto/"},
-  "toronto/hotels/bisha-hotel-toronto": {"website": "https://www.marriott.com/en-us/hotels/yyzld-bisha-a-luxury-collection-hotel-toronto/overview/", "wikipedia": null, "instagram": "https://www.instagram.com/bishatoronto/"},
-  "toronto/hotels/the-anndore-house": {"website": "https://www.anndorehouse.com/", "wikipedia": null, "instagram": "https://www.instagram.com/theanndorehouse/"},
-  "toronto/hotels/w-toronto": {"website": "https://www.marriott.com/en-us/hotels/yyzwh-w-toronto/overview/", "wikipedia": null, "instagram": "https://www.instagram.com/wtoronto/"},
-  "toronto/hotels/nobu-hotel-toronto": {"website": "https://www.nobuhotels.com/toronto/", "wikipedia": null, "instagram": "https://www.instagram.com/nobutoronto/"},
-  "toronto/hotels/le-germain-hotel-maple-leaf-square": {"website": "https://www.germainhotels.com/en/le-germain-hotel/toronto-maple-leaf-square", "wikipedia": null, "instagram": null},
-  "toronto/hotels/le-germain-hotel-toronto-mercer": {"website": "https://www.germainhotels.com/en/le-germain-hotel/toronto-mercer", "wikipedia": null, "instagram": null},
-  "toronto/restaurants/alo": {"website": "https://alorestaurant.com/", "wikipedia": "https://en.wikipedia.org/wiki/Alo_(restaurant)", "instagram": "https://www.instagram.com/alorestaurant/"},
-  "toronto/restaurants/quetzal": {"website": "https://quetzaltoronto.com/", "wikipedia": "https://en.wikipedia.org/wiki/Quetzal_(restaurant)", "instagram": "https://www.instagram.com/quetzaltoronto/"},
-  "toronto/restaurants/akin": {"website": "https://www.akintoronto.com/", "wikipedia": "https://en.wikipedia.org/wiki/AKin_(restaurant)", "instagram": null},
-  "toronto/restaurants/restaurant-20-victoria": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Restaurant_20_Victoria", "instagram": null},
-  "toronto/restaurants/sunnys-chinese": {"website": "https://www.sunnyschinese.com/", "wikipedia": "https://en.wikipedia.org/wiki/Sunnys_Chinese", "instagram": "https://www.instagram.com/sunnyschinese/"},
-  "toronto/restaurants/the-lunch-lady": {"website": "https://thelunchlady.com/", "wikipedia": null, "instagram": null},
-  "toronto/restaurants/favorites-thai": {"website": "https://www.myfavethai.com/", "wikipedia": "https://en.wikipedia.org/wiki/Favorites_Thai", "instagram": null},
-  "toronto/restaurants/blackbird-baking-co": {"website": "https://blackbirdbakingco.com/", "wikipedia": null, "instagram": null},
-  "toronto/restaurants/emmer": {"website": "https://www.emmertoronto.ca/", "wikipedia": null, "instagram": null},
-  "toronto/restaurants/bar-raval": {"website": "https://www.thisisbarraval.com/", "wikipedia": "https://en.wikipedia.org/wiki/Bar_Raval", "instagram": null},
-  "toronto/restaurants/golden-horseshoe-barbecue": {"website": "https://goldenhorseshoebbq.com/", "wikipedia": null, "instagram": null},
-  "toronto/restaurants/som-tum-jinda": {"website": "https://somtumjinda.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/somtumjinda/"},
-  "toronto/restaurants/mhel": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Mhel", "instagram": null},
-  "toronto/restaurants/takja-bbq-house": {"website": "https://www.takja.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/takja_bbq/"},
-  "toronto/restaurants/casa-paco": {"website": "https://www.casapaco.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/casapaco_to/"},
-  "toronto/restaurants/bar-eugenie": {"website": "https://www.bareugenie.com/", "wikipedia": null, "instagram": "https://www.instagram.com/bar.eugenie/"},
-  "toronto/restaurants/bbs": {"website": "https://www.bbs.restaurant/", "wikipedia": "https://en.wikipedia.org/wiki/BB%27s_(restaurant)", "instagram": null},
-  "toronto/restaurants/sam-james-coffee-bar": {"website": "https://www.samjamescoffeebar.com/", "wikipedia": null, "instagram": "https://www.instagram.com/samjamescoffeebar/"},
-  "toronto/restaurants/forno-cultura": {"website": "https://www.fornocultura.com/", "wikipedia": null, "instagram": null},
-  "toronto/restaurants/harbord-bakery": {"website": "https://www.harbordbakery.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/harbordbakeryto/"},
-  "toronto/restaurants/danico": {"website": "https://www.danicotoronto.com/", "wikipedia": "https://en.wikipedia.org/wiki/DaNico", "instagram": null},
-  "toronto/restaurants/kappo-sato": {"website": "https://kapposato.com/", "wikipedia": "https://en.wikipedia.org/wiki/Kappo_Sato", "instagram": "https://www.instagram.com/kapposato/"},
-  "toronto/restaurants/sushi-masaki-saito": {"website": "https://www.masakisaito.ca/", "wikipedia": "https://en.wikipedia.org/wiki/Sushi_Masaki_Saito", "instagram": "https://www.instagram.com/sushimasakisaito/"},
-  "toronto/restaurants/sammarco": {"website": "https://sammarco.ca/", "wikipedia": null, "instagram": "https://www.instagram.com/sammarcosteak/"},
-  "toronto/restaurants/linnys": {"website": "https://linnysrestaurant.com/", "wikipedia": null, "instagram": null},
-  "toronto/things-to-do/toronto-island-park": {"website": "https://www.toronto.ca/explore-enjoy/toronto-island-ferries/things-to-do-on-toronto-island/", "wikipedia": "https://en.wikipedia.org/wiki/Toronto_Islands", "instagram": null},
-  "toronto/things-to-do/the-village-at-black-creek": {"website": "https://www.blackcreek.ca/", "wikipedia": "https://en.wikipedia.org/wiki/The_Village_at_Black_Creek", "instagram": "https://www.instagram.com/thevillageatblackcreek/"},
-  "toronto/things-to-do/museum-of-contemporary-art-toronto": {"website": "https://moca.ca/", "wikipedia": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Toronto_Canada", "instagram": "https://www.instagram.com/mocatoronto/"},
-  "toronto/things-to-do/chinatown": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Chinatown,_Toronto", "instagram": null},
-  "toronto/things-to-do/trillium-park-and-william-g-davis-trail": {"website": null, "wikipedia": "https://en.wikipedia.org/wiki/Trillium_Park", "instagram": null}
+  "vancouver/hotels/wedgewood-hotel-and-spa": {
+    "website": "https://www.wedgewoodhotel.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/wedgewoodhotel/"
+  },
+  "vancouver/hotels/loden-hotel": {
+    "website": "https://www.theloden.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/lodenhotel/"
+  },
+  "vancouver/hotels/lhermitage-hotel": {
+    "website": "https://www.lhermitagevancouver.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/lhermitagehotelvancouver/"
+  },
+  "vancouver/hotels/the-burrard": {
+    "website": "https://www.theburrard.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/theburrard/"
+  },
+  "vancouver/hotels/skwachays-lodge": {
+    "website": "https://skwachays.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Skwach%C3%A0ys_Lodge",
+    "instagram": null
+  },
+  "vancouver/hotels/pan-pacific-vancouver": {
+    "website": "https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pan_Pacific_Vancouver_Hotel",
+    "instagram": "https://www.instagram.com/panpacificvancouver/"
+  },
+  "vancouver/restaurants/annalena": {
+    "website": "https://annalena.ca",
+    "wikipedia": "https://en.wikipedia.org/wiki/AnnaLena_(restaurant)",
+    "instagram": "https://www.instagram.com/annalenayvr/"
+  },
+  "vancouver/restaurants/sumibiyaki-arashi": {
+    "website": "https://sumibiyakiarashi.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumibiyaki_Arashi",
+    "instagram": "https://www.instagram.com/sumibiyaki_arashi/"
+  },
+  "vancouver/restaurants/st-lawrence": {
+    "website": "https://www.stlawrencerestaurant.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/St._Lawrence_(restaurant)",
+    "instagram": "https://www.instagram.com/stlawrencerestaurant/"
+  },
+  "vancouver/restaurants/published-on-main": {
+    "website": "https://www.publishedonmain.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Published_on_Main",
+    "instagram": null
+  },
+  "vancouver/restaurants/labattoir": {
+    "website": "https://labattoir.ca",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/labattoir_van/"
+  },
+  "vancouver/restaurants/kavita": {
+    "website": "https://restaurantkavita.com",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/restaurant.kavita/"
+  },
+  "vancouver/restaurants/elem": {
+    "website": "https://elemvancouver.com",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/elemvancouver/"
+  },
+  "vancouver/restaurants/zarak": {
+    "website": "https://zarakvancouver.com",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/zarakvancouver/"
+  },
+  "vancouver/restaurants/delara": {
+    "website": "https://delararestaurant.ca",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/delararestaurant/"
+  },
+  "vancouver/restaurants/osteria-savio-volpe": {
+    "website": "https://saviovolpe.com",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "vancouver/restaurants/nightingale": {
+    "website": "https://www.hawknightingale.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/nightingalerest/"
+  },
+  "vancouver/restaurants/dynasty-seafood-restaurant": {
+    "website": "https://dynasty-restaurant.ca/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "vancouver/restaurants/vijs": {
+    "website": "https://vijs.ca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vij%27s",
+    "instagram": "https://www.instagram.com/vijsrestaurant/"
+  },
+  "vancouver/restaurants/sushi-hil": {
+    "website": "https://sushihil.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sushi_Hil",
+    "instagram": null
+  },
+  "vancouver/restaurants/phnom-penh": {
+    "website": "https://phnompenhrestaurant.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phnom_Penh_(restaurant)",
+    "instagram": null
+  },
+  "vancouver/restaurants/fat-mao-noodles": {
+    "website": "https://fatmaonoodles.com",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "vancouver/restaurants/chefs-choice-chinese-cuisine": {
+    "website": "https://chefschoice955.ca/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "vancouver/restaurants/beaucoup-bakery": {
+    "website": "https://beaucoupbakery.com",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "vancouver/restaurants/their-there": {
+    "website": "https://www.theirthere.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/theirthereyvr/"
+  },
+  "vancouver/restaurants/timbertrain-coffee-roasters": {
+    "website": "https://www.timbertrain.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/timbertrain/"
+  },
+  "vancouver/restaurants/revolver": {
+    "website": "https://revolvercoffee.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/revolvercoffee/"
+  },
+  "vancouver/restaurants/good-thief": {
+    "website": "https://www.goodthief.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Good_Thief_(restaurant)",
+    "instagram": "https://www.instagram.com/goodthief.ca/"
+  },
+  "vancouver/restaurants/nero-tondo": {
+    "website": "https://nerotondo.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/nerotondoyvr/"
+  },
+  "vancouver/restaurants/garys": {
+    "website": "https://www.garysrestaurant.ca/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "vancouver/restaurants/magari-by-oca": {
+    "website": "https://magari-o.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/magari_by_oca/"
+  },
+  "vancouver/restaurants/masayoshi": {
+    "website": "https://www.masayoshi.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Masayoshi_(restaurant)",
+    "instagram": "https://www.instagram.com/masayoshisushi/"
+  },
+  "vancouver/things-to-do/vancouver-seawall": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Seawall_(Vancouver)",
+    "instagram": null
+  },
+  "vancouver/things-to-do/bill-reid-gallery-of-northwest-coast-art": {
+    "website": "https://www.billreidgallery.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/billreidgallery/"
+  },
+  "vancouver/things-to-do/chinatown": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinatown,_Vancouver",
+    "instagram": null
+  },
+  "vancouver/things-to-do/english-bay-beach": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/English_Bay,_Vancouver",
+    "instagram": null
+  },
+  "vancouver/things-to-do/commercial-drive": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Commercial_Drive_(Vancouver)",
+    "instagram": null
+  },
+  "vancouver/things-to-do/main-street-mount-pleasant": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Main_Street_(Vancouver)",
+    "instagram": null
+  },
+  "vancouver/things-to-do/museum-of-vancouver": {
+    "website": "https://museumofvancouver.ca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Museum_of_Vancouver",
+    "instagram": "https://www.instagram.com/museumofvan/"
+  },
+  "new-york/hotels/hotel-barriere-fouquets-new-york": {
+    "website": "https://www.hotelsbarriere.com/en/new-york/le-fouquets.html",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "new-york/hotels/nine-orchard": {
+    "website": "https://www.nineorchard.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/nineorchard/"
+  },
+  "new-york/hotels/pendry-manhattan-west": {
+    "website": "https://www.pendry.com/manhattan-west/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/pendrymanhattanwest/"
+  },
+  "new-york/hotels/waldorf-astoria-new-york": {
+    "website": "https://www.hilton.com/en/hotels/nycwawa-waldorf-astoria-new-york/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Waldorf_Astoria_New_York",
+    "instagram": "https://www.instagram.com/waldorfnyc/"
+  },
+  "new-york/hotels/the-lowell": {
+    "website": "https://www.lowellhotel.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lowell_Hotel",
+    "instagram": "https://www.instagram.com/thelowellhotel/"
+  },
+  "new-york/hotels/the-ritz-carlton-new-york-nomad": {
+    "website": "https://www.ritzcarlton.com/en/hotels/nycro-the-ritz-carlton-new-york-nomad/overview/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/ritzcarltonnewyorknomad/"
+  },
+  "new-york/hotels/the-bowery-hotel": {
+    "website": "https://www.theboweryhotel.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Bowery_Hotel",
+    "instagram": "https://www.instagram.com/boweryhotel/"
+  },
+  "new-york/hotels/the-hotel-chelsea": {
+    "website": "https://hotelchelsea.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hotel_Chelsea",
+    "instagram": "https://www.instagram.com/hotelchelsea/"
+  },
+  "new-york/hotels/the-twenty-two-new-york": {
+    "website": "https://www.thetwentytwo.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/thetwentytwo/"
+  },
+  "new-york/hotels/the-ludlow-hotel": {
+    "website": "https://www.ludlowhotel.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/ludlowhotelnyc/"
+  },
+  "new-york/hotels/the-rockaway-hotel": {
+    "website": "https://www.therockawayhotel.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/therockawayhotel/"
+  },
+  "new-york/hotels/radio-hotel": {
+    "website": "https://www.theradiohotel.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/radiohotelnyc/"
+  },
+  "new-york/hotels/the-surrey-a-corinthia-hotel": {
+    "website": "https://www.corinthia.com/new-york/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "new-york/restaurants/semma": {
+    "website": "https://www.semma.nyc/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Semma_(restaurant)",
+    "instagram": "https://www.instagram.com/semmanyc/"
+  },
+  "new-york/restaurants/tatiana-by-kwame-onwuachi": {
+    "website": "https://www.tatiananyc.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatiana_by_Kwame_Onwuachi",
+    "instagram": "https://www.instagram.com/tatianabychefkwame/"
+  },
+  "new-york/restaurants/jean-georges": {
+    "website": "https://www.jean-georgesrestaurant.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Georges",
+    "instagram": "https://www.instagram.com/jean_georgesnyc/"
+  },
+  "new-york/restaurants/the-four-horsemen": {
+    "website": "https://www.fourhorsemenbk.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Four_Horsemen_(restaurant)",
+    "instagram": "https://www.instagram.com/fourhorsemenbk/"
+  },
+  "new-york/restaurants/le-veau-dor": {
+    "website": "https://www.lvdnyc.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Le_Veau_d%27Or",
+    "instagram": "https://www.instagram.com/leveaudor/"
+  },
+  "new-york/restaurants/sailor": {
+    "website": "https://www.sailor.nyc/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sailor_(restaurant)",
+    "instagram": "https://www.instagram.com/sailor_nyc/"
+  },
+  "new-york/restaurants/thai-diner": {
+    "website": "https://www.thaidiner.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/thaidiner/"
+  },
+  "new-york/restaurants/cervos": {
+    "website": "https://www.cervosnyc.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/cervosnyc/"
+  },
+  "new-york/restaurants/cho-dang-gol": {
+    "website": "https://chodanggolnyc.com/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "new-york/restaurants/banh-anh-em": {
+    "website": "https://www.banhanhem.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/banh.anhem/"
+  },
+  "new-york/restaurants/carnitas-ramirez": {
+    "website": "https://www.carnitasramirez.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/carnitasramireznyc/"
+  },
+  "new-york/restaurants/la-pirana-lechonera": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/La_Pira%C3%B1a_Lechonera",
+    "instagram": null
+  },
+  "new-york/restaurants/tanoreen": {
+    "website": "https://www.tanoreen.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/tanoreen/"
+  },
+  "new-york/restaurants/zaab-zaab": {
+    "website": "https://zaabzaabnyc.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zaab_Zaab",
+    "instagram": "https://www.instagram.com/zaabzaabnyc/"
+  },
+  "new-york/restaurants/lucali": {
+    "website": "https://www.lucali.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucali",
+    "instagram": null
+  },
+  "new-york/restaurants/l-and-b-spumoni-gardens": {
+    "website": "https://www.spumonigardens.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%26B_Spumoni_Gardens",
+    "instagram": "https://www.instagram.com/lbspumonigardens/"
+  },
+  "new-york/restaurants/joe-and-pats": {
+    "website": "https://www.joeandpatsny.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/joeandpats/"
+  },
+  "new-york/restaurants/mamas-too": {
+    "website": "https://www.mamastoo.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/mamas_too/"
+  },
+  "new-york/restaurants/radio-bakery": {
+    "website": "https://www.radiobakery.nyc/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/radiobakerynyc/"
+  },
+  "new-york/restaurants/dollys": {
+    "website": "https://www.dollysnyc.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/dollyscoffeeshop/"
+  },
+  "new-york/restaurants/venieros-pasticceria-and-caffe": {
+    "website": "https://venierospastry.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Veniero%27s",
+    "instagram": null
+  },
+  "new-york/things-to-do/9-11-memorial-and-museum": {
+    "website": "https://www.911memorial.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum",
+    "instagram": "https://www.instagram.com/911memorial/"
+  },
+  "new-york/things-to-do/intrepid-museum": {
+    "website": "https://www.intrepidmuseum.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Intrepid_Museum",
+    "instagram": "https://www.instagram.com/intrepidmuseum/"
+  },
+  "new-york/things-to-do/moma-ps1": {
+    "website": "https://www.momaps1.org/en",
+    "wikipedia": "https://en.wikipedia.org/wiki/MoMA_PS1",
+    "instagram": "https://www.instagram.com/momaps1/"
+  },
+  "new-york/things-to-do/little-island": {
+    "website": "https://littleisland.org/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_Island_(New_York_City)",
+    "instagram": "https://www.instagram.com/littleislandnyc/"
+  },
+  "toronto/hotels/the-hazelton-hotel": {
+    "website": "https://www.thehazeltonhotel.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/hazeltonto/"
+  },
+  "toronto/hotels/shangri-la-hotel-toronto": {
+    "website": "https://www.shangri-la.com/toronto/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shangri-La_Toronto",
+    "instagram": null
+  },
+  "toronto/hotels/the-ritz-carlton-toronto": {
+    "website": "https://www.ritzcarlton.com/en/hotels/yyzrz-the-ritz-carlton-toronto/overview/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ritz-Carlton_Toronto",
+    "instagram": "https://www.instagram.com/ritzcarltontoronto/"
+  },
+  "toronto/hotels/the-st-regis-toronto": {
+    "website": "https://www.marriott.com/en-us/hotels/yyzxr-the-st-regis-toronto/overview/",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_St._Regis_Toronto",
+    "instagram": "https://www.instagram.com/stregistoronto/"
+  },
+  "toronto/hotels/1-hotel-toronto": {
+    "website": "https://www.1hotels.com/toronto",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/1hotel.toronto/"
+  },
+  "toronto/hotels/ace-hotel-toronto": {
+    "website": "https://acehotel.com/toronto/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/acehoteltoronto/"
+  },
+  "toronto/hotels/bisha-hotel-toronto": {
+    "website": "https://www.marriott.com/en-us/hotels/yyzld-bisha-a-luxury-collection-hotel-toronto/overview/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/bishatoronto/"
+  },
+  "toronto/hotels/the-anndore-house": {
+    "website": "https://www.hyatt.com/jdv-by-hyatt/en-US/yyzjd-the-anndore-house",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/theanndorehouse/"
+  },
+  "toronto/hotels/w-toronto": {
+    "website": "https://www.marriott.com/en-us/hotels/yyzwh-w-toronto/overview/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/wtoronto/"
+  },
+  "toronto/hotels/nobu-hotel-toronto": {
+    "website": "https://www.nobuhotels.com/toronto/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/nobutoronto/"
+  },
+  "toronto/hotels/le-germain-hotel-maple-leaf-square": {
+    "website": "https://www.germainhotels.com/en/le-germain-hotel/toronto-maple-leaf-square",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/hotels/le-germain-hotel-toronto-mercer": {
+    "website": "https://www.germainhotels.com/en/le-germain-hotel/toronto-mercer",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/restaurants/alo": {
+    "website": "https://alorestaurant.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alo_(restaurant)",
+    "instagram": "https://www.instagram.com/alorestaurant/"
+  },
+  "toronto/restaurants/quetzal": {
+    "website": "https://quetzaltoronto.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quetzal_(restaurant)",
+    "instagram": "https://www.instagram.com/quetzaltoronto/"
+  },
+  "toronto/restaurants/akin": {
+    "website": "https://www.akintoronto.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/AKin_(restaurant)",
+    "instagram": null
+  },
+  "toronto/restaurants/restaurant-20-victoria": {
+    "website": "https://www.20victoria.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Restaurant_20_Victoria",
+    "instagram": null
+  },
+  "toronto/restaurants/sunnys-chinese": {
+    "website": "https://www.sunnyschinese.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunnys_Chinese",
+    "instagram": "https://www.instagram.com/sunnyschinese/"
+  },
+  "toronto/restaurants/the-lunch-lady": {
+    "website": "https://thelunchlady.com/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/restaurants/favorites-thai": {
+    "website": "https://www.myfavethai.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Favorites_Thai",
+    "instagram": null
+  },
+  "toronto/restaurants/blackbird-baking-co": {
+    "website": "https://blackbirdbakingco.com/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/restaurants/emmer": {
+    "website": "https://www.emmertoronto.ca/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/restaurants/bar-raval": {
+    "website": "https://www.thisisbarraval.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bar_Raval",
+    "instagram": null
+  },
+  "toronto/restaurants/golden-horseshoe-barbecue": {
+    "website": "https://goldenhorseshoebbq.com/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/restaurants/som-tum-jinda": {
+    "website": "https://somtumjinda.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/somtumjinda/"
+  },
+  "toronto/restaurants/mhel": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Mhel",
+    "instagram": null
+  },
+  "toronto/restaurants/takja-bbq-house": {
+    "website": "https://www.takja.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/takja_bbq/"
+  },
+  "toronto/restaurants/casa-paco": {
+    "website": "https://www.casapaco.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/casapaco_to/"
+  },
+  "toronto/restaurants/bar-eugenie": {
+    "website": "https://www.bareugenie.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/bar.eugenie/"
+  },
+  "toronto/restaurants/bbs": {
+    "website": "https://www.bbs.restaurant/",
+    "wikipedia": "https://en.wikipedia.org/wiki/BB%27s_(restaurant)",
+    "instagram": null
+  },
+  "toronto/restaurants/sam-james-coffee-bar": {
+    "website": "https://www.samjamescoffeebar.com/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/samjamescoffeebar/"
+  },
+  "toronto/restaurants/forno-cultura": {
+    "website": "https://www.fornocultura.com/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/restaurants/harbord-bakery": {
+    "website": "https://www.harbordbakery.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/harbordbakeryto/"
+  },
+  "toronto/restaurants/danico": {
+    "website": "https://www.danicotoronto.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/DaNico",
+    "instagram": null
+  },
+  "toronto/restaurants/kappo-sato": {
+    "website": "https://kapposato.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kappo_Sato",
+    "instagram": "https://www.instagram.com/kapposato/"
+  },
+  "toronto/restaurants/sushi-masaki-saito": {
+    "website": "https://www.masakisaito.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sushi_Masaki_Saito",
+    "instagram": "https://www.instagram.com/sushimasakisaito/"
+  },
+  "toronto/restaurants/sammarco": {
+    "website": "https://sammarco.ca/",
+    "wikipedia": null,
+    "instagram": "https://www.instagram.com/sammarcosteak/"
+  },
+  "toronto/restaurants/linnys": {
+    "website": "https://linnysrestaurant.com/",
+    "wikipedia": null,
+    "instagram": null
+  },
+  "toronto/things-to-do/toronto-island-park": {
+    "website": "https://www.toronto.ca/explore-enjoy/toronto-island-ferries/things-to-do-on-toronto-island/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toronto_Islands",
+    "instagram": null
+  },
+  "toronto/things-to-do/the-village-at-black-creek": {
+    "website": "https://www.blackcreek.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Village_at_Black_Creek",
+    "instagram": "https://www.instagram.com/thevillageatblackcreek/"
+  },
+  "toronto/things-to-do/museum-of-contemporary-art-toronto": {
+    "website": "https://moca.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art_Toronto_Canada",
+    "instagram": "https://www.instagram.com/mocatoronto/"
+  },
+  "toronto/things-to-do/chinatown": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chinatown,_Toronto",
+    "instagram": null
+  },
+  "toronto/things-to-do/trillium-park-and-william-g-davis-trail": {
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Trillium_Park",
+    "instagram": null
+  }
 }

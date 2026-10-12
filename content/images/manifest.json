@@ -72,7 +72,7 @@
     "height": 1068,
     "color": "#d8d8d8",
     "kind": "commons",
-    "credit": "라성민",
+    "credit": "\ub77c\uc131\ubbfc",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8D%95%EC%88%98%EA%B6%81%EC%9D%98_%EA%B0%80%EC%9D%84.jpg"
   },
@@ -560,17 +560,6 @@
     "license": null,
     "sourceUrl": "https://www.lucali.com/"
   },
-  "new-york/restaurants/sailor": {
-    "file": "new-york/restaurants/sailor-1600.webp",
-    "small": "new-york/restaurants/sailor-720.webp",
-    "width": 1600,
-    "height": 2451,
-    "color": "#6898d8",
-    "kind": "commons",
-    "credit": "User:Jim.henderson at English Wikipedia.",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soldiers_%26_Sailors_Monument_from_promenade_jeh.jpg"
-  },
   "new-york/restaurants/semma": {
     "file": "new-york/restaurants/semma-1600.webp",
     "small": "new-york/restaurants/semma-720.webp",
@@ -941,7 +930,7 @@
     "height": 830,
     "color": "#c8d8e8",
     "kind": "commons",
-    "credit": "Paweł Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
+    "credit": "Pawe\u0142 Drozd on Wiki Drozdpl cropped by Beyond My Ken (talk) 17:05, 27 December 2",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cloisters_Hudson_River_crop.jpg"
   },
@@ -1117,7 +1106,7 @@
     "height": 2397,
     "color": "#081818",
     "kind": "commons",
-    "credit": "Arild Vågen",
+    "credit": "Arild V\u00e5gen",
     "license": "CC BY-SA 4.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ritz-Carlton_Toronto_August_2017_01.jpg"
   },
@@ -1186,17 +1175,6 @@
     "credit": "thisisbarraval.com",
     "license": null,
     "sourceUrl": "https://www.thisisbarraval.com"
-  },
-  "toronto/restaurants/bbs": {
-    "file": "toronto/restaurants/bbs-1600.webp",
-    "small": "toronto/restaurants/bbs-720.webp",
-    "width": 1024,
-    "height": 768,
-    "color": "#080808",
-    "kind": "commons",
-    "credit": "Piedmontstyle (talk) (Uploads)",
-    "license": "CC BY 3.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BB_King_onstage_(Toronto,_2007).jpg"
   },
   "toronto/restaurants/blackbird-baking-co": {
     "file": "toronto/restaurants/blackbird-baking-co-1600.webp",
@@ -1836,17 +1814,6 @@
     "license": null,
     "sourceUrl": "https://anhandchi.com"
   },
-  "vancouver/restaurants/annalena": {
-    "file": "vancouver/restaurants/annalena-1600.webp",
-    "small": "vancouver/restaurants/annalena-720.webp",
-    "width": 1600,
-    "height": 2405,
-    "color": "#484848",
-    "kind": "commons",
-    "credit": "Foto-AG Gymnasium Melle",
-    "license": "CC BY 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baerbock,_Annalena-9957.jpg"
-  },
   "vancouver/restaurants/beaucoup-bakery": {
     "file": "vancouver/restaurants/beaucoup-bakery-1600.webp",
     "small": "vancouver/restaurants/beaucoup-bakery-720.webp",
@@ -1912,17 +1879,6 @@
     "credit": "fatmaonoodles.com",
     "license": null,
     "sourceUrl": "https://fatmaonoodles.com"
-  },
-  "vancouver/restaurants/garys": {
-    "file": "vancouver/restaurants/garys-1600.webp",
-    "small": "vancouver/restaurants/garys-720.webp",
-    "width": 519,
-    "height": 693,
-    "color": "#a89868",
-    "kind": "commons",
-    "credit": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:GarySmithVancouver.png"
   },
   "vancouver/restaurants/good-thief": {
     "file": "vancouver/restaurants/good-thief-1600.webp",
@@ -2000,17 +1956,6 @@
     "credit": "hawknightingale.com",
     "license": null,
     "sourceUrl": "https://www.hawknightingale.com/"
-  },
-  "vancouver/restaurants/phnom-penh": {
-    "file": "vancouver/restaurants/phnom-penh-1600.webp",
-    "small": "vancouver/restaurants/phnom-penh-720.webp",
-    "width": 1600,
-    "height": 1195,
-    "color": "#6898c8",
-    "kind": "commons",
-    "credit": "Marcin Konsek",
-    "license": "CC BY-SA 4.0",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Phnom_Penh,_Pa%C5%82ac_Kr%C3%B3lewski,_Preah_Tineang_Phhochani_(14).jpg"
   },
   "vancouver/restaurants/published-on-main": {
     "file": "vancouver/restaurants/published-on-main-1600.webp",

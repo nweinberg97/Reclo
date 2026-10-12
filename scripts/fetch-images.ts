@@ -56,6 +56,8 @@ interface Override {
   noCommons?: boolean;
   /** Skip the place's own website (its images aren't usable). */
   noWebsite?: boolean;
+  /** Image URLs from the place's own site to try first (found by research). */
+  try?: string[];
 }
 
 const manifestPath = join(outDir, 'manifest.json');
@@ -209,7 +211,7 @@ async function websiteCandidates(site: string): Promise<{ urls: string[]; credit
     }
     for (const m of html.matchAll(/background-image\s*:\s*url\(["']?([^"')]+)["']?\)/gi)) add(m[1]);
     const host = new URL(base).hostname.replace(/^www\./, '');
-    return { urls: found.slice(0, 12), credit: host, sourceUrl: site };
+    return { urls: found.slice(0, 25), credit: host, sourceUrl: site };
   } catch {
     return null;
   }
@@ -225,8 +227,12 @@ async function commonsSearch(name: string, cityName?: string): Promise<string | 
   ).catch(() => null);
   for (const r of data?.query?.search ?? []) {
     if (!/\.(jpe?g|png|webp)$/i.test(r.title)) continue;
-    const t = norm(r.title.replace(/^File:/, '').replace(/[_.-]/g, ' '));
-    if (words.every((w) => t.includes(w))) return r.title;
+    const t = ` ${norm(r.title.replace(/^File:/, '').replace(/[_.-]/g, ' '))} `;
+    // The whole name must appear as a phrase, and a one-word name also needs the city in the title,
+    // so "Annalena" can't match a politician or "Sailor" a war memorial.
+    const phrase = ` ${words.join(' ')} `;
+    const cityOk = cityName ? t.includes(` ${norm(cityName)} `) : false;
+    if (t.includes(phrase) && (cityOk || words.length >= 2)) return r.title;
   }
   return null;
 }
@@ -302,7 +308,7 @@ async function save(key: string, url: string, meta: Omit<ImageRecord, 'file' | '
     const buf = Buffer.from(await res.arrayBuffer());
     const img = sharp(buf, { failOn: 'none' }).rotate();
     const m = await img.metadata();
-    if (!m.width || !m.height || m.width < 480 || m.height < 300) {
+    if (!m.width || !m.height || m.width < 420 || m.height < 260) {
       review.push(`- skipped ${key}: image too small (${m.width}×${m.height})`);
       return null;
     }
@@ -310,7 +316,7 @@ async function save(key: string, url: string, meta: Omit<ImageRecord, 'file' | '
     const ratio = m.width / m.height;
     if (ratio > 3 || ratio < 0.5) return null;
     const stats = await sharp(buf).stats();
-    if (stats.channels.slice(0, 3).every((c) => c.mean < 28) || stats.channels.slice(0, 3).every((c) => c.mean > 235)) {
+    if (stats.channels.slice(0, 3).every((c) => c.mean < 16) || stats.channels.slice(0, 3).every((c) => c.mean > 235)) {
       review.push(`- skipped ${key}: almost entirely black or white`);
       return null;
     }
@@ -389,6 +395,14 @@ async function resolve(key: string, opts: { name: string; cityName?: string; cit
     if (rec) {
       manifest[key] = rec;
       review.push(`- ✓ ${key} ← override ${ov.use}`);
+      return;
+    }
+  }
+  for (const url of ov?.try ?? []) {
+    const rec = await save(key, url, { kind: 'website', credit: new URL(website ?? url).hostname.replace(/^www\./, ''), license: null, sourceUrl: website ?? url });
+    if (rec) {
+      manifest[key] = rec;
+      review.push(`- ✓ ${key} ← researched image ${url}`);
       return;
     }
   }

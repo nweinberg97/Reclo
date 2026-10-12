@@ -24,9 +24,118 @@
     "noCommons": true
   },
   "new-york/things-to-do/moma-ps1": {
-    "noCommons": true
+    "noCommons": true,
+    "try": [
+      "https://d1tcycker2ppj.cloudfront.net/output=f:jpg,q:60/resize=width:1200,fit:max/wHnvY0L6T7K5GESrKs0C",
+      "https://www.moma.org/assets/visit/entrance-image--ps1-crop-52dfa635f6ab863c9c2e08cc4a408514.jpg",
+      "https://d1tcycker2ppj.cloudfront.net/output=q:60/resize=width:1200,fit:max/BUlFe9aTQc2wJ6kXeUK1",
+      "https://www.filepicker.io/api/file/BUlFe9aTQc2wJ6kXeUK1"
+    ]
   },
   "toronto/restaurants/alo": {
     "noCommons": true
+  },
+  "new-york/restaurants/sailor": {
+    "noCommons": true,
+    "try": [
+      "https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/7772image3.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/65753image2.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/89563image1_1.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/91306image7.jpeg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5",
+      "https://images.getbento.com/accounts/5139d0a5c72252f412f37fccad767d87/media/images/75765unnamed-9.jpg?w=1200&fit=crop&auto=compress,format&cs=origin&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+    ]
+  },
+  "toronto/restaurants/bbs": {
+    "noCommons": true
+  },
+  "vancouver/restaurants/annalena": {
+    "noCommons": true
+  },
+  "vancouver/restaurants/phnom-penh": {
+    "noCommons": true
+  },
+  "vancouver/restaurants/garys": {
+    "noCommons": true,
+    "try": [
+      "http://static1.squarespace.com/static/63f2800b42f210029463f8b6/t/64c937156547bd521988a27e/1690908437423/Untitled+design+%281%29.png?format=1500w"
+    ]
+  },
+  "vancouver/hotels/lhermitage-hotel": {
+    "try": [
+      "https://image-tc.galaxy.tf/wijpeg-8zkhiythgc75ga9ebzdpkas60/lhermitage-hotel-lobby.jpg",
+      "https://image-tc.galaxy.tf/wijpeg-1j59eq2qeb1f8dzvk0iy57x3a/lhermitage-hotel-01-boutique-room-fireplace.jpg",
+      "https://image-tc.galaxy.tf/wijpeg-anbpjv1zoatuwwaa1hry2siew/lhermitage-hotel-l-orangerie.jpg",
+      "https://image-tc.galaxy.tf/wijpeg-9c2einuan7al9p0x10424ydia/lhermitage-hotel-patio-dining1.jpg",
+      "https://image-tc.galaxy.tf/wijpeg-e1ovbuv5eul86q6jxz5lnjwn5/lhermitage-hotel-05-2bedroom-living-room.jpg"
+    ]
+  },
+  "new-york/hotels/the-rockaway-hotel": {
+    "try": [
+      "https://symphony.cdn.tambourine.com/_fusion/rockaway-boutique-hotel/media/therockawayhotelspa-01-homepage-10-gallery-12-65f1e8f9ac03a.jpg",
+      "https://symphony.cdn.tambourine.com/_fusion/rockaway-boutique-hotel/media/therockawayhotelspa-01-homepage-10-gallery-05-65f1e8efe2fad.jpg",
+      "https://symphony.cdn.tambourine.com/_fusion/rockaway-boutique-hotel/media/therockawayhotelspa-01-homepage-10-gallery-03-65f1e8ecf3831.jpg",
+      "https://symphony.cdn.tambourine.com/_fusion/rockaway-boutique-hotel/media/therockawayhotelspa-01-homepage-10-gallery-09-65f1e8f5803ea.jpg",
+      "https://symphony.cdn.tambourine.com/_fusion/rockaway-boutique-hotel/media/therockawayhotelspa-01-homepage-10-gallery-07-65f1e8f2c38a4.jpg"
+    ]
+  },
+  "new-york/hotels/the-surrey-a-corinthia-hotel": {
+    "try": [
+      "https://www.corinthia.com/globalassets/hotel-new-york/images/discover-new-york/corinthia-new-york-building.jpg",
+      "https://www.corinthia.com/globalassets/hotel-new-york/images/exterior/corinthia_thesurrey_externalsignage_whatthefox-3393---landscape.jpg",
+      "https://www.corinthia.com/globalassets/hotel-new-york/images/interior/corinthia_thesurrey_lobby_whatthefox-0351.jpg",
+      "https://www.corinthia.com/globalassets/hotel-new-york/images/restaurants--bars/casa-tua/corinthia_thesurrey_casatua_restaurant_whatthefox-0636.jpg",
+      "https://www.corinthia.com/globalassets/hotel-new-york/images/rooms--suites/executive-room/corinthia_thesurrey_executiveking311_0414.jpg"
+    ]
+  },
+  "new-york/restaurants/radio-bakery": {
+    "try": [
+      "https://images.squarespace-cdn.com/content/v1/66995af72e8f160bd3a26b19/7fac6f68-3e65-4b2a-88f5-0924c318cfc1/RadioBakery_Underhill-109438.JPG",
+      "https://images.squarespace-cdn.com/content/v1/66995af72e8f160bd3a26b19/99845009-c78a-430b-b1b5-c640fb9eba6c/1Z2A3994.jpg",
+      "https://images.squarespace-cdn.com/content/v1/66995af72e8f160bd3a26b19/1779627334895-3ORVFJHR5HLM93SRA9H0/image-asset.jpeg",
+      "https://images.squarespace-cdn.com/content/v1/66995af72e8f160bd3a26b19/1779466503375-22HCQFID6D5L512ZPPYI/image-asset.jpeg"
+    ]
+  },
+  "toronto/hotels/the-hazelton-hotel": {
+    "try": [
+      "https://www.thehazeltonhotel.com/wp-content/uploads/2023/10/Hazelton-Hotel-Facade-1-Custom-1-scaled.jpg",
+      "https://www.thehazeltonhotel.com/wp-content/uploads/2025/09/HERO-SELECT-Hazelton-Hotel-scaled.jpg",
+      "https://www.thehazeltonhotel.com/wp-content/uploads/2018/11/Hotel_Slideshow-01.jpg",
+      "https://www.thehazeltonhotel.com/wp-content/uploads/2023/06/One-Restaurant-Dining-Room-scaled.jpg",
+      "https://www.thehazeltonhotel.com/wp-content/uploads/2018/10/Hazelton-Hotel-edit-11-scaled.jpg"
+    ]
+  },
+  "toronto/hotels/bisha-hotel-toronto": {
+    "try": [
+      "https://cache.marriott.com/is/image/marriotts7prod/lc-yyzld-rooftop-pool-42163:Wide-Hor?wid=1318&fit=constrain",
+      "https://cache.marriott.com/is/image/marriotts7prod/lc-yyzld-the-frank-20399:Wide-Hor?wid=1336&fit=constrain"
+    ]
+  },
+  "toronto/hotels/the-anndore-house": {
+    "try": [
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/05/03/1333/YYZJD-P0007-Exterior.jpg/YYZJD-P0007-Exterior.16x9.jpg?imwidth=2560",
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/05/03/1333/YYZJD-P0008-Lobby.jpg/YYZJD-P0008-Lobby.16x9.jpg?imwidth=2560",
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/05/03/1353/YYZJD-P0023-Historic-King-Suite.jpg/YYZJD-P0023-Historic-King-Suite.16x9.jpg?imwidth=2560",
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/05/03/1332/YYZJD-P0002-Social-Dining-Room.jpg/YYZJD-P0002-Social-Dining-Room.16x9.jpg?imwidth=2560",
+      "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2021/05/03/1353/YYZJD-P0025-King-City-View.jpg/YYZJD-P0025-King-City-View.16x9.jpg?imwidth=2560"
+    ]
+  },
+  "toronto/hotels/w-toronto": {
+    "try": [
+      "https://cache.marriott.com/is/image/marriotts7prod/wh-yyzwh-w-toronto-living-room-14849:Wide-Hor?wid=1336&fit=constrain",
+      "https://cache.marriott.com/is/image/marriotts7prod/wh-yyzwh-wow-suite-0001-34562:Classic-Hor?wid=856&fit=constrain",
+      "https://cache.marriott.com/is/image/marriotts7prod/wh-yyzwh-wow-living-area-0003-33341:Classic-Hor?wid=856&fit=constrain",
+      "https://cache.marriott.com/is/image/marriotts7prod/wh-yyzwh-lounge-table-37611:Classic-Hor?wid=856&fit=constrain"
+    ]
+  },
+  "toronto/restaurants/takja-bbq-house": {
+    "try": [
+      "https://images.squarespace-cdn.com/content/v1/6a13621f4570b54dff0e2dee/fda0c2be-aed7-415b-a61a-8c774df822a8/SEC09033.jpg"
+    ]
+  },
+  "toronto/restaurants/linnys": {
+    "try": [
+      "https://linnysrestaurant.com/wp-content/uploads/2024/09/DSC_0276-scaled.jpg",
+      "https://linnysrestaurant.com/wp-content/uploads/2026/04/WBS-63-White-scaled.png"
+    ]
   }
 }
